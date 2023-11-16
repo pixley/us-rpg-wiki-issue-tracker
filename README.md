@@ -1,2 +1,3 @@
-# us-rpg-wiki-issue-tracker
-Issue tracker for Ultra Spicy RPG Wiki
+# Issue tracker for Ultra Spicy RPG Wiki
+
+No code here.  Go to the issues page to see what needs doing.
