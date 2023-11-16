@@ -46,6 +46,18 @@ Certain key items or in-universe documentation warrant pages.
 
 NPCs, enemies, factions, locations, and even party members have profile pages.  These follow templates to communicate basic information before getting into specific knowledge.
 
+#### Calendar
+
+Every session, the current date on the calendare needs to be updated, and any dates covered by that session need to marked for that session.  Additionally, certain major events are also placed on the calendar, such as holidays, birthdays, and major story beats.  A calendar issue should be made for each session played.
+
+#### Media
+
+Some visual media, usually images, need to be uploaded.  This is typically Luyou's responsibility, as she is the one who makes portraits, in-universe documents, etc.
+
+#### Session Summary
+
+Each session is given a paragraph summary on the Session Summary page.  A summary issue should be made for each session played.
+
 ### Closed
 
 For issues closed for reasons other than completion, there are tags to indicate what happened.
