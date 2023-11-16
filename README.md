@@ -58,6 +58,10 @@ Some visual media, usually images, need to be uploaded.  This is typically Luyou
 
 Each session is given a paragraph summary on the Session Summary page.  A summary issue should be made for each session played.
 
+#### Raw Notes
+
+For publicly-shared notes, each session's notes need to be uploaded.
+
 ### Closed
 
 For issues closed for reasons other than completion, there are tags to indicate what happened.
