@@ -1,0 +1,265 @@
+A2S16
+-----
+
+CAVE-IN - Ali, Nilbog, Zaknos, Tetron
+	Alistair rolls a success on the reflex - half damage!
+	Wolf, Krug, and Viola obscured
+	Alistair half-buried, but his hands aren't free
+	Kiruka begins to help Alistair out, freeing him after 4 minutes
+		He is crushed a bit in the meantime
+	Zaknos, Tetron, and Nilbog start trying to clear the way forward
+		Valin too
+Krug and Viola now
+	Viola leaps and tumbles out of the way
+	Krug is stuck and suffocating
+	Viola lights a torch and starts trying to dig Krug out
+	Krug manages to push enough to move rocks that Viola can see, and she exposes an air hole for him
+	While this is going on, heavy chain sounds
+	By the time Krug and Viola start talking, the chain sounds stop with a large crash
+	Kellids riding huge boars show up, Viola immediately surrenders
+	The Kellids find Krug and take his Kellid necklace, and the boars start to dig him out
+	Debate among the Kellids regarding what to do about Krug and his necklace
+	Once dug out, they take Krug prisoner too
+	Viola and Krug are bound, gagged, and ear-plugged and taken away
+Back to others
+	They feel a tremor
+	Digging continues
+	After a decent amount is cleared, Zaknos senses movement from under the rock and quickly digs towards it
+	The movement stops eventually as the last wolf dies
+	Another tremor, though
+	They find Viola's torch and evidence of Krug and Viola having been captured
+	Tetron confronts Nilbog
+		Tries and fails to grab at him
+		"What the heck were you trying to do?"
+		Alistair says that there isn't time for this
+			"I need to make sure we don't have another cave-in"
+		Nilbog apologizes
+	Valin says that since the Kellids know we're there, it may be a good idea to go back and join Marcellus instead
+		Tetron insists that we won't lead Krug and Viola behind
+		Zaknos offers to scout on ahead
+	Zaknos starts to follow the trail
+		He finds additional rail tracks
+		He finds dead bodies and an old cave-in
+			Some people who look like miners, but more that look like mercs
+			Some of the limbs look like they've been snacked off
+		The railways converge at a single point
+		Cave-ins appear to be deliberate and strategic
+		Trail leads toward a back tunnel
+		Tetron and Alistair sneak behind Zaknos
+		Past a morgue of sorts, he spots an area where it looks like the Kellids stopped for a little bit; he calls the others forward to join him
+	Tetron steps forward to look at the morgue
+		Covered bodies on top of a table
+		They're been there a while
+	Alistair notices a thin sliver of light past the morgue
+		It's oddly dark and quiet
+		He moves forward cautiously
+	Alistair sets off a Glyph of Warding
+		It targets Nilbog
+		CRIT FAIL
+		Nilbog is dropped instantly from full health by a lightning bolt
+		Kiruka rushes in to stabilize Nilbog
+			"Do any of you know how to heal?"
+		Tetron gives Nilbog a healing pot
+			"That's what you get.  Don't make me cast it again."
+	They stop to heal
+		Nilbog and Alistair
+Meanwhile, the prisoners
+	We can kind of hear through the gauze they shoved in our ears
+		They're hanging out around Krug
+		They take his shield and inspect it
+		Older male voice sounds really angry, grabbing at Viola's hair
+		Someone else walks up to Viola
+			Voice is female, gently musical
+			Smells of fish
+			She then goes over to Krug
+		A phrase is said
+			[this would have been the passcode to go through the Glyph of Warding]
+		We're laid down on a metal platform that lifts us up
+		Krug and Viola are separated and put in rooms
+		Krug first
+			He's set down
+			They unbind his legs, remove his earplugs and blindfold
+			He sees a yellow-haired woman who's lithe, small, and cleaner than others
+				She's the fish-smelling one
+			She points to Krug's shield and says something
+				Old Kellid man is pissed and leaves
+			She makes a "calm" gesture at Krug
+			His weapons aren't confiscated
+		Viola now
+			Shoved violently into a cell
+			After a while, they pull her up by the hair and clean her off to get a better look at her face
+			Weapons confiscated
+			Chained up by one leg and one arm
+		Back to Krug
+			After a while, a small Kellid woman slides a cup of water to him
+			The angry man returns and sits there with a weapon
+			He speaks broken Common
+				He asks why Krug came in through the back of cave
+				Krug says we're here to find a friend
+				"Who friend?"
+				Marcellus
+				Old man doesn't like that
+				He asks whether he's here to attack
+				Krug says he's trying to bring Marcellus back
+				"Then retrieve him!"  He has a bunch of men outside.  "PAH!"
+		Viola now
+			Someone pulls her hair to stand her up
+			Led somewhere else
+			One of the gauze plugs is removed
+			"Tell Marcellus to leave"
+			Viola explains that Marcellus won't negotiate with her
+			She's told to negotiate or die
+			She is then shoved out into the rain
+Back with other group
+	They move to approach the platform
+	Alistair looks around and finds three more glyphs of warding
+	The tracks lead onto the platform, and then they terminate
+	Tetron knows about glyph of warding
+		They contain sudden bolt
+	Alistair and Zaknos start to work on the glyphs
+		Others back away
+		First cleared
+		Second gets set off
+			Targeting Alistair
+			Full damage
+	Plan to get up the mineshaft
+		The elevator blocks the whole width of the shaft, save for a gap that perhaps Alistair could fit through
+		Tetron can levitate Alistair, then help him up to the beginning of the shaft so that he can levitate up the shaft's vertical surface
+		Halfway up, use rope of climbing
+		Bringing elevator down
+Viola sent out to negotiate
+	Good morning, introduction
+	Viola doesn't know what the Kellids want
+		They want Marcellus to stop attacking the gates and leave them alone and return gatestones
+	Viola relays this, acknowledging that they don't have the gatestones, but they don't respond
+	In an effort to get them to play along, Viola calls out Deadknuckle and admits to getting Teedum arrested
+	This doesn't go over well, and Marcellus calls back saying that the time for negotiation is over
+		He also asks where Valin is, and she responds that he's fine and with the others and the guide
+	Viola acknowledges the hurt between him and Tessra, but she wants to stop the cycle of violence
+	She calls out for Mr. Bilger and tells him that his family is doing well and that they miss him, and that they were very kind to the party
+	She notes that Kreed had what was coming to him, and she apologizes for Marcellus getting caught up in it
+	Final plea from Viola falls on deaf ears
+More interrogation with Krug
+	Old guy says negotiations aren't going well
+	They won't talk to Viola, they'll only speak with "truth-sayer"
+	"What do you know about the stones"
+	Krug admits to us having them
+Back with others
+	Alistair floating up
+	He deploys the rope
+	At the top, he can hear screaming or shouting
+	He peers through and sees a cat-like woman pointing down at the elevator, giving instructions
+	Elevator is controlled by a massive winch; no manipulation without detection
+	Alistair goes back down and reports
+		He gets his new relic gift
+	Tetron suggests ringing the bell and surrendering
+	Valin suggests regrouping with Marcellus
+	Kiruka says that she can call out and try to be friendly
+		Valin objects
+		"I know Tessra can be reasoned with"
+	Alistair suggests that Valin head back alone
+		Option chosen due to him being the most likely to start a fight
+	Plan is to ring the bell to have folks come down
+		Kiruka's opening: party means peace, and they'd like to know where the others are
+	Alistair hides while the elevator descends
+	Elevator lowers partway, then they hear an older angry voice, who shouts out in Common
+		Kiruka responds in Hallit
+			Viola and Krug's names are said
+		After back-and-forth:
+			Kiruka says the party is required to come peacefully (meaning, leaving their arms)
+			Tetron recommends surrendering weapons
+				Nilbog is resistant to giving up his scimitar, on account of its religious significance
+	Elevator comes the rest of the way down
+		Two figures on the elevator, but many people above
+			One angry older man and a lithe younger woman
+		Old man takes a defensive posture
+		Woman is friendly and says "lick" in Common
+			Tetron is confused, but he takes a bow
+		Everyone except Alistair gets on the elevator
+		Elevator goes back up without Alistair
+		They're told to wait for a moment, and Tessra arrives
+			She looks like she hasn't slept in a while
+			"Have you come to bargain or to fight?"
+			Kiruka speaks up, asking if Tessra recognizes her
+				"Auntie?  What are you doing with these people?"
+			Tetron says that we're here to negotiate and for the fighting to stop
+			Tessra says that one of the people outside killed her mother, and another helped, and they were involved in the destruction of her brother's home
+			"We sent the colorful one outside, she failed"
+				"She doesn't really plan things"
+				Viola hears this. "Tetron?  I never thought I'd be so glad to hear you shittalk me!"
+				"They didn't listen, did they?"
+				Tetron asks what they want instead of revenge: Marcellus and Cedrog must die and also return the stones
+					Marcellus gave away Selma's location and Cedrog helped kill her
+					Tetron says he doesn't believe that Marcellus's group has the stones
+						Tessra says the others said the same thing
+	Meanwhile, Krug's interrogation:
+		He admits to having held onto them to keep them from being used for bad things
+		Krug is taken back to the others
+	Krug rejoins and appears completely fine
+		Krug and Tetron catch each other up
+	Tetron says that merely bringing Tessra Marcellus' and Cedrog's heads won't stop the fighting
+		Tetron asks for a conference
+		Krug asks where Alistair and Viola are
+			Krug asks for Viola to be able to join us
+	Viola is kicked in the stomach by the angry old guy
+		Another voice enters and lifts Viola
+		"Don't run"
+		Viola is brought to the others
+	Viola tells Tessra that we share an enemy
+		Does she know about K Ego AS
+Meanwhile, Alistair is sneaking to follow Valin
+	Outside, in the rain, takes a while
+	Valin makes a distinct bird-like whistle, and Marcellus comes out
+	There's also a dude with just an axe and no armor, a pissed balding dwarf man, injured man holding his stomach, smaller man with a crossbow and chewing a toothpick, and a goblin woman
+	The injured man can see Alistair, but he doesn't alert anyone
+		This may be Mr. Bilger
+	Alistair moves up to the injured man
+		Increasing alarm as Alistair approaches, but he stops
+		Can hear conversation between Valin and Marcellus
+			Valin pleads with Marcellus, noting the glyphs of warding
+			"I have no future!"  Claims Valin doesn't understand because he doesn't have anyone else he cares about
+	The injured man whispers for water
+		Alistair motions that he can't approach while Valin and Marcellus are there
+		Alistair considers making some kind of distraction, but he's patient
+Back with the others
+	Tetron and Viola formally offer their aid, noting that they want to capture Marcellus and Cedrog because they want info about the conspiracy
+		Even if we kill them and return the gatestones, Tessra's people might not be out of the woods yet
+Back outside
+	Alistair backs off makes his shrill whistle to create a diversion
+		Valin and Cedrog see him, he runs, activating bracelet of dashing
+		"There's a fucking kid!" Crossbow cocked
+		Confusion ensues
+Back inside
+	Mid-heal, confused shouting is heard from outside
+	Tetron, Krug, and Viola discuss gatestone situation
+		Viola wants to know their plans afterward
+Back outside
+	Alistair heads out wide to double back
+Party prepares
+	One last try to negotiate
+	Viola and Tetron try to appeal to stop the cycle of violence
+	Tetron plays the angle of the conspiracy trying to play Tessra and Marcellus against each other
+	Viola calls out Deadknuckle for not responding to any of the accusations
+	"Do you want to know why your son really died?"
+		"I WILL AVENGE MY SON!!!"
+COMBAT
+	Round 1
+		Viola charges forward and dueling parries
+		Alistair moves up to climb a cliff and then hides behind a tree
+		Cedrog steps up, shoots at Viola, then threatens her (Viola frightened 1)
+		Lumberjack charges up to Viola
+		Zaknos marks the lumberjack as prey, then fires three times, hitting once
+		Tetron delays
+		Goblin climbs a cliff, and then starts to move toward Viola
+		Nilbog triple-moves onto the rail bridge
+		Tetron goes now: Tetron casts illusory object to thicken the storm over the lumberjack and goblin
+		Marcellus charges toward Nilbog
+		Krug moves to join Viola and then takes his shield in two hands
+
+XP
+--
+80
+40
+32
+30
+

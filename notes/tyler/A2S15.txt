@@ -1,0 +1,167 @@
+A2S15
+-----
+
+Combat in the water cave continues
+	Round Five
+		Nilbog waits for Krug or Alistair to get into better position
+		Alistair attacks the more injured of the two creatures surrounding him, killing it, then swims back towards the outcropping with Nilbog on it
+		Creature 2 lashes out at Viola and Alistair, hitting both of them, but her wild third hit is riposted by Viola, which is lethal
+		Nilbog pumps a fat heal into Alistair and casts shield
+		Zaknos fires four shots at the sleeping ape, missing all four times
+		Tetron puts up an illusory scene between him and the big boy to hide himself and Nilbog and then puts up his shield
+		The last remaining creature moves up to Alistair, then lashes out at him and Krug, missing Alistair but critting Krug
+		Krug swims up to the last creature, takes his shield in both hands, and misses a shield bash
+		The ape remains asleep
+		Viola swims over to the outcropping, starts to climb, then takes a parrying pose while on the wall
+	Round six
+		Alistair cuts at the last creature thrice, hitting twice, and killing it
+		Nilbog heals Krug and casts shield
+		Zaknos stows his weapons and starts to climb onto that one ledge
+		Tetron delays
+		Krug swims over to the outcropping and climbs it
+		The sounds of combat wake the ape, which picks Viola up by the head, jumps into the water, and swims away with her
+		Tetron shoots a lightning bolt into the water, hurting Viola more than the ape, then moves closer
+		Viola wriggles out from the ape's grasp and swims to the surface
+	Round seven
+		Alistair starts swimming out towards Viola
+		Nilbog carefully repositions on top of the outcropping
+		Zaknos finishes his climb up to his outcropping
+		Krug leaps back into the water and starts swimming toward Viola
+		The ape surfaces, bites Viola, critting her into unconsciousness, and then bites her again
+		Tetron shoots an acid arrow at the big boi, hitting and applying persistent acid damage
+		Viola is less dying
+	Round eight
+		Alistair swims up to the ape and stabs it
+		Nilbog casts fireball directly above the ape, but it dodges some of the flames
+		Zaknos shoots four times, but only hits once
+		Krug swims towards the ape, then bashes it with his shield
+		The ape swipes at Krug and Alistair, hitting both (Krug glimpses Alistair to prevent the damage), then slashes once more ineffectually, then persistent damage ends
+		Tetron casts acid arrow, but it misses, so he tries to cause a distraction but fails
+		Viola is less dying
+	Round nine
+		Alistair fails to feint, misses a hit, then swims to provide Krug with a better flanking position
+		Nilbog casts fireball again, same result, then fails to hide on the rock
+		Zaknos moves and sets up a rope for folks to climb up after him
+		Krug wades over the Viola, uses lay on hands on Viola (reviving her), then bashes the ape
+		The ape swipes at Krug and Viola (glimpse for Viola), slashes at Krug again
+		Tetron uses metamagic to use telekinetic projectile against the ape
+		Viola feints twice, failing both times, then attacks it anyway
+	Round ten
+		Alistair takes the flanking opportunity to get a killing blow
+It's over!
+	Kiruka and Valin swim over
+	Nilbog shaken by the fact that he couldn't quite keep up with all the damage
+		Relic gift - No More Mistakes
+	Zaknos relocates the rope to the harpy's outcropping and tries to negotiate
+		Harpy mentions that there's one other creature on the level
+			They don't eat the same food as the harpies - they eat metal
+				BLACK PUDDING FUCK FUCK FUCK FUCK
+				They're over at the far end of the cave
+		She wants us to leave
+	Alistair tries to go into the cavern that the ape emerged from
+		Viola warns him against it
+	We ask to chill on her outcropping to heal up
+		Krug has to tow Nilbog along
+	Zaknos asks if the harpy has seen any boats
+		She doesn't even know what that is
+			Viola explains it as a nest that floats
+	Tetron recommends that the harpy go talk to her sisters
+		He tells her that the others don't ever want to see us again, so we can't exactly go talk to them for her
+			This seems to convince her
+	Nilbog starts to heal people
+		Can't help Viola and Krug
+		Success on Tetron and Alistair
+		Success on Nilbog and Zaknos
+Alistair explores the ape's cave
+	Swims past the now-open stick gate
+	Cavern with partially-eaten humans
+		Scattered limbs, potentially severed for specific feeding
+		They might have stuff on them, but Alistair would have to dive for it
+			One of the skeletons is wearing armor, and it looks like there are rings one floor next to it
+			Another has some kind of bracelet
+			A third robed one is holding a flat wooden disk and has a horn strapped to them
+		Is anything dangerous around?
+			Looks devoid of anything else
+		Alistair gets all the jewelry and brings it to Tetron for ID
+		He then drops off all his equipment to then be able to lift the armor
+Magic ID
+	Rings are abjuration and evocation
+		Abj - Unknown, though it is a beautiful ring with a sapphire
+		Evo - Rose-gold ring with an orange skull, a ring of minor arcana
+			Grants the following cantrips: mage hand, detect magic, and prestidigitation
+			Viola takes it
+	Horn is conjuration
+		It's a ram's horn, and it continues to have water on it.  It can be activated by blowing into it
+	Bead bracelet is necromantic
+		Unknown
+		Viola suggests maybe Nilbog should try to ID it
+			These prayer beads might be used by evil creatures
+			They don't have any deity-specific iconography, at least not as far as he can tell
+	Disk is transmutation
+		A staff that can grow and shrink
+		To Zaknos
+	Armor is non-magical
+		It's well-wrought, but he's not sure why it hasn't gotten eaten by the black puddings
+		In Krug's hands, it almost feels a little chillier than his normal armor
+			He swaps it on, his old armor going into Tetron's bag of holding
+	Nilbog breaks the bracelet, and beads scatter everywhere
+		Tetron objects
+Viola asks Valin what the deal between Marcellus and Tessra is
+	Back when their group formed, the group (esp Marcellus) wanted to do good for people, not just work for pay
+		They passed up a lot of good-paying or reputation-boosting opportunities
+		They went around Andoren, Taldor, and the River Kingdoms and helped the problems of poor folk
+			Missing livestock or persons
+			Usually in exchange for food or shelter
+		Valin was content with that life, journeying with his best friend
+		For a time, there was a centaur problem in the Verduran, which was disrupting the people who lived there
+		They teamed up with a leshy, Chantarelle, and took care of the problem, satisfying the people
+		Looking back, though, it seems like it wasn't all good
+			The Lumber Consortium was driving expansion into the forest, which they didn't know
+			Centaurs retaliated enough to where the group had to drive them away
+			But the local Kellids had gotten involved, some of the Consortium folks had died
+			Some shrine of the Kellids' was apparently destroyed, and that got them really riled up against the group, even though they weren't involved, at least as far as Valin knows
+		Not sure why they're targeting Marcellus specifically; the whole group was responsible
+Getting ready to move on
+	There's a barrier in the way with a human-sized hole in the bottom and a gap up top
+		It seems like dead bodies are shoved through the hole for disposal
+		Viola asks Tetron to throw a lit rock through the hole
+			We can only see cave floor
+		Alistair can bend down to see better through the hole
+			Sludge on the ceiling
+			And he can hear a second one
+	Viola knows about black puddings, though she hasn't fought one before
+		Mindless
+		Immune to crits, piercing, precision, acid, mental, slashing, unconscious, visual
+	Plan to get past the puddings
+		Use loose copper to draw them out via mage hand
+		Nilbog contributes his bucket hat to provide more of a lure
+			Can jingle out copper
+		With the help of telekinetic projectile and spout, IT FUCKING WORKS!!!
+Upstairs!
+	Unlit man-made mine
+		Tetron has the light
+	We move forward towards some tracks
+	Alistair smells more dead people and can hear a growling noise
+		Peering around the corner: it's just a dead end
+	We approach the beginning of the track at a two-fork split, and the growling approaches from the fork the track goes down
+		Tetron nixes the light, and the humans grab onto Krug and Nilbog
+	Krug and Nilbog can see three big wolves approaching, similar to the ones from Falcon's Hollow
+		Except they seem to have a stronger bond with the vines, as they're using them to feel around
+	Krug and Nilbog help us split up into flanking positions
+	TIME FOR COMBAT!!!
+Surprise!
+	Nilbog explodes a fireball
+	Humans wait for Tetron to turn on the light
+	Tetron casts light on a rock on the ground and golfs it into the intersection
+	Alistair moves up and shanks the lead wolf twice
+	Nilbog casts fire ray against the middle wolf and shields
+	Viola walks up to the middle one, feints, and finishes it
+	Zaknos shoots at the lead wolf four times and misses all of them
+	Krug moves to flank the lead wolf with Alistair, takes his shield in two hands, and bashes it to death
+The roof caves in above Krug, Viola and Alistair!
+
+XP
+--
+80 - Streaker and ape
+60 - Black puddings
+30 - helping the harpies

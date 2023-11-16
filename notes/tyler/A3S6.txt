@@ -1,0 +1,234 @@
+A3S6
+----
+
+Starday afternoon in Timberfell
+	Viola "good day"s Sirran and walks away
+		He doesn't accept that
+		Tetron tells him that she meant "great day"
+	We keep walking
+		Alistair explains what the other guard told him
+		He leads us to Portia's place
+		Some folks loitering outside
+		Orc asks what we want
+			Viola explains that we're here to see Portia
+			She adds that "the gnome" doesn't like us
+				That helps
+		Portia lets us in
+			She's a ginger human
+			She tells us that she doesn't have anything that she hadn't already told the guards
+				That's fine, Tahseen won't tell us anyway
+			Viola asks her to start at the beginning
+				Portia and her group were patrolling their 9-midnight route
+				Heard a disturbance, but no scream
+					Almost like the sound of sewage
+				Went over and found a collapsed coffinmaker
+					Initially looked like he had passed out
+					They flipped him over to find that his entire front side was melted
+						This is the same method as some of the other victims
+							Others were torn apart
+						Only the side that hits the ground is affected
+			Alistair asks how long ago it was
+				Two weeks ago
+				Dude's been buried
+					One of the more recent victims could still be on-hand
+				All murders have been at night
+					Also concentrated in the lower half of Timberfell
+					Caused popular theory: creatures of the night
+						Viola picks up on Portia's firm rejection of the theory
+							Portia insists that it would be ridiculous
+							Viola informs her that we just fought undead Leslie
+								Portia isn't convinced
+			Tetron considers what kind of creature it could be
+				Probably not something that would have come from a splash weapon or a military-used creature
+				Could perhaps have come from a weapon?
+			There are sewers around
+				Alistair considers the area
+			Viola confirms that the melting and tearing are the only methods of death
+				Seems like the victim melts into the earth
+					Difficult to remove
+			Tetron asks whether there's visual documentation
+				They do have docs
+				She shows us a map of the deaths
+					The attacks have happened north-to-south
+			Alistair notices that the most runoff from rain happens in southern Timberfell
+				Alistair asks whether the culprit being from the river has been considered
+					Tahseen has flat-out ignored the possibility
+						He's focused more on the vampire/creature angle
+							The not having crossed water thing could be a thing
+								Viola is aware that they don't like water
+			We resolve to go check out the scene of the latest murder
+				Portia says that she's coming with us
+	Scene of latest murder - tip of the peninsula
+		On the way, we pass the HQ
+		The scene appears to be an animal stockyard
+		The ground is sludgy
+		Portia leans against the gate and points at the middle of the enclosure
+			They didn't find the victim until the next morning
+			They didn't see any tracks, but it had rained the night prior
+				This was four days ago, and it hasn't rained since
+				Tetron asks if Zaknos could find tracks
+					Zaknos talks himself up, saying that they always leave tracks, but he doesn't find jack shit
+		Tetron asks whether the body had been moved
+			No drag marks or anything
+			Teleported or dropped from above?
+				Eh.
+		Alistair asks whether anything connected the victims
+			Portia says no
+		Zaknos goes into the hay piles to investigate
+			Nothing of interest
+		Alistair volunteers to go check the river to see if there's any evidence in there
+			Tetron says he can swap a slot for water breathing
+			He does
+		Tetron asks Portia where the nearest sewer entrance is
+			She points him there
+		Alistair gets into the water with Viola serving as life guard
+			Scanning near the shore
+				Wood debris
+				Trash
+				Nothing out of the ordinary
+		Could we check the other sites?
+			It's rained enough times that if we couldn't find tracks here, we almost certainly wouldn't be able to find anything
+		Portia comes over to ask if we've found anything
+			Nope
+			Could we see the body of the most recent victim?
+				Sure
+		Other victims' jobs?
+			Young worker folk
+			Three humans, one half-orc
+	To the body
+		At a Consortium morgue
+		It's pretty melty
+			Bones are intact
+		Tetron checks for magic
+			No magic
+			But as he inspects the body closely, he notices that the melty part does follow where the ground
+				The soles of the feet are completely melted, so he could have stepped in it first
+					But they always fall forward...
+		Does anyone use magic?
+			There's "light magic security", according to Portia
+			She doesn't know whether any higher-ups do magic
+	To one of the other scenes
+		Nothing doing
+	We think about how to get into the sewers
+		Portia gets us access to a map of maintenance access points
+		Viola considers whether the sewers run directly under the attack sites
+			How to tell?
+				The Pellsieve!
+Into the sewers!
+	Bottom is 40 feet down
+	Viola writes a note next to the manhole to let people know to leave the cover open
+	Super branchy system
+	Follow the Pellsieve
+	Sound of running water grows louder until we find a broken pipe with river water gushing out of it
+		It's at the end of the tunnel
+	Perhaps there are broken pipes at the other sites
+	Alistair looks for tracks
+		No tracks, but he does see impact and corrosion evidence right next to the breakage
+			It looks like it's been used to go in and out multiple times
+			No evidence of similar damage happening on the ceiling
+	Is there anything alive?
+		Uh...  Yes.
+		There's a face under the sewage
+			Just the skin part of the face
+			Zaknos reaches for it
+				Something grabs him and pulls him waist-first into the sewage
+					It's an eye goo monster
+INITIATIVE
+	Round 1
+		Nilbog casts forbidding ward on Zaknos and the eye goo monster, then casts shield
+		Zaknos goes for the eye goo monster's eyes, taking acid damage in the process, then marks it as his prey, then escapes
+		Alistair jumps across to flank the goo monster and draws his sword
+		Viola jumps to join Alistair's flank, feints against it, then gets a mediocre crit on it
+		The eye goo monster stands up from the water, then slams down towards Viola and Alistair, the latter of whom dodges out of the way of the acidic splash, then slips back into the water
+		Tetron hastes Krug, then gives the monster the scariest glare
+		Krug steps into the water, crits twice, then raises his shield
+	Round 2
+		Nilbog heals Viola and Zaknos
+		Zaknos quick draws both his swords, missing both times due to concealment, then misses a double slash
+		Alistair shanks three times: hit, crit, crit
+		Viola feints, misses a normal strike, then hits a finisher
+		The eye goo monster stands back up, then swipes at Nilbog and Krug, who both fail to get out of the way (but Krug Glimpses the damage against Nilbog), then moves past Viola and Alistair
+		Tetron hastes Alistair, then moves to cast more light on the situation
+		Krug moves into the sewage, crits twice, then gives the monster the scariest glare
+	Round 3
+		Nilbog casts fire ray and hits (it resists fire a bit), then casts shield
+		Zaknos moves up to the monster, double slashes (hit and crit), then misses a last attack
+		Alistair shanks three times: hit, hit, miss, crit; crit kills it
+After combat
+	The eyes dissolve into foam, and the goo washes away, leaving behind some kind of tag or card
+		The card has employment info
+		It's in Old Taldan
+		It's for someone who worked as a Taldan guard
+		It's old and water damaged
+		Ianus Mallea is the name
+		Dated to back before Cheliax existed
+		Not magic
+	The manhole has been left open, but someone scuffed the note
+	Portia is there
+		We tell her what happened
+		Since the monster dissolved, we don't really have proof of it dying
+		Portia says that next time it rains, if no one dies, then we get paid
+		We mention the broken pipe
+			There might be others near the other attack sites
+		Tahseen approaches and yells at us for going into the sewer
+			He claims he found the killer: a vampire
+			We tell him about the monster, but he doesn't care
+			He insists that he's right
+		Portia says that it'll be difficult to prove that she's not a vampire, because she is one
+			She pulls us aside to explain that the Consortium hired the vampire to investigate the first attack
+			But this is private info
+			They pinged Beltracci to get her services 
+		Tetron starts reallocating spells
+			He decides to head toward the Keep to check whether the vampire has been grabbed
+		Zaknos buys some corn on the cob
+	Viola runs off towards the vampire's house
+		Alistair follows
+		We see him at the far end of the bridge telling a guard to look out for the vampire
+		We meet a young adult half-orc on the spectrum
+			He's the vampire's brother
+			She isn't home
+			He didn't even know about the murders
+			He knows about Beltracci, and she's probably at his hideout
+			Viola tells him to warn his sister to keep the fuck away from the cops if he sees her
+			We duck out before Tahseen shows up
+		We decide to meet back up with the others and head to the university
+	At the University
+		We ask around for directions to creature studies
+		We need Tetron to let us into the library
+			Taranis shows up
+				This is where 
+				Viola explains the situation
+				He flies back to Tetron
+					Taranis keeps a lookout to see if Tahseen comes by the Keep
+		Tetron shows up
+			He lets us in, but he can only bring two guests - he chooses Viola and Alistair
+			We look for books on oozes (Tetron), eye monsters (Viola), and just anything that seems relevant (Alistair)
+				Tetron does find a bunch of books on oozes and acidic stuff
+					Info overload, unfortunately
+					Can't find anything
+				Viola is just completely overwhelmed
+				Alistair finds a book on religion that mentions entries related to people who have part of their mortal being still on the material plane
+		Meanwhile, outside with Krug, Zaknos, and Nilbog
+			Zaknos is still eating his corn on the cob
+			Krug suggests that they should try to be helpful still
+				Zaknos says that they're doing all they can do
+			Various students and faculty pass by
+		Back in the library
+			Tetron decides to look into the history of the troop of which the guy on the card was a part
+				They were common land-based guards
+				They were stationed around various cities in Taldor's prime
+					Probable that the guy was stationed in Almas before it was even called that
+				Alistair suggests that there may be some kind of magic that could read into an object's past
+					Tetron considers this and recalls the existence of the occult spell object reading
+					We'd need a bard or something
+					With that spell, we'd be able to prove that the goo monster did the murders
+					Tetron says that we should take this to Tahseen's boss
+	To the Keep
+		A no-nonsense catfolk woman is Tahseen's boss
+			We explain what happened with the goo monster and that Tahseen is looking to seize an innocent person
+			She takes the card and says that they'll start looking into it
+			They won't need to contact us, since payment is through the Consortium guard
+
+XP:
+80
+30

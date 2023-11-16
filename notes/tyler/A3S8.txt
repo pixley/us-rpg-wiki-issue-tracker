@@ -1,0 +1,255 @@
+A3S8
+----
+
+Sunday, late morning
+Tent'lund
+	Viola is still talking to Boring
+	With everyone else
+		Viola has just run off
+		Krug is trying to catch up
+		Alistair keeps looking for goblins
+		Zaknos finishes asking around
+		Krug catches up with Viola at a field outside Tent'lund
+			Viola is sitting on a stump, Boring hasn't approached, but she hasn't noticed the others approaching
+			Viola gestures at him to head back and that she's got it
+			Zaknos catches up to Krug
+				Krug pulls him aside to keep him away
+		Alistair scans the various thoroughfares and such looking for a tent large enough to contain pigs or goblin paraphernalia
+			He hadn't heard the info that Zaknos got
+			Tent'lund is labrynthine, and he patrols desire paths he finds
+			He does find enough goblin-esque tents spread out to where it's not a super useful distinguishing feature
+			He does eventually smell the scent of roasting pig
+				He finds a pit roast
+			He checks the area
+				He sees a wheelbarrow
+					Folks around here wouldn't be able to afford a wagon
+				It's a cluster of ten or so smaller tents
+					Some are ramshackle
+					Arranged in a semi-circle
+					Definitely tents sized for small ancestries
+				There are ten or so goblins around
+				Are there signs of human belongings or potential burial sites
+					Some stuff here is obviously newer than others
+						Including the central tent
+						Other stuff is grimy
+					He doesn't see any evidence of humans
+				Lack of evidence - moving on
+	Viola asks Boring for her story
+		Boring isn't comfortable sharing with someone she barely knows
+		Viola offers to share her story instead to help her be more comfortable
+		Afterward, Boring gives her account
+			She says that she aspires to be nothing; not friends with anyone, not enemies with anyone, not important
+			Came from Isarn, Galt
+			Lots of bad energy there and people with weird limbs
+			Preacher who's really bad has a posse
+			She left for a smaller village [NAME?]
+				People there would turn into creatures of flesh and bone
+		Viola asks if the preacher is Jericho
+			Boring supposes so, but folks just call him the vicar
+			Viola explains that he's a major part of the group the party is looking for
+		Boring starts to get agitated with all the questions, demanding only two more
+			Has she been directly attacked?  No.
+			Why does she not want friends?
+				She has seen the results of sharing info
+				Some of her friends tried to escape, but they were sold out and killed
+				She left on her own, telling no one, leaving everything behind
+	Viola reconvienes with the others
+		Explains that she's going to arrange passage for Boring
+		Not much new info about the Aegis Coalition
+		Have time to help with the goblin search
+	We find Alistair
+		Just around the place that Zaknos was pointed to
+		Plan of approach:
+			Zaknos can speak Goblin, so they might be more amenable to him (Viola's idea)
+			Krug goes along with Zaknos
+			Alistair will use the distraction to sneak around to search through their shit
+			Viola finds an excuse to not look like she's loitering
+				She finds a group, including a smallish orc, playing Go Fish
+	Zaknos enters
+		He remembers that Goblin society tends to have elders as leaders of sorts
+		He starts to walk past one of the tents, he's stopped by one of the goblins, saying that he should avoid the entrance to one of the tents
+		Dude asks what Zaknos wants with his clan
+			Zaknos responds in Goblin, complimenting the setup and that he can tell that the clan has a strong leader
+			Dude is the leader: Joknok (Clan's name is Grig)
+			Dude mentions that one of the other tents is where to get the meat
+			Joknok warns him about a repeater crossbow trap and to watch his step around
+			Krug mentions that he wants to try something: could he ask if they have special meat?
+				They have cooked pork, fresh pork, and whole pigs
+				Zaknos says he's looking for the real nasty shit
+					They have that in the main tent
+					Joknok gestures for the trap to be disarmed and then invites Krug and Zaknos in
+					As they enter, Joknok points out a whole bunch of locations where they shouldn't touch
+					Joknok pulls back a screen to reveal cuts of meat
+						Haunches (where the branding would go) and heads are missing
+						"We've got premium cuts", delivered just the other day
+							How recent?  "Quite fresh."  He licks off blood.
+								Zaknos also tastes the blood.
+						Krug looks for brands
+							None at all
+							He asks about those
+								Joknok says that, as leader, the butts are for him
+									Sense motive!  He's lying.
+		Meanwhile, with Alistair
+			He hears a rattling sound and a squeak from one of the tents
+				"Shut up!"
+			He makes his way over
+		Viola is dealt in
+			2 cp wager
+		Back in the tent
+			Zaknos asks if they could pay "generously" for the good stuff
+			It's being roasted right now
+			Zaknos says that he enjoys watching it go
+			Dude removes the butt from the pit and unwraps it
+				It has the brand
+				Wraps it back up
+			Zaknos says that now he knows where to find the good stuff, so he'll come back
+				As long as the whoever makes contact speaks Goblin, they can make a deal
+				They don't expect to have more stock in any time soon
+				Note: None of the pork sold comes with the blood
+		Alistair inspects the tent
+			Vague shifting sounds of someone on metal, grunts of pain or frustration
+			Someone else beats iron bars
+			He can hear similar noises coming from an adjacent tent
+		Zaknos and Krug leave the tent
+			Zaknos explains what Joknok told him
+			They saw the mark
+			Zaknos was trying to urge them to get more in for evidence
+			Krug suggests that they do buy something
+				Zaknos asks aloud where he could get some sandwiches
+					Another goblin comes out and says that they don't sell, and that they were closing up
+		Alistair takes advantage of the distraction to peek into the tent
+			He sees a dude sitting on the ground facing away from him
+				Dude is missing most of his clothes, and is shivering
+				He turns around, acknowledges Alistair, and says nothing
+		Zaknos asks what else they can get?
+			Goblin says that they can get lost
+			Krug loudly asks what they're doing with stolen pork
+LESLIE FIGHT
+	Round 1
+		Otto steps back and casts heal (half damage)
+		Nilbog casts heal three times (full damage, half damage, double damage)
+		Leslie heals a bit of the damage she's taken, then swipes at Nilbog (hit), grabs him, then drains Nilbog's life energy (doomed 2)
+		Tetron uses his relic to Step and cast Lightning Bolt (half damage) only to hit her, then swings his staff at her (hit), killing her
+			The lightning bolt blows a hole in the Hoyert's house
+	Round 2
+		Otto moves up to Leslie and starts offering a prayer
+		Nilbog takes a breather
+		Leslie's mouth opens wide and rises again, then swipes at the priest three times (crit, hit, miss)
+		Tetron casts Lightning Bolt again (half damage) and backs up out of scream range
+	Round 3
+		Otto AoE heals
+		Nilbog casts calm emotions (failure)
+	One minute gap
+		Nilbog and Tetron lock the doors
+		Nilbog casts forbidding ward to protect Tetron
+		Tetron hastes himself and Otto
+		Nilbog battle medicines Otto ()
+	Resume fight!
+		Otto moves to get LoS on Leslie, then casts Heal (half-damage)
+		Nilbog moves to get LoS on Leslie, then casts Wall of Fire to try to contain her in the kitchen
+		Leslie runs through the firewall (taking fire damage) and up to Nilbog, then bites at him (crit)
+		Tetron steps up, then reach-spells to cast Invisibility on Nilbog
+	Round 5
+		Otto casts a three-action heal to heal himself and Nilbog and damage Leslie, and then retreats behind Tetron
+		Nilbog moves to invisibly put out the fire with his bucket hat
+		Leslie moves near Tetron and Otto and shrieks (Otto crit saves, Tetron fails)
+		Tetron casts Animated Assault on Leslie (crit fail), then retreats behind Otto, then casts Shield
+	Round 6
+		Otto casts his last heal (half-damage), pulls out his longbow, then shoots her (hit -> kill)
+GOBLIN FIGHT
+	Round 1
+		Krug loudly asks where the goblins took the people ("Wouldn't you like to know, you fucker?  We stole it, that means it's ours!"), then he says that they'll have to pay back for what they stole, then two-hands his shield
+		Viola excuses himself from the game and sprints to the scene
+		Joknok runs up to Zaknos, yells at him for being a traitor, then stabs at him (crit, but Glimpsed (enfeebled)), then runs back into the tent
+		Old lady goblin inspects Krug to look for a weakness (fails), draws her dogslicer, and moves up to Zaknos
+		Alistair draws his weapon, opens the rear of the tent, then sneaks over to the tent goblin
+		The tent goblin picks up a chest next to him, moves over to Krug, and then swings the chest but donks off the shield
+		PIG GOBLIN TURN PASSED
+		Zaknos marks the old lady as prey, quick draws against her (miss), then quick draws his other sword (hit)
+		Tent next to Alistair opens to reveal a goblin child, who sprints over to Krug and shouts a song at him (success)
+	Round 2
+		Krug bashes at the tent goblin twice (hit, hit), then raises his shield
+		Viola runs up, tumbles past the tent goblin, then uses a finisher (hit)
+		Joknok moves up to Zaknos, then slashes twice (miss, miss)
+		Old lady moves into flanking position, analyzes Zaknos for a weakness (success), then stabs (miss)
+		Alistair moves to flank Joknok, then stabs twice (hit, hit)
+		The tent goblin swings the chest at Viola (crit miss, RIPOSTE), then runs into a tent
+		Pig goblin emerges from the main tent right behind Alistair, stabs at him twice (miss, hit)
+		Zaknos double-slashes at the old lady (hit, hit), asks if they want to stop the bloodshed, slashes again (hit -> kill), then claims that he didn't want to do this (failure)
+			Death causes the rest of the goblins to wail in sadness
+		Goblin child throws a junk bomb at Zaknos (hit, persistent bleed 2 on Zaknos), then screams and cries
+	Round 3
+		Krug bashes at Joknok twice (miss, hit), then raises his shield
+		Viola tumbles past pig goblin, uses a finisher (miss, damage anyway), then dueling parry
+		Joknok moves to flank Alistair, then slashes at him (hit), then retreats into the tent
+		Alistair stabs at the pig goblin thrice (hit, hit, miss)
+		Tent goblin escapes out the back of the tent he hid in
+		Pig goblin retreats into the tent, slashes at Viola twice (miss, crit miss -> riposte miss)
+		Zaknos shouts that there are traps inside the main tent, approaches the goblin child, grabs at her (success), then puts his sword to her throat (demoralize success)
+			He does not recover from persistent damage
+		Goblin child says that she's not afraid to die for her clan (she's afraid)
+	Round 4
+		Krug scolds Zaknos as he walks into the tent, takes a crossbow bolt from the trap, bashes at the pig goblin (hit -> KO), then moves out of the way back toward Zaknos
+		Viola tumbles past Joknok (success), setting off a sand trap, uses a finisher (miss, damage anyway), then dueling parry
+		The crossbow trap shoots the pig goblin, killing him
+		Joknok quick-deploys a snare at Viola (success -> crit success)
+		Alistair enters the tent to flank Joknok, stabs (crit), then backs out of the tent
+		Zaknos picks up the child goblin and brings her into the tent up to Joknok and insists that we can stop this (failure)
+		Goblin child attempts to escape twice (fail, fail), then bites at Zaknos (miss)
+	Round 5
+		Viola berates Zaknos for taking a child hostage, and then apologetically asks for Joknok's surrender
+		Krug walks over and shakes his head at Joknok
+		Joknok asks to be killed
+		Krug tells him to stay for his daughter and to pay back his crimes
+		Joknok surrenders
+After Leslie fight
+	Otto casts 5th-level Gentle Repose on Leslie's body
+	Nilbog finishes putting out the fire
+	Harrison and Wendy are outside crying
+	While Tetron and Nilbog clean up, Otto goes outside to explain the situation to Harrison and Wendy
+	Tetron says that they could either finish cleaning up, or they could use Invisibility to nope out
+		Nilbog says that he doesn't feel good about dipping after taking Wendy's money
+	Nilbog goes outside to talk to the family
+		"Sometimes, in life, there is death."  "She's had enough."
+		Harrison can't afford the second attempt anyway
+After Goblin fight
+	Goblin child goes over to her dad
+	Alistair goes to free the prisoners
+		Easily picks locks
+		One prisoners is conscious, the other is not
+			Dudes are super pale and sunken-looking
+			They're covered in small pricks in sets of two
+			Conscious one thanks us
+	Krug asks what all they did with the pigs and prisoners
+		They sold and ate the pigs
+		Prisoners are alive
+			He claims that they didn't do anything to harm them
+		What do they do with the pigs' blood
+			Payment
+			They hired someone in town to help with a territory dispute
+				The person understood that they couldn't pay in coin
+				Their own pigs weren't enough to give enough blood, so they stole more
+		The lady who protected them also takes the prisoners' blood
+		Is the debt paid?
+			No, a few more gallons are owed
+	Viola asks why they didn't just use the blood in the slaughterhouse
+		Stuff on the floor is tough to scoop up and not clean
+	Alistair's rummaging through tents to find cool stuff
+		Various knick-knacks
+		Very little money
+		A lot of pork
+			What to do with it?
+				Take it back?
+				Use some to help the prisoners
+	Alistair goes to fetch some guards
+	Krug feels bad for Joknok and Ossa
+		They still have debt, they've lost family, they've been caught red-handed
+		It may be better for them to leave
+		Viola interjects that this could create problems for the party with the cops
+			Krug is willing to risk the loss of reputation
+			Viola backs down
+
+XP
+--
+40
+80

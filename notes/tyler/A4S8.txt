@@ -1,0 +1,326 @@
+A4S8
+----
+
+Battle continues
+	Round 2
+		Tetron moves as he casts cone of cold, with two bandits taking the full force
+		Iris stands up (provoking an AoO from the big guy on the way up, miss), intensifies vulnerability, then retaliates with a successful strike
+			Dude claims that it barely hurts
+		Alistair shoots the guy farthest from the party (hit then miss), then tries and fails to hide
+		Big guy pulls a flask (provoking AoO from Iris, hit) and chugs it, but it doesn't seem to have any combat effect, then tries to heave one of the barriers at us (Iris fails, Krug succeeds)
+			That AoO did hurt him, apparently
+		Krug rages, strikes the big guy, then raises his shield
+		Viola steps to set up a flank with Iris and Krug, feints past big guy's defenses, then delivers a blow
+		Bandit next to Iris attacks twice (hit and miss), then frightens Iris
+		Distant bandit loads an alchemical bolt into his crossbow and fires it at Tetron, critting, then grabs another piece of ammunition
+		Bandit close to Alistair expresses concern that fighting a party with a child would be really bad, then fires at Krug, missing
+	Round 3
+		Tetron moves toward Alistair, then casts heal on himself with his staff of healing
+		Iris intensifies vulnerability, then attacks twice (hit then miss)
+		Alistair fires twice at distant bandit (two hits), killing him, then hides
+		Big guy goes to chug another flask, but Iris's AoO interrupts him with death
+		Krug moves to flank the bandit with Iris, then misses an attack, then raises his shield
+		Viola tumbles past the bandit, grazes him with a finisher, then takes a defensive pose
+		Bandit among Iris, Krug, and Viola attacks Viola twice (hit then miss), then tries to rally the other remaining bandit, Leonid
+			Tetron recognizes Leonid's name: Zaknos's brother; he calls out the mutual friendship
+		Leonid asks the other bandit to lay down his arms
+Battle over
+	Leonid approaches Tetron
+		Hasn't seen Zaknos since their parents split
+			How is he?
+		Tetron says that he knows exactly where Zaknos is
+			But due to the current circumstances, can't exactly trust things
+		Leonid explains his situation
+			Was a guard in Galt, but got kicked out for being crap at it (despite being mind controlled)
+			He joined up with Urumir the Scorned because he was the first strong person he came across
+			He apologizes for stealing from Mosely
+				First taste of power in a long time
+		Tetron: Is anyone from Galt following?  Would Zaknos be in danger?
+			No more than anyone else is chased for trying to leave Galt, but left alone after crossing the border
+	Iris asks what Kien's deal is
+		They've been together for a few weeks
+	Alistair helps Mosely up
+		Complaining about his wares being broken
+		Iris says that Kien's life is up to Mosely
+			He demands death
+			Kien says that he can help escort Leonid
+				But this is kind of BS
+			Viola suggests that this could be handled better
+				Lots of arguing
+					Including Mosely suggesting force-feeding dude infinite baked beans
+				Some lying on Kien's part, but Viola calls him out
+				Eventually offers to be a turnip farmer
+	Tetron summons Chimpy
+		Get Leonid to Zaknos and Kien to Nilbog
+		Chimpy appeals to Kien
+			"As a former aspiring piece of shit myself..."
+			Kien is on board
+		Tetron asks if Zaknos could come out here
+			Chimpy is cool with that
+		More arguing
+			Eventually, throw Kien in the pit to keep him still until Zaknos arrives
+	Sales pitch from Mosely
+		Lip balm that helps persuasion
+			Viola wants it
+			Tetron asks if it could be a gift for saving him
+				Sure
+		An item that is either an ethereal oar or a rock that excretes ether
+			Krug buys it
+		He wants help with a new item
+			We need to capture lightning in a bottle
+			The jar is huge
+		Tetron asks if he has any rations
+			Yes, but it's formulated for ratfolk
+				It's oats and stuff, though, so it's fine
+			Tetron and Iris buy some
+	Tetron is curious about how Mosely was carrying the jar
+		He made a special modification to his bag of holding
+			He offers to sell it to us, but it's grody
+			Instead, Tetron tries to get a look in an attempt to start a reverse engineering
+				Mosely notices and offers to sell him the secret (and the needle tool) instead
+	Mosely asks for reviews for the items we bought last time
+		Krug doesn't remember the time during which he was wearing the boots
+		Viola reports the birthday surprise not working so well
+	Loot from the camp
+		Some healing pots
+			Iris chugs them
+		Octopus potion
+			Tetron takes it
+		Levitate but better potion
+			Tetron takes it
+		Urumir has a coin purse with 34 gold in it
+			And several cigars
+		Other dead bandit has some concealed knives
+Back to camp
+	Iris and Krug notice that Kadiha and Margot have weird expressions
+		It looks like they were arguing
+		Margot's holding a feather but tucks it away when the party arrives
+			The feather looks like it belongs to Taranis
+				Krug informs Tetron
+		Can Margot do something with the feather?
+			Some spells require something from the target creature
+	Tetron immediately confronts them
+		Kadiha greets him as though nothing's wrong
+		Margot mouths something to Tetron
+			He can't read lips, so he messages Margot to ask what's up
+				Margot says that we should stay back, as Kadiha is dangerous
+		Tetron reports what happened with the bandits
+		Kadiha offers to take first watch
+			Krug volunteers to watch with her
+		Tetron messages Margot as to when and where to talk
+			It needs to be when Kadhia is actually asleep, not just pretending
+	First watch
+		Krug keeps watch and also pays attention to Kadiha
+		Krug makes conversation
+			Kadiha mostly stays in the city, but she's glad to be back in nature
+				She's Kellid
+				Was taken to the city
+				Krug: Whereabouts?
+					Verduran Forest
+		Kadiha asks about how we met
+			Falcon's Hollow around the time of "all that chaos"
+			She acknowledges Kellid involvement at the time
+			Krug brings up Teedum and Kreed
+				She knows the names, but she has no personal experience with them
+	Iris has a vivid dream
+		She stirs in her sleep
+		17 playing cards swirl about her
+			She grabs out at one
+				It's an old man leaning on a stick, face down
+				She hears the faint sound of a chariot rolling away
+	Second watch
+		Alistair and Iris
+		Iris considers her dream
+			She has a vision of a group drawing cards, with 17 cards remaining
+				Laughter, voices that she doesn't recognize
+			The card she drew, The Hermit, represents isolation and withdrawal when reversed
+		Distant sound of approaching flapping
+			Taranis arrives
+				Carrying a piece of parchment
+					It's a letter from the guy
+						He apologizes that the doll disappeared, which means the curse got passed
+	Third watch
+		Tetron and Viola
+			Tetron asked Viola to come along for the conversation with Margot
+		Before he goes to bed, Alistair sneaks up to Kadiha and determines that she isn't asleep yet
+		Tetron checks on Taranis
+			Looks fine
+		CORRECTION - Spelled Khadija
+		Tetron messages Viola to tell her about Khadija's potential duplicity
+		Timpani notices that the eye of Iris's rapier is open
+			It thrums with power
+			Tetron realizes that it's probably due to this being a day of power for Arazni
+				It also thrums in time with Iris's movements
+					Might be dream stuff
+				Probably better to leave it
+		When to talk to Margot
+			Alistair isn't up to check Khadija
+			We can see her from here, but unsure
+			Tetron messages Margot to wake her and ask whether 
+	Convo with Margot
+		She found Taranis's feather on Khadija
+			She suspects that Khadija is trying to gather as much info as possible on us
+		Khadija has been assigned to her for multiple years
+			This has made her job difficult
+			Her options have become very limited
+		Viola: what's Khadija's background?
+			Kellid from Taldor
+			Came into family's service as an adult
+		Tetron asks how he can even trust her, given that he sees her as an enemy of his homeland
+			Margot claims to not be against Taldor
+			Has much more interest in fringe groups than the actual Taldan gov't
+				More of an anti-corruption thing
+			Where does she fall in regard to Eutropia?
+				Publicly, her family was neutral
+				Privately, her family supported the loyalists
+				She prefers Eutropia
+			Tetron presents his Lotheed insignia and tells her that he also has a background in intelligence
+				She produces a brooch of House Baylen
+					They're based in Cassomir, but they have other connections
+					She's marrying into that family
+					Tetron recognizes the house: they live in the same area that Tetron's mother is from
+						They rose to power by playing both sides
+							Switched sides from loyalist to rebel when the tides turned
+						Head: Countess Zandriel
+							Her son: Viscount Arando
+								Big braggart
+								Thinks himself politically savvy
+								Kind of a kiss-ass
+				Margot says that Arando as her husband will be great for her job
+					He hears a lot and he's a blabber-mouth
+		Tetron: How does Khadija sleep so little?
+			She doesn't know
+		How to approach confronting?
+			Viola would like to not attack her in case she's innocent
+			Margot: Also problematic due to Khadija sending correspondence back to Almas
+		Viola: Does Khadija know you took it from her?
+			Yes
+			She chided Khadija for picking up random feathers off the ground; it's unsanitary
+		Tetron burns the feather
+		All done
+Wealday morning
+	Iris wakes up feeling like Arazni accomplished something
+	Tetron messages Iris to ask about the eye on her hand
+		She tells him about her dream and the accomplishment thing
+		Tetron fills Iris in about Khadija
+	Have to keep up deniability
+	Around midday, Alistair notices an alcove with candles in it
+		It's a roadside shrine
+		Viola recognizes it as one to Alseta
+			She asks to stop
+			She has Timpani take a look
+				She scurries around and reports that the magic here is good, which is a good sign
+Wealday night
+	Watches:
+		Iris and Khadija, Tetron and Krug, Viola and Alistair
+	Second watch
+		Tetron asks Krug about the Khadija situation
+			Tetron walks him through Margot's issues
+			Krug tells him what Khadija told him about her background
+			Could the 'K' in "K Ego AS" stand for "Khadija"?
+				If the 'S' in "S Ego AF" stands for "Sloane", then probably
+			Krug: How much do you trust Margot's word?
+				Tetron: Viola felt good about it
+			Krug: Could we even get any info out of Khadija?
+				Could get into her things
+			Tetron mentions his idea to fake a confrontation against Margot
+			Krug wants to give Khadija the opportunity to come clean before attacking
+				Tetron: Might have to attack first, but definitely not kill before gathering info
+				Krug suggests confronting Khadija about the feather
+					Tetron: Can't implicate Margot
+						Can't blow her cover
+	Third watch
+		Viola fills Alistair in
+			He volunteers to rifle through her shit
+			But she's in the wagon tonight, so no dice right now
+Oathday
+	Completely uneventful
+	Looks like it should rain soon
+Fireday
+	Coming up upon Giant's Teeth
+	Sounds of wildlife have started to pick up
+	We arrive at a pass
+	Travel slowed somewhat by rain
+	Tetron messages around to call a team meeting at third watch
+		One of us will (the person who takes watch with Khadija) not get a full night's sleep
+	Khadija hears something
+		Sound of wolves, perhaps dozens of packs
+		"How amazing to watch them hunt"
+		Krug: Do you think they'll bother us?
+			No, unless something were to bring them directly
+			They know better
+		She mentions that there's a legend about the area
+			Krug has no idea
+			Site of a great battle long ago
+			Said to be haunted by the spirits of the large creatures involved in that battle
+	Khadija asks Krug why we travel with a child
+		He has a lot of desire to adventure
+		Lots of promise
+		Very capable and valued by the group
+		Not a burden at all
+		She looks him over
+			Asks how old he is
+				Krug doesn't know
+				Why does she care?
+					Looks to be about the age when young Kellids prove themselves in the wilds
+						Krug: Have you done that?
+							No
+							One of the few traditions that she respects
+			She considers him less of a child and more of a capable fighter
+		Krug compliments her reverence for nature
+			It does what it wishes, regardless of what mortals put upon it
+			She sees value in those who do what they must on account of their nature
+				This reminds Krug of Amos's philosophy
+					Krug mentions this
+						Krug catches flashes of surprise, recognition, and determination
+						But she only says "hm, interesting"
+						Krug asks if she knows him
+							She does
+								Has done business with the Maceras on occassion
+								Krug: Small world
+	Krug: I feel like there's something more to this trip than you're letting on
+		You don't seem like someone who would just be a handmaiden for a dignitary
+			Khadija: I work for who pays me
+				Krug: Who?
+					Khadija: The Maceras, of course
+		Krug: It seems like you didn't need us to begin with
+			The more protection the better
+			Also, wasn't her call
+			Simply tasked with personally seeing to Margot
+		So this is just a job for you
+			Yes, for the past few years
+			Can't complain
+		Do you take jobs that take you round these parts
+			Used to be a merchant's aid
+				Interfaced with Amos a few times
+					Doesn't see eye-to-eye with him on some important stuff
+						Krug: 
+					Brought together through mutual connections
+					She finds it difficult to work with someone who places family above things that she considers to be more important
+						Krug: the greater good?
+							Something like that
+							The idea that this place, these people, exists unnaturally
+								The sooner that mortals return to living naturally, the better
+									Krug: very Kellid of you
+										Surprised that whoever took her from her birthplace allowed her to learn that sort of stuff
+										Khadija: what do you know about nature?
+											She draws something in the dirt at her feet
+												It's a diagram of the planes
+												She points to the planes where the gods live
+													Natural things: air, water, food growing
+													But other things, like Viola's drive to perform are also natural
+													What's unnatural: Our ability as mortals to choose
+														For a long time, there were prophecies that guided our lives
+														This died with Aroden
+														Humanity is suffering under the yoke of being the sole navigators of their faith
+														Krug: Do you think that was influenced by your own lack of choice in life?
+															Perhaps, but it's more that the planes are out-of-balance
+														Krug: Choice is empowering
+															Khadija: Choice is scary
+
+Next time: party chats during third watch
+
+XP
+--
+80
+30

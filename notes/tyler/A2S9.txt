@@ -1,0 +1,156 @@
+A2S9
+----
+
+In the underpass
+	As Gregory (the wolfkin thug) falls, Viola receives a branding of sorts on her chest
+	She hears "father" in Gregory's voice; she thinks it's a curse
+	Nilbog can't stop it, but he can reduce the swelling
+	Viola tells Zaknos and Nilbog to go on ahead
+	Viola calls for guards, they start interrogating her
+At the market
+	As Alistair continues to track the cart, Krug and Tetron secure the unconscious thug (Jeremy)
+		They manacle him
+At the docks
+	Both carts begin to approach the docks
+	No workers visible
+	Several figures standing around
+	Suspiciously quiet
+	Alistair begins to sneak around toward the dock building, while trying to keep pace with the cart
+		He gets noticed by one of the people
+	Tetron asks Zaknos where Viola is
+		He talks about the curse
+		"She'll be right behind us."
+		Nilbog looks troubled
+	Alistair pops potion of invisbility and makes a break for the dockhouse
+		One of the thugs notices Alistair missing
+		Alistair throws his grapple up to the loft; it makes a noise, and the guy notices, but he can't see where the noise came from
+	Tetron makes Krug invisible, and that group of four approaches
+		Krug takes true lead, Tetron takes visible lead
+	Remora, the mage from before, a hunched black-haired woman, and a pretend foreman
+	Zaknos claims being lost, the thugs don't buy it
+	Roll initiative!
+		Krug recognizes Appleslayer, a white dog, that is barking to keep the carts at bay
+			It has taken crossbow shots from Remora's gang
+		Alistair shanks the fuck out of the mage, he slumps out the window, his staff clatters to the ground
+			Woman out front is dude's brother, apparently
+		Alistair jumps out the window
+		Tetron casts lightning bolt against two of them
+		Nilbog casts fireball against woman and Remora, but they both crit save
+			The building gets burnt
+		Krug smacks woman with his shield really hard, then raises it
+			Woman smells like a dog
+		Remora chugs a healing pot and tries to demoralize Tetron
+			"Even if you kill us all, you'll never stop us"
+			It doesn't work
+		Woman snarls and tries to bite Krug
+			Hits, Krug has to Fort save
+				He fails, but doesn't know the effect
+			She grabs him and flails him
+		Zaknos runs over to Appleslayer and carts and tries to warn the cart drivers
+			The carts start to turn away
+		Dude on the pier draws his weapon and enters the ship
+	Top of the round
+		Alistair makes a running jump down to the pier and sees the "foreman"
+			Screams coming from the interior
+		Tetron hastes Krug and pulls back
+		Nilbog casts fireball again with the same targets, both fail the save
+			The dead mage's body is starting to catch fire
+		Krug takes everstand stance, then starts bashing the woman with the shield, hitting once
+			Puss starts coming out of Krug's arm
+		Remora runs up to Nilbog and tries to stab him, hitting him twice (one crit)
+		Bitey woman howls and fails to bite Krug
+		Zaknos pulls his bow, marks the bitey woman as prey, and then fires at her
+			BOOM HEADSHOT, and her body gets pinned to a beam
+			Second shot goes toward Remora, but Nilbog has to dodge the errant shot
+		Viola arrives, screaming about the curse when you kill them
+	Top of the round
+		Alistair makes it into the ship
+			Dudes tied up, one guy dead, a red haired woman trying to treat a person who has lost their leg, the "foreman" has a machete
+			THERE'S A BOMB ON THE SHIP
+			Alistair attacks the "foreman", second hits
+		Tetron recasts lightning bolt against Remora
+			She dodges
+			He gets into flanking position with Nilbog
+		Nilbog backs off and casts sound burst
+			Remora takes half-damage
+		Krug flanks Remora and shield bashes, then raises his shield
+		Remora attacks Tetron, hitting and critting once each
+			Krug uses glimpse of redemption against the crit
+				She takes the enfeebled
+		Zaknos warns Viola about the last guy and starts to move past Remora, thinking that the others have her taken care of
+		Crazy guy attempts to disarm Alistair, loosening his grip
+			Further attempts to disarm fail
+		Viola approaches Remora, fails to feint, fails to strike
+			Remora mentions that she should retrieve the mage
+	Top of the round
+		Alistair attacks the crazy guy again, felling him
+			Red-haired woman tries to surrender; she claims to just be here to get supplies
+		Tetron magic missiles Remora
+		Nilbog heals Tetron, then starts to head for the boat
+			He spits on her on the way by
+		Krug knocks Remora out
+	Krug runs into the building to retrieve the mage's body
+	Zaknos and Viola run to the boat
+	Viola discovers the chest and takes out her key
+	Nilbog goes to aid Krug in the burning building
+	Tetron goes toward the ship
+	Krug charges into the building and shoves the mage off the roof, then pulls the bitey woman free
+
+Keyslots
+	Left: Give me guidance
+	Center: Cog in the machine
+	Right: Flip paw father
+	Six letter slots above each slot
+	Scrambled letters available to the slots
+Alistair checks the chest for traps
+	It looks like picking it blindly would set something off
+	Even with that knowledge, it seems like it'd be pretty hard
+Alistair picks the lock on the chains, then removes the hinges, revealing a box within (the box is connected to the external mechanism)
+Alistair inspects the key, it has text on it that he cannot read
+Viola drags amputee to Nilbog, who treats them
+Searching the bodies:
+	Bitey: Beckoning Cat Amulet
+	Mage: Potion of swimming(Tetron), belt of good health (Zaknos), blue key, spellbook and staff (Tetron)
+	Remora: +1 striking composite shortbow (Zaknos), +1 rapier(Tetron), lesser potion of darkvision(Zaknos), bottle of holy water(Nilbog), +1 leather armor(Krug), boots of elven kind (halfling size)(Viola), yellow key
+	Total money: 150 gp
+Tetron recall knowledge: either the chest is filled with shrapnel and the bomb is small, or the whole chest is the bomb, and it takes out the whole dock
+	"I don't think we can move this bomb far enough fast enough"
+RAZAAN is the name on the key, and Tetron can read Infernal
+Yellow key has a chiseled slot
+Blue key goes with "give me guidance"
+Alistair opens the thing (Tetron has to help by adding a prestidigitated cog to the yellow key)
+
+Keren, the red-haired woman, finds Krug outside; she's an old friend of his and the owner of the dog
+	Krug asks about Enris(sp?) and Zey(sp?)
+	All three got visions
+		Keren summoned to Lastwall to deal with threat of Whispering Tyrant
+		Enris and Zey told to stay in Almas
+Nilbog notices the dog
+	Krug introduces Appleslayer and tells Nilbog that he's a friend
+Keren Rynn(sp?)
+	Tetron recognizes the surname: her father? was an old leader of the Knights of Lastwall
+Helja arrives and is upset
+	Viola introduces the party, claims they were investigating Remora, and barely is able to explain the situation in a satisfactory manner
+Remora did the hit for the competing blacksmith in exchange for a brooch
+		Blacksmith was jealous of Redkiln's quality of work
+		Blacksmith "came into" a brooch from someone working for a Taldan person
+		Brooch intended for sale to a merchant via an intermediary
+			Meeting was supposed to take place tomorrow night in some alley in the Fleet District
+Guards show up to investigate the scene
+	We get things sorted with them
+	Good word put in for Remora
+	Remora had an active bounty out on her
+Keren tells Krug that the armor is mostly for soldiers, but the rest is going to Lastwall
+	She also advises him to help their other friends if he sees them
+	There's something of an exodus from Andoran for the cause
+	Helja is going too
+Helja is appreciative
+	Is there anything we need?
+	She invites us to come by tomorrow morning.
+	She takes Krug's shield to work on it
+We head to guard HQ
+	The concussed guy has since gotten away
+
+XP:
+120
+60

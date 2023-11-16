@@ -1,0 +1,198 @@
+A3S21
+-----
+
+Starday afternoon, Aroden temple
+	INITIATIVE
+		Round 1
+			Nilbog casts wall of fire to cut off the pale lady
+			Sloane jumps down off the landing she was on, then "welcomes" us
+			Viola has to take two shots at needling at Sloane, and then she takes a defensive position
+			Zaknos delays, asking the automaton to pick him up
+			Pale lady tries and fails to climb up to the ledge to avoid the wall of fire
+			Alistair delays
+			Red hair guy in a cloak shoots his bow twice at the automaton
+			Automaton picks up Zaknos and places him on its shoulder
+				Zaknos gets his turn now: marking the redhead and fires at him, hitting
+				Automaton charges forward, stepping over Sloane and Kasissa, then grabs one of the ritualists
+			Guy in mask and red robes says that they'll need to conclude the ritual early, then pulls out a wand that shoots one magic missile at Zaknos
+			Krug charges the redhead and slashes at him, missing
+			Tetron casts haste on Alistair, then moves through the door
+			Alistair runs over to the overhang the redhead is standing on, climbs up it, then stabs at him, missing
+			Kasissa continues to shove an entire cultist into her mass of arms
+		Round 2
+			Nilbog moves forward and casts calm emotions on the pale lady and red robes guy, and they both fail
+				9 rounds remain on wall of fire
+			Sloane walks up to Tetron, saying that she's most of all pleased to see Tetron, crits him with her sword, then hits again
+			Viola tumbles past Sloane to flank her with Tetron, hits her with a finisher, then takes a defensive pose
+				9 turns remain for Bon Mot
+			Pale lady continues to fail to climb
+			Red hair guy jumps down the cliff, gets some distance, then readies his firing stance again
+			Zaknos fires four times at redhead, hitting the first two times
+			Automaton slams the ritualist its holding into the ground twice, then throws him at the wall of fire, killing him
+			Kasissa has just about finished eating her dude
+			Red robe's wand of manifold missiles continues to fire at Zaknos while he keeps working on the ritual
+				9 turns remaining on wand of manifold missiles
+			Krug moves to flank the security guy who was standing next to redhead, then attacks and hits, then raises his shield
+			Tetron casts fly and rises 25 feet in the air
+				9 turns remain for Alistair haste
+			Alistair stabs at the security guy four times, hitting thrice
+			West security guy (the one Alistair just fucked up) attacks Alistair twice, missing both times (Ali had to dodge the first one), tries to charge into Alistair but whiffs and falls off the cliff, landing prone
+			East security guy moves to support Sloane
+		Round 3
+			Nilbog runs along the upper ring to get closer to the rest of the group, then sustains the calm emotions
+				8 turns remain for wall of fire
+				9 turns remain for calm emotions
+			Sloane moves to flank Viola, stabs at Viola twice, hitting once
+			Viola tumbles away from Sloane past east security guy, delivers a finishing blow to him, then takes a defensive pose
+				8 turns remain for Bon Mot
+			Pale lady finally climbs out of the fire-blocked area, then starts making her way around the east side of the upper ring
+			Redhead fires three shots at Nilbog (1 crit and 2 hits), downing him
+				Nilbog is dying 1
+			Zaknos yells out for Nilbog, shifts over to the automaton's far shoulder, then fires three times, missing all of them
+			Automaton smacks one of the ritualists into a pillar, then turns to face the redhead
+			Guy in mask's wand of manifold shoots at Zaknos again while he continues to do the ritual
+				8 turns remaining on wand of manifold missiles
+			Krug runs over to Nilbog and uses battle medicine to revive him, then jumps down to the west security guy
+				Nilbog is wounded 1
+			Tetron flies towards Krug to haste him
+				8 turns remaining for Alistair haste
+			Alistair jumps down and stabs down at prone west security guy (two hits of three stabs)
+			West security guy stands up, then moves to protect redhead
+			East security guy attacks Viola and misses, tries to trip her and fails, then gives up on fighting Viola and moves toward the other combatants
+			Kasissa moves over to another ritualist, rips his arms off, then jams them into her own body
+		Round 4
+			Sloane approaches Viola, then stabs at her twice, hitting only once
+			Viola has to feint twice to get past Sloane (second crits), then takes a defensive pose
+				Sloane is flat-footed to Viola's melee attacks until the end of Viola's turn on round 5
+				7 turns remain for Bon Mot
+			Pale lady hops down, then moves to replace one of the missing ritualists
+			Nilbog sustains calm emotions, then casts heal on Tetron
+				8 turns remain for calm emotions
+				7 turns remain for wall of fire
+			Redhead fires at Kasissa and she telekinetically snaps the arrow in half mid-flight, so he turns his attention to Alistair and fires twice, hitting once
+			Zaknos yells out about redhead firing at Kasissa, then fires four times (crit, miss X 3), the crit pinning him to the nearby brazier
+				One action to attempt DC 10 Athletics check to remove the arrow
+			Automaton moves over to attack Kasissa, but Tetron calls out to warn it that she's friendly, so it starts to crush a ritualist
+			Red robe guy's wand of manifold missiles shoots Zaknos again while he expends spell slots to try to accelerate the ritual
+				7 turns remaining on wand of manifold missiles
+			Krug moves over to engage redhead and west security guy, then slashes at west security guy, critting him to overdeath, then slashes at redhead and misses, then raises his shield
+			Tetron analyzes the ritual (CRIT SUCCESS) to determine what can be done about it (it's emitting a beam of light upward into the ceiling), then casts animated assault to send as much of the treasure flying as possible, and he warns us that the ritual needs to be stopped in the next ~18 seconds
+				Ritual recall knowledge results:
+					The ritual is charging magical energy
+					Killing casters ends the ritual, of course
+						3 rounds left due to acceleration attempt (not guaranteed to succeed)
+					Can also cancel via removing the treasure being used as material components
+						But the stuff is in chests...
+					The ritual is intended to A) Determine status of an entity, B) find which plane the entity is on, and C) contact the entity
+					Tetron has the idea to use his evil spellbook to try to "poison the well", but it might not work
+				7 turns remaining for Alistair haste
+				9 turns remaining for Krug haste
+			Alistair moves to flank redhead with Krug, then stabs at redhead (two hits and a miss)
+			East security guy moves to flank Alistair with redhead, then attempts to trip Alistair and fails
+			Kasissa continues to eat mans
+		Round 5
+			Sloane pulls out a throwing knife, moves over to beneath Tetron, and throws it at Tetron and hits, knocking him out
+				Tetron is dying 1
+			Viola runs over to Sloane, grazes her with a finisher, and dueling parries
+				6 turns remain for Bon Mot
+			Pale lady pumps a spell into the ritual
+			Nilbog 2-action heals Tetron and sustains calm emotions
+				Tetron is wounded 1
+				7 turns remain for calm emotions
+				6 turns remain for wall of fire
+			Redhead pulls himself free of the pinning arrow, pulls away, then fires at Zaknos, hitting
+			Zaknos fires back at redhead (2 misses, 1 hit), then takes cover behind the automaton's head
+			Automaton finishes crushing a cultist, then misses a kick and a stomp at east security guy
+			Red robe guy pumps another spell slot into the ritual and Zaknos takes another missile
+				6 turns remaining on wand of manifold missiles
+			Krug moves to engage redhead, rages, and slashes at him (miss and hit)
+			Alistair moves over to red robe guy and uses a talisman to bludgeon him and push him through the wall of fire
+				Calm emotions broken
+			East security guy moves to pursue Alistair and attacks, missing
+			Kasissa moves over to another ritualist and starts eating him
+		Round 6
+			Tetron tells the automaton to shove the material components off the altar, then flies to get directly above the altar (20 feet), then drops the whispering spellbook
+				6 turns remaining for Alistair haste
+				8 turns remaining for Krug haste
+			Sloane takes something from her belt, then uses mage hand to deliver it to redhead
+			Viola barely misses Sloane with Mosley's Birthday Surprise, then moves to approach the altar
+				5 turns remain for Bon Mot
+			Pale lady puts more magic into the ritual
+			Nilbog casts fireball to hit red robe guy and east security guy and not the automaton (both succeed the reflex save)
+				5 turns remain for wall of fire
+			Redhead fires at Tetron (hit, crit miss), then drinks the thing Sloane sent him (it's a HoT pot)
+			Zaknos feeds his healing potion to Tetron, then fires at redhead (two crit misses)
+			Automaton shoves some portion of the material components off the altar
+			Red robe guy drops his wand of manifold missiles and produces a staff from his gloves of storage, then uses it to heal redhead
+			Krug slashes at redhead (hit, miss), intimidating glares him (success), then raises his shield
+				Redhead is frightened 1
+			Alistair feints, stabs pale lady (one hit benefitting from feint, then two misses)
+			East security guy moves to flank Alistair (which doesn't help), then attacks him (hit) and then tries to snag him with his weapon but fails
+			Kasissa finishes eating a guy
+			Ritual conclusion!!!
+				Pale lady lets out a scream as she puts all she has left into the ritual, the column of magic swells and then vanishes
+				Sloane's expression of joy fades as it appears to have not worked
+				Pale lady is pained and confused
+					Stupefied 1 and drained 1
+				Kasissa screams in pleasure with the swell of magical energy
+		Round 7
+			Tetron reach-casts hideous laughter at redhead, who falls prone with a critical failure
+				5 turns remaining for Alistair haste
+				7 turns remaining for Krug haste
+				Redhead is slowed 1 and has no reactions
+			Sloane reaches into her bag, pulls out a chest with magical locks, clicks it open, then sets it slightly ajar
+			Viola tells Sloane that we can just leave as she walks over to the wall, climbs it, then starts heading for the tunnel Krug and Nilbog came in through
+			Pale lady drops to her knees and starts fervently praying
+			Nilbog casts fireball on redhead (crit fail, dead), red robe guy (fail), and east security guy (success) and touches himself to benefit from vital beacon
+				Calm emotions is dropped
+				4 turns remain for wall of fire
+			Zaknos pulls both of his swords and asks the automaton to set him down to flank pale-lady with Alistair, then double-attacks her (crit and miss)
+			Automaton's turn is turning to set Zaknos down
+			Red robe guy climbs the wall to escape the wall of fire, then casts a spell at Krug, commanding him to kneel
+			Krug is forced to kneel, stands up, climbs the wall, then approaches the red robe guy
+			Alistair activates his bracelet of dashing, climbs the wall, moves to flank red robe guy with Krug, then stabs at him (hit)
+			East security guy looks to Sloane and says that he thinks it's over and asks what to do, but she doesn't respond
+			Kasissa approaches pale lady and begins her schtick
+			End of round
+				All that can be heard is a low writhing sound
+				Sloane walks out the door
+				The lid of the chest starts to bend as whatever is inside tries to force itself free
+	Post-combat
+		Massive worm starts to burst free from the chest
+	Escape from cave-in!
+		Round 1
+			Everyone run!
+			Tetron asks the automaton to pin the worm against the wall
+				The automaton locks its arm into the worm's mouth, but it won't hold forever
+			4 turns remaining for Alistair haste
+			6 turns remaining for Krug haste
+			We've lost track of Sloane
+		Round 2
+			Alistair thinks to have Krug drop the door by knocking out the automaton's sword
+				Tetron greases the sword's contact points
+			3 turns remaining for Alistair haste
+			5 turns remaining for Krug haste
+		Round 3
+			Krug and Alistair knock the sword out of position
+			Automaton's arm gives way
+			Kasissa reassumes her humanoid form, bows, and vanishes
+			The door slams shut
+			2 turns remaining for Alistair haste
+			4 turns remaining for Krug haste
+Back out of the temple, through the sewers
+	Sounds of celebration for the coming festivities for Day of the Inheritor
+A few days pass
+	We take it easy
+	We report stuff to the government
+	Zaknos decides to pull out a letter he's received mentions it to the rest of the party
+		Red envelope
+		Someone has heard of us
+			They want to invite him and a plus-one to dinner
+			He just has to twirl it in his fingers
+		He and Nilbog twirl it and vanish
+
+
+XP
+--
+160
+80

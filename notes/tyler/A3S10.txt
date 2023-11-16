@@ -1,0 +1,389 @@
+A3S10
+-----
+
+Moonday Morning
+	Talking to Kuktun
+		Tetron: Getting Zaknos out on incompetence?
+			Probably not, given Radiant Dawn's accomplishments
+		Kuktun: How guarded is the target?
+			Martella is part of royalty's inner circle
+		Kuktun: Was it meant to be failed?
+			Maybe
+			Viola: Wait, why did he get an extension?
+				Perhaps piecemeal as a way to get a foot in the door
+		Kuktun: We should inform the targets
+		Viola: Could we use failed op-sec as "incompetence"?
+			Probably not.  Would count as failing the contract.
+		Kuktun: Negotiation through a third party?
+			Tetron: We do kind of have someone on the inside
+				Weirdly cooperative
+				Viola laughs at the prospect of the liasion being intelligent
+					Kuktun presses
+				Kuktun: Stupid devil might be advantageous
+	Nilbog in the hallway
+		At somepoint, a guard notices him and asks what he's doing
+			He's thirsty
+			She points him to the water fountain
+		The same guard walks with him on the way back
+			She's not being subtle
+			He starts drinking the water along the way
+				He drinks a bunch of it and declares that he needs more
+	Back in Kuktun's office
+		Tetron: We need to earn Chimpy's trust
+			Viola: We need him regardless of whether we negotiate or if we're laying a trap
+	In the hallway
+		Nilbog passes the guard again
+		He knocks on the door
+	Back in the office
+		Nilbog enters, some water draining down his shirt
+			Zaknos: Did you bring any glasses?
+				No
+		Anything else to discuss?
+			No
+			Kuktun does offer aerial support if we choose to fight
+				Volunteers also
+				Estimates a small handful of people
+				Reminder: Erinyes are smart, powerful, and can fly
+				Tetron: We probably don't want to fight them
+	We're escorted back out
+		What now?
+			Surprise with magic?
+		As we discuss, Tahseen makes his way toward the keep
+			He's ranting at an assistant
+			He shouts into the ether
+				"I can't believe that she took them at their word!"
+			He finally notices us
+				Krug: Anything you'd like to say to us?
+					No, good day.
+				We provoke him
+					He's still convinced about the vampire
+				He swears that he'll dig into our files to find anything untoward about us
+					Whatever
+		So what now?
+			Surprise with magic?
+				Tetron, Zaknos, Nilbog
+				Krug is afraid that there may be danger, but others are unconcerned
+			Alistair heads back to inn
+				He changes into non-descript clothes to become a messenger boy
+				He writes a message for the professor that wants his doll back
+			Zaknos takes the tamagachi back
+	Magic surprise quest
+		First order of business: find Gelena Deter
+		Tetron finds a public directory
+			There's a workshop with that family name
+				Half plant nursery and half tinkerer's shop
+				Deter Family's Workshop
+				Clockwork shit inside
+				They have an orange cat
+		Young girl on a stool
+			She asks if they're here for clocks or plants
+				Neither.  Surprises
+			She welcomes them and curtsies
+			The cat's name is Mojo, her name is Galena.
+		She asks for a show the likes of which has never been seen
+			Tetron to Zaknos: Why didn't Viola come?
+		She needs magic that can show someone the past
+			Doesn't have to really be the past, but can show images
+		Tetron: Who's the audience?
+			Her grandma
+		Tetron: Is there a script?
+			She pulls out a half-page with text and drawings
+		Galena goes over to turn the chair in the back of the room around to reveal a very old elf
+			Grandma Erin
+			She can only murmur
+			She doesn't even know who Galena is
+		Galena says that Erin needs a spectacular show to remember who she is
+		Tetron asks questions about the family
+			Galena's mom runs the shop
+				Inherited from grandma
+				Mom can't know about the show
+					She's not here
+					She's coming back mid-afternoon
+					Zaknos: Why can't mom know?
+						Mom doesn't like grandma because back when she was mentally well, she was mean
+						Galena says grandma is nice now and has been since before she can remember
+						Nilbog: Why was grandma mean?
+							Mom fell in love with a non-elf
+		Tetron asks to see Galena's favorite clocks
+			She pulls out three pocketwatches from a cabinet that says "do not open"
+				Two don't function
+				All three are beautiful
+				They're finely made, would probably sell decently
+					Crafting check by Tetron
+						Not sure exact worth
+						They tell time to the minute
+						Tetron doesn't have the tools to fix
+							Not aware of other clockmakers in town...
+					Magic check!
+						One of the broken ones are magical, other two are mundane
+		Tetron: Let's see the script
+			Describes family events leading to Galena's birth
+			Zaknos: Do we know who we're each playing?
+				Galena as herself
+				Zaknos as grandfather
+				Nilbog as dad
+				Tetron as mom
+			Zaknos: How can the cat play in?
+				Her parents got Mojo when she was a baby
+		Tetron sits down to prestidigitate a bust for Galena to help "sculpt" her mom's image
+		The performance begins!
+			They tell the story of the lineage
+			SUCCESS!
+			Erin recognizes Galena and smooths her hair
+				Galena cries
+		Tetron takes the broken magic clock
+	Alistair as messenger boy
+		He knocks on the professor's door
+		Dude accepts the message and hands over the treasure map
+		He returns to the inn to look at the map
+			The treasure is on the Taldan side of Star Bay
+				South of Cassomir
+			Notes have been written on it before, trying to find it
+				Failed attempts, water's too high
+	Viola goes to investigate Protection for the Talented
+		Headed over to Woonhal
+		On a roof, she spots the black tail of a catfolk
+		Tybalt notices her
+		Viola asks for "access"
+		He has her follow him
+			Winding path through alleys
+			Down a flight of stairs into a basement
+			He raps on a door and lets her in
+		Viola is greeted by a handful of curious people
+			There's a bar, velvet stools, a velvet tapestry, some kind of soothing music permeating
+			Tybalt explains that this a private area to train, improve, get guidance
+				Voice work, fencing, stage combat
+		Tybalt takes Viola to meet the leader
+			Tail around the shoulder
+			Knock on the door
+				Sound of machinery
+			He introduces Viola as the door opens
+		Inside, the room is covered in acoustic surfaces
+			Standing in the middle of this otherwise empty room on a yoga mat is a man made of metal
+				It wears a fur coat
+				The top of his head looks like finely combed hair 
+				Its name is Cassini
+			Cassini says that Viola must have found the organization via the coin
+				Yeah, went on an adventure and learned a whole language
+				It is impressed by the effort of living creatures to improve
+			Cassini leads Viola out of the room
+				Through the hall, we pass doors leading to rooms for people to practice various performing arts within
+				It founded the place to enjoy and nurture people who seek to improve their craft
+					What is Viola's specialty?
+						Improvisational swordplay
+					It's already aware of her adventuring career
+				It asks her to partake in a test
+					Viola accepts
+			Test!
+				Cassini is watching with intent, eyes completely dilated
+				Training dummy
+					Flip and stab, easily done
+				Obstacle course
+					Decent
+				Vs 4 other swords people
+					Dodge, parry, and kick people off
+					Good
+				Cassini looks at Viola, nods approvingly
+					Valuable base of talent
+					What they can do is hone aspects through dedicated training
+					MECHANICAL: Every month spent here (downtime) adds a permanent +1 bonus.  Max 2.
+						Can choose type of bonus (status, circumstance, item)
+					Locations in Almas or Oppara
+					Also serves as a social experience
+	Alistair, back at the inn
+		Sees Krug
+			Asks him to come with when he goes to visit family in Tamuth
+				Krug is on board
+			Krug asks what he's been up to
+				"Errand", promised to deliver something
+		To Tamuth!
+			Streets are less paved, more mud
+				And it's raining
+			They approach a small mansion that clearly isn't a wealthy residence
+				Lots of kids playing
+				Three women desparately trying to keep a dozen children from harming themselves
+			Alistair knocks on the door
+				He's greeted by a simply-dressed middle-aged elf woman
+					She's stern, but she is joyed to see Alistair
+					She welcomes him back
+					She then notices Krug
+						Alistair introduces him and mentions that he joined an adventuring party
+		Inside Tamuth House
+			Miss Sal goes to make tea as Krug and Alistair are left in the foyer
+			Other matrons notice
+				They're also thrilled to see him
+					One's distracted by the children
+					Other is making biscuits
+			Sal comes back with drinks
+				She asks about the adventuring party
+					It lets Alistair help lots of people
+						Name-drops Falcon's Hollow
+				What is he here for?
+					He just wanted to visit and talk to siblings
+			Sal addresses Krug
+				He introduces himself
+			Alistair asks for Elwynn specifically, but he also is curious as to who else is around
+				After a moment, an elf Alistair's age with modest clothing
+			Krug is left behind as Alistair pulls Elwynn upstairs
+			Sal asks Krug about the rest of the party
+			Alistair and Elwynn chat
+				Also joined by Ned and other trainees he knows
+				Plugging adventuring as more entertaining and less risky than thievery
+				Able to get to Dorfinn and Cloak
+					Is there any info to bring to them or get from them?
+						Ned wants his sister to know that he's okay and wants to get her out
+
+					Is there a plan to break them out?
+						Collecting bail to get Carol out
+							Not nearly enough avail to get Dorfinn
+				They let him know that, ever since the raid, there has been increased scrutiny
+					Contributions severely down
+					Not destitute
+					Some desire for people to gather alternative income
+						But the guild as a whole isn't on board
+							Esp. given rising crime in Timberfell
+				Belladonna is keeping the shop running
+				How to contact Stareye?
+					Due to the attack that killed Nighthawk, Stareye has been moved to Castoff Place
+				Clutch problems?  Can Alistair or Radiant Dawn help?
+					Questions first!
+						Who are they?
+						How long in town?
+						How subtle?
+							NOT
+					Crow and Frey have defected
+						They know where guild is, so major threat of attack if they feel like it
+							Kids have been keeping low
+					Where do they operate out of?
+						Northern Timberfell - day-to-day
+						Large building in mid-Timberfell: Gavel Bloodthorn's office
+							One Clutch leader is there a bunch
+							Super fortified
+					Can Thomas still be trusted?
+						Two different answers
+							Ned considers him a traitor
+							Elwynn thinks he probably didn't have a choice
+								No police in guild places, so he probably is keeping them out
+					Have they heard of the Aegis Coalition (Elwynn esp)?
+						Recent rash of arrests related to a shipping company based out of Augustana
+							Gov't-regulated substance
+							Some have mentioned the Coalition in passing related to that
+						Something related to Timberfell or at least does business with them
+							A lot of the goods shipped are going straight there
+						Seems like it's connected to a charity of some sort but also the people appear to be associated with it don't look religious or seem to have divine powers
+					Alistair donates 3pp to the orphanage via Elwynn then moves to leave
+						She stops him to ask what the most exciting thing he's done
+							Fighting creatures and finding tons of treasure under the sea
+			Alistair finds Krug nervously smiling as Sal continues to gently interrogate him
+				He promises to visit again soon
+			Sal says that she'll keep the Radiant Dawn in her thoughts
+				KEEP ALISTAIR SAFE AT ALL COSTS
+			Cookies for the road offered
+				Gingerbread!
+		On the way back, Alistair reports that he learned a lot
+			Krug: From your siblings?!
+	Viola purchases tickets for Boring and delivers them right after
+		Easily done, 2gp 8sp 4cp
+		Viola finds Boring at a hostel of sorts
+			Viola hands over the tickets
+			Boring is surprised that she didn't lie
+				"I only do that to people I don't like"
+			Boring gives Viola her lantern
+				It self-lights, doesn't cast much light (dim to 10 ft), detects undead within 30 ft
+			Viola wishes Boring good travels
+Moonday afternoon
+	Others regroup at inn
+		Alistair reports what he learned
+		Tetron asks about the doll
+			Alistair fakes that he lost it
+				Nilbog can tell that he lied, but he doesn't call him out
+				Zaknos also can tell, and he does call him out
+					You never lose anything!
+					Alistair doubles down
+		Tetron has a thing this evening
+			Meeting up with old classmates
+			Alistair: Are they the ones who wanted help on a trip?
+				Yes
+		Viola comes back among them arguing about the "missing" doll
+			He gets caught out on the lie
+			He admits having given it back
+				Tetron asks which reward he chose
+					He's pissed that it isn't the spell
+				Viola offers to copy the map into the Pellsieve
+					Tetron suggests that we copy it and then give it back to get the spell instead
+				We keep arguing
+				Viola and Tetron go to transcribe it with the argument pending
+					Takes an hour
+				Afterward, Tetron and Alistair pressure Viola for the map back
+					Tetron gets Viola to relent on the point that the map belongs to Alistair
+	Tetron heads over to the university
+		He's disguised
+		He's welcomed in
+		He says that the contents interest him less than he originally thought
+		Exchange for spell!
+			Common or Uncommon (subject to approval) up to 7th level
+			TELEPORT
+	Back at the inn
+		Tetron returns and Zaknos suggests that we go fix the magic watch
+		Alistair reads the watch's aura
+			It's enchantment
+		Alistair: Do we need to visit a magical clockmaker to fix it?
+			Tetron: Only one way to find out
+	Looking for magical clockmaker
+		Tetron checks around the university to see if anyone knows anything
+			He finds out about someone working out of the Liberty District
+				They work primarily with rich clientele
+				Much different vibe from the Deter shop
+				He presents the broken magic watch
+					Tetron: Does the process differ for it being magic?
+						Yes, but they can do it
+					Also, just to check, was the other one once magical?
+				Couple of minutes to inspect
+				Dude returns to report
+					The mundane one is mundane
+					The magic one is an "aid of sorts"
+						Used by business people or folks in high society
+						Once a day, you can wind it, and for 30 minutes, you can't fall asleep, but you fall asleep immediately after (3 actions)
+							Immune to sleep effects
+						9 gp for the repair
+	To cheaper clockmaker to repair other watches
+		Flag markets
+		2.66 gp each for sale of mundane watches
+	What now?
+		Options are Dawnflower and ship that Zaknos can't go on
+		Audition?
+	Audition in Woonhal
+		Eight Cups Theatre
+		We see an interesting assortment of people
+			Some look like primarily theatre people who do some swordplay
+			Others look like warriors who supposedly are trying to get into acting
+		We see a short halfling with puffy brown hair
+			Has a shit expression on his face
+			Dude berating the other guy the other day
+			The executive producer!
+			Unbearably pompous voice
+				He hands out scripts
+				Auditions start in 10 minutes
+			Script
+				Scene for 2
+				Challenging; need to consider how well she works off the partner
+				It's a basic chivalrous romance, with the "twist" that the love interest is plenty capable
+			Paired with someone who looks like a real actor
+				Gnome woman
+				Not looking too great with their sword
+					She has only brandished one on stage
+				Viola gives earnest advice on how to wield
+			Scene: Prince mistakes the princess in disguise as an assassin
+			Performance begins
+				We work together well
+				She does a flip, which prompts Viola to tumble
+				Ending flourish is a dramatic feint
+			Deliberation for 1 hour
+				Main cast: Viola Ballestra
+				Understudy: Dana Laraunt (my partner)
+			Rehearsals don't start until next Moonday
+			Dana thanks Viola for the advice
+
+XP
+--
+0

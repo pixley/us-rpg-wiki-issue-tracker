@@ -1,0 +1,171 @@
+A2S11
+-----
+
+Zaknos wakes up
+	Chimpy demonstrates invisibility and alternate forms
+	He asks a bar patron where the rest of us went: church of Shelyn
+	Jade tells him that we went to the church of Abadar
+Church of Abadar
+	Viola and Tetron check in and wait
+	Zaknos shows up and interacts with a guard dog
+	Viola called in, has to remove shirt
+		Failure
+	Viola refunded half the cost (40 of 80)
+	Tetron realizes that he doesn't have enough money for even a 4th-level remove curse
+	Chimpy offers to make a pact for the difference, Zaknos declines
+	Zaknos does have enough, and offers it in exchange for getting help with *anything* he asks for
+	As Tetron goes in, Zaknos feeds the dog
+		It is not a dog.  It has a tentacle mouth.  It's a mage-hunting dog.
+		Apparently, they're common in Oppara
+	Tetron puts forth the bag of weasels
+		Success
+	Tetron goes to pat Zaknos and manages to clip Chimpy
+Alistair stakeout
+	The man emerges, wearing business or religious clothes, carrying a book
+	He heads for the temples district
+	Alistair moves to break in
+	The maid had also left, but he hasn't seen a butler
+	Likely others inside
+	Alistair chugs an invisibility pot and heads for the house, making an effort to avoid the dog, and jumps the fence
+	He moves to the sunroom; there is a nearby cracked kitchen window with a cooling bread loaf on the sill
+	He heads around the house toward the study
+	Inspecting the sitting window: it isn't trapped, and he's able to jimmy the window open quietly
+	Dude apparently likes music: piano and multiple string instruments
+	Small shrine to Sarenrae in one corner
+	Door to study, opens with small whine
+	More Sarenrae stuff in the study
+	Looking for valuables
+		Sarenrae stuff is the most valuable; Alistair doesn't steal religious stuff
+		Magic pendant? - TAKEN
+		Safe with complex, but not impossible lock
+		Desk drawers:
+			Letters with no addresses
+		Quick glance at books on desk:
+			About Sarenrae, forgiveness, repentance
+			Third book: about different planes of existence - open to basic info about outer planes
+				Note on it: "Research planes", "She might be in any of them", "Shining hair of gold like wheat" (this is circled a bunch), "saw boy in front of temple... sign?", "Prepare for trip... withdraw funds"
+			End-of-life prep?  Coffin, next-of-kin, what to do with remains
+			Name found: Sir Leyten Danamark
+		Done browsing - safe now:
+			Safe appears to be trapped: opening without correct key deploys poisonous spike; could do collateral damage even if he avoids it
+			Alistair remembers having seen a keyring on the guy
+			Mechanism would be time-consuming: 4 or 5 minutes
+			Disable trap attempt: broke some small bit inside - success
+			Picking the lock: takes a moment, but success
+			Contents:
+				Small opal - taken
+				Intricate mask that covers the eyes - taken
+				2 tickets to some art gallery event - left
+				Small diamond - taken
+				Silver ornamental dagger wrapped in thin gauze - taken
+				Old Sarenraen book that seems incredibly valuable - left
+Zaknos and Nilbog have breakfast sandwiches
+	Viola pitches her plan for the Pinelli thing
+	Tetron pitches looking into other quests, esp. porcelain bowl one
+	Viola muses about the Zven thing (where's Ali?)
+	Viola asks what they should do about cops
+		Conclusion: solve the riddle, take what's inside, give empty brooch to Barnes
+Back at house
+	Alistair starts to leave; hears clacking of heels in the hallway
+	Escapes before pot runs out
+Party arrives at Gardenia House
+	Different servant greets us; we're led to tea room
+	Margaret is waiting for us
+	Viola presents the political activism lie; suggests political tension as issue between Margaret and Blaire
+	Margaret buys it, mission accomplished: 140 gp
+		Individual share: 23.33 gp
+Alistair returns to his inn room
+	Read aura on pendant, mask, and dagger
+		Pendant: Abjuration
+		Mask: Not magic
+		Dagger: Not magic
+	Alistair heads to Zven's
+		Zven is working on paperwork
+		Presents opal, diamond, mask, dagger
+		Total: 200(diamond)+40(opal)+10(mask)+20(dagger)
+Back to inn to wait for Ali and decode brooch
+	Tetron has heard of "shade" and "hue" in the technical sense on account of different flags representing different allegiences
+	Center gem can slide out to form ring, a gem in the ring can be shifted to center
+	Brooch's right side: red-top, clockwise rainbow order
+		Clicks into place
+	Brooch's left side: Viola figures out that darkvision can be used to sort by shade; it's given to Krug
+		Clicks into place
+	Brooch opens in Krug's hands
+		The mouth is a handle, it opens like double doors
+	Stained glass pin in interior
+		There's a hole in the middle
+		Has writing, but it's in Varisian: "faith, true sight, loyalty"
+			Tetron: it's not a house crest, but he notices that weapons portrayed are not of Taldan make, the sword is ceremonial, probably religious, but he doesn't know what
+				Heavily flowing water, either ocean or large river (perhaps Sellen, Inner Sea?)
+			Krug: hasn't seen anything like this before
+	Alistair shows up and Viola explains the situation
+	Read aura: inside has abjuration on it; outside is mechanical
+	Zaknos wonders if Chimpy knows anything about it; he goes to the bathroom, but announces it in a sus way
+		Chimpy doesn't know; he was just going to report it to his superiors
+		He's reporting everything to his superiors
+			Janice - he's afraid of her
+			Three other bosses - three big scary women
+				Nicest is Rianne (sp?), who gives him snacks
+				Worst is Haley (?), who is super into revenge
+				Middle is Astrid, she's okay
+		Zaknos warns him to avoid being touched
+		How far can he be from token?  Unknown, but he's supposed to always watch
+		Zaknos dismisses him for the time being
+			He can't perceive anything from in there, except for stuff that's super close to the token
+	Codename: Toast
+	Viola suggest that they do some research, perhaps at the library
+		She suggests that maybe Felix could help since he hangs out there all the time
+		Viola realizes that they totally forgot to tell Felix about the Allison situation
+At the library
+	Viola asks about Alseta material and mentions that they found out what happened to Allison
+		Lamoth says that Felix left town a few days prior
+	Viola is led to books about Alseta, doesn't learn anything
+		No Alsetan phrases or mottos are even remotely similar to the one found on the pin
+	Tetron looks for stuff relating to cults and other minor faiths along the Sellen
+		Imagery of a hand reaching for another is evocative of drowning
+		Nothing else particularly helpful, but he does have a small lead, it seems
+		He finds Nilbog looking through some books that he could actually reach
+			Could a bucket of water be brought to the inn?  Tetron needs enough to put his face in.
+			Nilbog goes to a well outside and fills his bucket hat
+			Tetron puts the pin on, albeit under his clothes, then tries to intentionally start to drown
+				He starts to drown and pulls his face back out; hypothesis disproven
+	Next step: talk to Sloane?
+	Zaknos pulls us aside: he admits to having been talking to Chimpy and his surviellance of us
+		He describes Chimpy's bosses
+		Three erinyes, not one
+To Sloane's
+	Guards recognize us and bring us in
+	She gives us a payout in recognition of how much higher the stakes were than she was led to believe
+	She has an additional job for us if we come back, it involves travel to Almas and the Iomedean
+		Ship to Almas paid for by her if we take the job
+	Alistair asks if there's more about his "friend"
+		Rest of party exits
+		Ali's former guild is not doing well
+		Dorfin is in jail (indefinite time) in Almas, charges serious
+		New person in charge
+		Lots have left, either to more serious criminal pursuits, backed out completely, or decided to join the military instead
+		While Andoren politics are slow, there is due process
+		Might be able to meet Dorfin if he makes it to Almas in the next few weeks
+		Sloane had pleasant interaction with Dorfin
+			Better than a lot of other guilds
+			Other do human trafficking
+		Word of caution: Almas might not be the same when he returns
+		She'll keep an ear out, but it seems like there are multiple groups vying in the power vacuum
+		Sloane is happy that Alistair came, wishes him well
+	Viola inquires about the whole Zven/JK thing from the night before
+		She's disappointed in the bad info she had relating to the situation
+		Viola asks whether Zven was the source of that bad info: Sloane is surprised at the name-drop
+		Viola warns that Zven has had an interest in Joan's affairs for a long time
+		Sloane seems to already be aware of JK; it's not an organization
+			Zven maintains multiple "identities"
+Outside Sloane's
+	Alistair asks Tetron to take a look at the pendant he found 
+		It's a corpse ward pendant: undetectable to undead for 10 minutes
+		Back to inn: Tetron's idea is to put the pendant in the toast's exterior
+			IT FITS
+		Tetron is able to identify the brooch's magic: magically-shrunken Shield of Aroden
+
+XP
+30
+80
+60

@@ -1,0 +1,265 @@
+A2S14
+-----
+
+Thursday morning, camp outside the Arthfell Forest
+	Tetron is approached by Valin
+		He and Kiruka were talking
+		He was wondering if he could borrow Taranis to send a message
+			Max range concern
+		He's nervous because we haven't contacted Marcellus
+		Tetron wonders if our plan would even change Mercellus's course of action
+			If he knew that we were pincering, he might wait to attack
+			Not sure if he's in his right mind
+		Tetron proposes: phantom steed to carry a message
+			What if it gets intercepted?
+				We're boned
+				Likelihood of interception low, given that it's going between Marcellus and us
+		What about a flare?
+			Probably bad idea
+		Tetron considers the phantom steed idea further...
+			The wierdness of the horse would be sus
+			Could send it around, which would take longer, but would be safer
+		Tetron swaps the spell slot
+	Kiruka looks pretty tired
+		Zaknos keeping an eye on her and to take over scouting capabilities
+	Tetron proposes the idea to Valin
+		Alistair asks whether there's a cipher that Valin and Marcellus have
+			They have a shorthand, which would be a little bit of security
+		Viola suggests establishing a signal
+		Tetron considers the depth of the caverns
+			Asks Kiruka how deep the back entrance is
+				The back entrance is where waste sediment is flushed out
+				30 feet deep
+		Viola proposes Alistair's horn
+			Ends up being the best idea
+	Valin writes the shorthanded message, and it's sent along its way with the phantom steed
+		The steed is set to obey Marcellus
+We set off
+	Riding config
+		Zaknos and Kiruka together ahead
+		Alistair and Valin leading the group
+		Viola on a horse by herself
+		Tetron also by himself
+		Krug and Nilbog together as normal
+	Zaknos starts to smell something
+		Putrid, like death, acidic
+		He is unfamiliar with the smell
+	Rest of us catch up and smell it too
+		Kiruka signals to wait
+		She needs to go ahead by herself to check the situation
+		Zaknos accompanies
+		We all dismount
+	Sneaking through the brush...
+		Before they reach the source of the smell, they can see movement in a clearing beyond the trees (~150 ft away)
+		The shapes are adult-human sized, though one is smaller
+		They seem to be talking
+		Kiruka looks to Zaknos, and he looks back unknowing
+		She decides to proceed forward
+		Voice: "Simon, over here."
+		Other voice: "Oh, hold on Sybal."
+		Third voice: "I can't find him, where's Troutlicker?"
+		Perhaps civilians?
+		What about the smell?
+			Decomposition
+		Could Troutlicker be the drake?
+			Awful smell, something missing, we know the drake is afoot...
+		Time to turn around
+	Zaknos and Kiruka rejoin the group
+		Reports on what they saw
+		Others are doubtful that 
+		Tetron knows the smell: hundreds of corpses on a battlefield
+		Perhaps civvies left out of whatever happened?
+		Viola proposes going to talk to them, offer to help, bug out if things are sus
+		What about the horses?
+			Perhaps the civvies can help?
+	We approach
+		We hear a scared old man and old woman, apologizing for being in the area
+			They insist that they're not gathering wood
+		They have a blond boy with them, holding rocks and leaves
+		A middle-aged woman with a bandana with two baskets, standing defensively
+		They have trout, wild mushrooms, and grasses
+		Dude freaks out when Viola says that we're adventurers
+			She has to clarify
+		Tetron asks for info
+			They don't harvest wood, on account of Lumber Consortium regulations
+			They live in the Lattimer Mining Camp
+			The men are away, on account of a labor dispute
+			"Savages" took up residence in the mine
+				Overseer Goyle went to help
+			What's the smell? (Alistair)
+				Civvies are relieved to hear a child speak
+				The mines.  They dump bodies in the water.
+					Viola tells Zaknos to stay away from fey
+					This doesn't sit well with the civvies
+		Middle aged woman is Clarice, her son is Rick; the other two are Clarice's parents
+			Troutlicker is their cat
+		Zaknos dismounts and tries to approach friendily
+		Tetron asks them to not tell anyone that they saw us
+			They are very obliged to do so
+		Tetron asks what they're afraid of
+			They start spouting Consortium propaganda
+			Viola explains that we're no friends of the Consortium
+		Zaknos's approach softens them a little
+		Troutlicker arrives with a small fish
+			Tetron prestidigitates the cat clean
+			Rick picks up the cat in preparation for departure
+		Tetron offers to let Sybil ride on his horse
+			Krug has to pick her up
+			Viola offers the same courtesy to Simon
+At Lattimer Mining Camp (The Mill)
+	The family is the Bilgers
+	They put up the horses
+	The homes are barebones; just what one needs to subsist
+		No decor
+		No anything
+	We're let into their home
+	They don't have enough places for everyone to sit
+	Info dump
+		Tetron asks whether the Overseer comes here often
+			His home is here
+		They're seen Marcellus
+			He took the Overseer, the "disciplinarian" (Norris), and a half-dozen men who were still there with him
+			That was two nights ago
+	Alistair goes to look around the camp
+		Troutlicker follows him out the door, but it just needs to piss
+		Alistair goes to the overseer's office
+	Viola asks what dangers lurk near the back
+		They really don't want us to go that way
+		"Demonic angels"
+			They were attracted by the smell of the bodies
+			They scavenge the bodies
+			Tetron is aware of harpies
+				But what's interesting is that harpies tend to live in caves where there is food, but the fact that they've been drawn out of the cave instead is weird
+			They think they've sinned on account of the cycle of labor and death
+	Tetron asks why they're still here
+		Sybil and Simon's son works at the mine, and he's stayed alive this whole time
+	At the overseer's office
+		It's the only house that has a chimney
+		Not as disparate in affluence as Kreed's was from the other homes in Falcon's Hollow
+		One story, plus a loft
+		Seems like no one's home
+		Checking the door, no trap, picked open
+		He's looking for documentation and valuables (go figure)
+		Looks like it's used more for meetings than living
+		Bedroom is the loft
+		There's a desk up there
+			Small stack of papers: each has a date, name, "crime" and a punishment
+			Punishments are heavily disproportionate to the offenses
+				Talking back, for instance
+				He takes the lot (fifteen)
+		Places where bags and weapons were stored, they are taken
+		Looks like other people slept here a night
+		Small chest: signet ring and wax seal kit
+		8 gold in change laying around
+	Alistair heads back
+		Rick is approaching the cat with 
+		The civvies think that something worse drove the harpies out of the cave
+			Perhaps a sign from Asmodeus
+			Viola assures them that those sorts of things are what we take care of
+		As we leave, Zaknos sneaks around back to plant money for them to find
+			Right next to where the cat peed
+			20 gp
+		Rick has the cat wave at us
+Back into the woods
+	Alistair scouts ahead
+		He finds stone pillars jutting out from a stream
+		Three harpies perched on top, trying to cover themselves from the rain
+		He heads back to report
+	Viola investigates as the party moves along
+		The area is relatively untouched by the mining operation
+		Large claw marks around, but not as much as expected
+		Viola's harpy knowledge:
+			They're probably about as strong as we are
+			They're filthy
+			Prefer simple melee weapons
+			Fliers
+			If they sing, you might become fascinated
+			They can speak, but not entirely sure of language
+	Tetron thinks about best ways to defeat harpies
+		When harpies are nesting, they don't like to be approached, but they are more willing to negotiate than to fight
+			Tread carefully; if negotiations fail, we fight to the death
+	Viola approaches the harpies to negotiate
+		"Good morning!"
+		She introduces herself and asks to pass
+		They aren't receptive, not wanting humans to be behind them
+		Viola explains that we'd be just as much of a problem in front of them as we would behind them if we wanted to fight
+			They consider this
+		The leader explains that they want something in exchange: there is a creature that crawls on the walls
+			It eats their food and kills their people
+			One of their sisters is within, nesting eggs that are nearly ready to hatch
+			If we promise to kill the creature, we may pass
+			Viola agrees
+		As we pass, the harpies warn about a trap left by the "streakers"
+			Alistair finds a strip of nails beneath the surface of the water
+				It may even close some kind of gate
+				Disarmed successfully
+				Pulling it out, he realizes that it wouldn't maim so much as cause copious bleeding
+Into the cave
+	The floor is water, too deep for Alistair and Nilbog to walk in
+	Bodies floating all around
+	There's a water-drenched harpy crouched on top of one of the highest outcroppings
+		Viola wishes her a good morning and tells her that we're here to deal with the crawling creature
+		She's pissed at her sisters; she's not moving until her egg hatches
+	Alistair climbs onto one of the outcroppings
+		It's kind of slippy up top
+		Body rot, sludge, other gunk
+		He can see other nests further in the room, but they only have bodies in them
+		He looks for the creature
+			Small passage past the harpy's nest that looks like an entry
+		Tetron asks for a rope
+			Grappling hook secured
+			As he secures, he catches a glimpse of a creature with hair of matted seaweed
+				Some kind of shark-like merperson?
+			It spits a jet of water at Alistair
+INITIATIVE
+	First Round
+		Nilbog casts guidance on Tetron and Viola, then fails to swim anywhere
+		Alistair leaps down and attacks the creature, hitting twice
+		The creature moves to retreat and fires on Alistair again, missing both times
+		Zaknos tries to climb up one of the outcroppings and slips, cutting his hand
+		Another creature emerges and approaches Zaknos to attack, hitting once
+		Tetron climbs up the rope and fires a telekinetic projectile, missing because he can't see well enough
+		Krug swims over to the rope and pulls Nilbog and himself onto the outcropping
+		A third creature emerges and makes for the subterranean entrance, says that she's "doing it" and cranks open a gate
+		Viola throws her knife to distract, throws again to hit one of the creature, then takes a defensive pose
+	Second Round
+		Horrendous whooping noise
+		Nilbog casts Fireball against two of them (they take half damage), then casts guidance on Zaknos to help with the climbing
+		Alistair swims toward the creature that shot him and attacks it again
+			As she bleeds, she looks in fear back at the opening that her friend opened
+		The first creature retreats and fires back at Alistair, hitting once
+		Zaknos marks prey on the second creature, swims over to it, then misses a quick draw
+		The second creature submerges
+		Tetron casts light and carefully walks across the outcropping to move the light
+		Krug jumps back down into the water and starts swimming toward the second creature
+		The third creature swims over to attack Krug, critically hitting
+		A large spike-backed creature emerges from the tunnel and swims straight for the outcropping where Tetron's standing
+		Viola fails to find the submerged second creature, so instead she climbs the rope and then tries to distract the large creature with light reflected off her knife, but she can't quite get the angle
+	Third round
+		Nilbog heals Alistair, then casts shield
+		Alistair attacks the big boy once and it glances off, and then he swims away and tries to climb a different pillar
+		The first creature fires at Krug and Alistair, hitting Krug once and missing the other two shots
+		Zaknos switches his prey to the big boi, puts away his sword, then quick draws his bow, donking off one of its spines
+		The second creature surprises Krug, dragging him underwater, and it starts to drag him towards a place where bodies are tied down for drowning
+		Tetron casts lightning bolt against big boy and creature 3, shocking them both, then moves behind Viola and Nilbog
+		Krug struggles against creature 2, kicking away on the second try, and resurfaces
+		The third creature moves up to attack Alistair, hitting once
+		The large creature leaps out of the water onto the platform with Viola, Nilbog, and Viola, swiping at Viola and Nilbog, critting
+		Viola tumbles past the big boy, takes out her rapier, then completely wiffs a finisher
+	Fourth Round
+		Nilbog heals Viola, completely restoring her, and then retreats, but he slips and falls prone
+		Alistair swims up to creature 1 and attacks twice and hits once
+		The first creature thrashes at Alistair, missing entirely
+		Zaknos unleashes four shots and only hits once
+		The second creature surfaces, then goes to flank Alistair, hitting once with its melee attack
+		Tetron casts sleep against the big boy, which becomes asleep for the next minute, then he tries and fails to distract one of the creatures by throwing a rock
+		Krug swims up to creature 3, rages, then bashes it with his shield
+		The third creature moves to get in range of Tetron, then hits Tetron with two jets
+		The big boy is asleep
+		Viola flips over creature 3, hits a finisher, then misses a killing blow with her knife
+
+XP:
+80
+8
+
+Viola's XP is 1043

@@ -1,0 +1,185 @@
+A2S19
+-----
+
+Tessra asks how she is supposed to meet with folks in Augustana
+	She is wanted
+	Plan to disguise
+What was Tessra even doing here?
+	She's trying to find the second gatestone to open the Skyward Oak
+		She claims it's a convenient location to come back to
+			Kind of sus
+			She apparently has friendly folks in the area and has cause to come back
+				Viola warns her that the Andoren gov't won't like that
+		Tessra's forces arrived to find a platoon of Deadknuckle's men at or near the Skyward Oak
+			They killed them
+			The drake got sent this morning to go after any potential stragglers
+Back to the camp
+	Return Mr. Bilger back to his family
+		His wife insists on giving us some reward
+			Viola declines, saying that we're there to help
+			Zaknos asks for a sandwich
+	With the overseer gone, the Bilgers have nothing left
+		Tetron suggest taking them back with us
+			He's a wizard and can summon magic horses
+			Viola says they could just take a wagon from the camp
+	Alistair looks through the overseer's house again
+		Only finds a wooden dildo
+	We've assembled a convoy of 15 people
+		Bilgers (5), Tessra, Cedrog, Kiruka, Party (6), Marcellus
+Travel!
+	Evening arrives as we get into the farmlands outside Augustana
+	Marcellus speaks to Krug
+		He asks who Krug worships
+			Sarenrae
+			"Who exactly does she redeem?" - Anyone who is regretful and willing to face the concequences
+			"Maybe, one day, you'll come to accept that what you've done wasn't as necessary as you think it to be."
+	Krug calls a team meeting
+		Concerned about Tessra's lack of remorse about all the murder
+		He and Viola went into this whole thing thinking that maybe that Tessra was misunderstood
+	Tetron and Zaknos first watch
+		Tetron bails as soon as folks are asleep
+		Zaknos is sitting there distracted about having had a sandwich that day
+			He sees nothing
+	Viola and Alistair second watch
+		Viola does a head count, all there
+		Alistair notices that Cedrog has tried to open his manacles and is pretending to be asleep
+			Alistair approaches and looks for whatever he was trying to pick with
+				His toothpick is next to his hand
+					Alistair goes for it and takes it
+		No incident
+	Meanwhile, Tetron gets to Augustana
+		He hails the guard and asks for Barnes
+			It's a matter of urgency
+			Dude checks Tetron's LAP ID
+		It takes 20 minutes for Barnes to be brought out
+			Tetron starts to speak, but she takes him inside the gatehouse for privacy
+			He explains that we have Tessra, Cedrog, and Marcellus
+			He hashes out details of a negotiation-turned-capture with her
+				Arriving in late morning
+				Barnes has a place she wants in the hills
+					Should be safe
+					No settlements
+					Will need to convince Tessra to be chill with it
+					We arrive at the gate, they "tell" us where to go
+					She'll send folks in advance, including anti-magic specialists
+				If this works, she will forgive the remainder of Tetron's fine
+			Tetron needs to return
+	Krug and Nilbog third watch
+		Krug mentions the Marcellus conversation to Nilbog
+			Advises Nilbog to talk to him
+		They hear off to the left Cedrog try to search for something
+			Krug goes over
+				"You can't reach your face"
+				Nilbog sticks some grass in his mouth
+					"Thanks..."
+				"What're you gonna do once you turn me in?"
+					Move on, probably
+					Cedrog makes fun of our lifestyle
+				Krug gives a small word of turn-around opportunity
+		Tetron arrives, tidies himself, and goes to sleep
+			Cedrog notices
+				"Aren't I entitled to a bathroom break?"
+				He apparently noticed that Tetron had left earlier
+Morning
+	Nilbog goes to see if Deadknuckle needed to change his grass
+		He spat it out immediately
+	Tessra wishes us good morning as she prepares
+		Viola puts make up on Tessra to set up the disguise
+	We prepare to leave
+		The kid asks if he could perhaps learn to do magic when he's older
+			Tetron gives token advice
+Arrival at Augustana
+	Viola explains the party's business and asks for a meeting with Barnes, Olorin, and Shanks
+		We're allowed in
+	Streets crowded, some kind of festival impending
+	Viola realizes that they should take care of the Bilgers before moving on, she suggests the Jaw and Mead
+Viola takes Deadknuckle to talk to the Big Three
+	[need to fill in]
+Back at the Jaw and Mead
+	Do we bring Kiruka?
+		Not necessary, but probably should, since she was there
+	Tessra talks to Tetron
+		She hasn't been in a settlement larger than a town in a long time
+		She misses part of it
+		Villagers were friendly to her and her family
+		Tetron talks about being a city boy
+			Trying to cover for his tiredness
+				She seems to buy it
+			Alistair chimes in
+		She asks where Tetron's from - Oppara
+			She doesn't know much about Taldor
+			He says that Andoran and Taldor are pretty similar
+				Hasn't been to Galt or anything
+		Where does she want to travel?
+			Visiting her brother's settlement
+				In a far forest
+			Plans to visit her father
+				Apparently an elemental
+				Will apparently see him soon
+				Lives on the coast
+	Viola returns
+		Viola reports about the meeting
+			Tessra is curious as to why we don't have it here
+				For her and the city's safety
+		We should get lunch
+			Tessra would like a sandwich
+			SHAWARMA!!!
+To the meeting
+	We arrive, and then Barnes and Shanks arrive
+		Shanks's wheelchair is fast
+	Fake negotiations begin
+		Gov't acknowledge her help with Deadknuckle
+		Gov't wants to negotiate peace
+		Meanwhile, troops are circling around
+			Conventional and magical
+		Gov't acknowledges the gates opening
+			Don't want to trample on the rights of those who have accessed, but they want some kind of security
+			Tessra wants non-regulated access, with the exception of a "few actors"
+	Slight motion of the hand from a commanding type in a tree
+		Troops appear and surround Tessra
+		We try to talk her down
+			"I wanted you to be the good guy"
+COMBAT
+	Round 1
+		Tessra completely dodges the melee troops
+		Viola steps up, fails to feint, then gets off a bon mot
+		Zaknos tries to shove his sandwich in her mouth, but she just takes the bite, then grapples her, then prepares to aid
+		Nilbog takes out holy water, approaches Tessra, and tries to shove his bottle of holy water in her mouth but fails
+		Krug tries to secure her further, but nope, so then he readies a grapple in case she tries to escape
+		Tessra tries to cast a spell, but Zaknos's grasp interferes, so she breaks free of him, so Krug tries to regrab her, but he misses
+		Alistair goes up to Tessra and trips her, then tries and fails to grapple her
+		Tetron casts Slow, but she's only affected for 1 round, then tries to gag her and fails
+		Caster guards unleashed a fuckton of magic missiles, she lives
+	Round 2
+		Tessra completely dodges the melee troops
+		Viola fails to get her to yield, fails to fake her out with a apparent rapier finishing blow, then fails to hit her with the rapier
+		Zaknos tries and fails to grab her twice, then draws his swords
+		Nilbog tries to shove his bucket hat on Tessra's head and fails three times
+		Krug completely restrains Tessra, TESSRA YIELDS
+Tessra is bound and gagged
+	She's put onto a horse
+	We decide to chat tomorrow
+Back to Augustana
+	Kiruka and Marcellus are dismissed for the night
+		They'll come to the final meeting tomorrow
+	We arrive to see festival setup continuing
+	Back at the inns
+		We check in
+	Shopping trip!
+Bedtime
+	Viola has a dream where she's on stage - one in a large theater
+		She's performing with the Carson Theatre Troupe
+		Reliving the accident, but she's holding a real sword
+			He dies this time
+		Mom and Dad run up to the guy, they yell
+		She is fatigued
+Festival Day!
+	Others notice Viola's dourness
+		They ask what's wrong
+		She opens up about the incident
+		They're super supportive
+
+XP
+--
+40 - Tessra
+80 - Quest complete

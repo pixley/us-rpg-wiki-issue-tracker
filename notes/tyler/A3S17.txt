@@ -1,0 +1,483 @@
+A3S17
+-----
+
+Fireday morning, shortly after dawn, at the Birch Branch
+	Tetron found a package when we got back to the inn
+	Varuk knocks at our door like half an hour after we got back
+		Krug answers the door
+		Varuk asks if this is a bad time
+			Krug explains that we were out late
+			Is it important?
+		Njal Zarklis, the Aegis Coalition guy that the military captured, is ready for interrogation
+			We have the slot for the whole day
+			Tetron proposes that we sleep until 3 and go then
+			This conflicts with Viola's matinee performance, so she needs to go get her understudy to take the shift
+	After Varuk leaves, Alistair announces that he has something to go do
+	Tetron to Krug: You think we can get away with using Charm in the gov't facility?
+		No
+		Also, he'd tell on Tetron
+			Narc.
+		Krug: It seems like a lot for a situation where we don't even know if they know anything
+		Tetron prepares Charm anyway
+Alistair heads to the orphanage
+	He's looking for Mouse
+	He arrives to find a large stack of building materials out front
+		Might be because of his donation?
+	He finds Mouse
+		He reports that the party's going into the prison today
+			Is there anything else to pass along to Dorfinn or Cloak?
+		Mouse lets him into her room
+			She doesn't look rested well
+				Alistair notices, asks if it's about the torture she saw
+					Before answering, she makes sure her bunkmate has already left for breakfast
+					Stareye and others talking about gas canisters (large glass container) getting shipped into town
+						All around the district now
+					Greencloaks running extra security for the safehouses and the orphanage
+					Alistair: Have the authorities been alerted?
+						They recently seized some, but the rest is too recent, probably
+			She remembers the initial topic
+Meanwhile, Tetron inspects the package he received
+	He also puts the flowers from the package in Goober's old jar
+Back with Alistair and Mouse
+	Notes for Dorfinn
+		Fortifications set up
+		Sal is under scrutiny
+		Wynn is on leave
+		State of Frey is solidified, as she's been seen multiple times in the company of Gavel Tarsus
+	Alistair asks if there's any news on Mateo
+		Nope
+	He thanks Elwyn
+		If she learns anything before 3, find Alistair
+	Alistair leaves and heads back to nap
+Back at the inn
+	Tetron is in the common room, sitting near a fireplace that he had lit
+	Alistair arrives and sees him reading
+		Vase of blue flowers sitting next to him
+		Alistair doesn't care and walks by
+			Tetron waves and keeps reading and writing
+	Tetron also writes a note to his mother
+Viola jogs down to the Eight Cups Theatre
+	She sees a bunch of production materials (sets, costumes, etc) being moved inside
+	It's kind of a pain to make her way in
+	Backstage and lighting are busy coordinating
+	Viola finds the director, sprinting around
+		The executing producer is following him around, micromanaging him
+		Viola: I've had a schedule snafu, need to have Dana sub in
+			That's fine, she's here, wait here
+		Dana comes over
+	On her way out, Viola nearly gets smacked in the face by a half-elven man
+		He excuses himself before stammering something about her visage
+			Viola: Yes?  Is something wrong with my face?
+			Guy: Nothing, it's fine
+			Viola: I insist, I'd love to know if something's up
+			Guy: I'm not good at talking about this sort of thing...
+				Waves over a dwarf with a violin and performer's clothes
+					It's Reglin
+
+Back at the inn, after sleeping ~2:45 pm
+	We gather in the common room
+	Tetron announces his package
+		Does anyone know a Dietrich?
+			No
+		He hands the letter to Viola to read and pass around
+			Viola: Cold snap in Augustana is odd
+				Tetron: Yeah, and my family doesn't know a gardener by that name
+		Tetron: However, I did take the advice to read it by the fire
+			He holds it by the fire, and secret underlines are revealed, giving a coded message
+				"Disturbance in Agrimony"
+				"Olorin to address panic"
+				"Infernal neighbors in west plan attack"
+				"Shipment siez" (sic)
+				"Dockward Hold capture Margaret"
+				"Zaugia sending a friend to aid you"
+				"Be safe"
+				"I'm being watched"
+				"Awidi"
+			Shit...
+				Alistair: Is this something we should tell the gov't?
+					If Olorin already knows, gov't knows
+				Viola: Since we know that Sloane is here in Almas and not in Augustana, we can't really assume she's involved
+				Alistair: Since Sloane likes Andoran, we might want to talk to her about it
+					She probably dislikes Cheliax too
+					Viola: We can ask the prisoner about that
+Varuk takes us to the Cerulean Keep
+	Nilbog and Zaknos go get sandwiches instead
+	Tetron to Varuk: Anything we need to know that has already been gotten out of him
+		Captured about a month ago
+		Paperwork on him that specifically noted that some sort of event happening on 19 Rova
+		Found with hat of disguise
+		Their name was in connection to multiple separate purchases from different jewel distributors
+			Went unnoticed for a while
+			But eventually the lack of info on the "buyers" caught attention
+		Arrested on fraud and attempting to circumvent restrictions on quantity-restricted material (enchanted diamonds)
+			Got caught in a sting
+	Through security again
+	Through a network of halls in the jail
+		Two-guard escort
+		Alistair keeps an eye out for people we know
+			Female goblin named Jikai, that he's met in passing
+				She and her father (Korjik) run the "less legal" side of trades
+				She gives no indication that she recognizes him
+	We arrive at a secure cell
+		The sort that a non-caster would be interviewed in
+		Dude inside is dark-haired, pale, tattoos wrapping around the face
+		Guy: Oh, good another interrogation
+			Tetron: How're they treating you
+				Good, considering
+				Would have been killed in home country
+		Guy: You have questions to ask, I have unsatisfying answers to give
+		Tetron: You know the name Sloane, yes?
+			No reaction
+			Tetron: You're less interesting than Sloane is or the thing she's planning
+		Tetron: Where were you before you came to Almas?
+			Around the city
+			Tetron: Not in Augustana?
+				Doesn't believe so
+		Interrogation summary after I lost the thread
+			Grilling him on Sloane
+			Flexing our accomplishments
+			Pressing on the bad things Coalition has done
+				Murder, fraud, propping up the worst of the Lumber Consortium
+				He says the price is worth it, and it isn't even that bad
+					Viola: Tell that to Selma, Tessra, the Kellids of the Darkmoon Vale
+				Viola: Ah!  An admission!
+			Claims that he's doing the right thing
+				Aroden's return would bring peace to his home country
+					Cheliax
+					Shit got super fucked when he died, and then House Thrune took over
+			Viola: What do you know about...
+				Sloane
+				K Ego AS / S Ego AF
+				Other people involved
+				Day of the Inheritor thing
+				Claims to not know
+			Viola: We've got an actress, a life-long thief, and a champion of Sarenrae.  We can all tell you're lying.
+		Tetron reveals the planned attack by Cheliax
+			Dude didn't know
+			We think Sloane might be responsible
+			He genuinely believes that Sloane opposes 
+			Is there anyone else we can talk to 
+				Literature professor: Haufmain
+					Also from Cheliax
+					Ally in belief, not in action
+				Tetron: how do you know Haufmain
+					He doesn't.  Sloane speaks highly of him.
+		Alistair: If we want to talk to Sloane after talking to Haufmain, where can we find her?
+			Would be difficult to find right now
+			Little far along timeline to locate her
+			If we want to talk to her, do so on 20th
+				Viola presses on potential timing
+				Guy: Things are in motion, folly to interrupt now
+		Tetron: What if the Chelaxian attack disrupted the thing tomorrow?
+			He's willing to share, but we CAN'T tell the guards
+				Dude demands that Krug promise
+					Krug: Even info is important for saving lives
+						Yes
+						The guards would draw the worst possible conclusion
+						Krug asks us if we think we can handle this ourselves
+							Viola: We've been handling this by ourselves the whole time
+					Krug agrees
+		Krug exits the room to dismiss the guards from the observation room
+			Tetron talks quiet to see if Krug can hear 
+			Krug asks one of the guards can go get water
+				Sure
+		Krug comes back
+			He couldn't hear
+			Njal starts
+				Have any of us heard of The Rending
+					Some of us are vaguely familiar
+					Droskar's Crag erupted in 3980, which flooded the Andoshen, burying entire sections of Almas
+				Old temple to Aroden that was buried
+					We've probably walked above it, as the modern Liberty District sits atop the site
+					But the ruins are there deep underground
+				And that's where Sloane is
+					Tetron: How would we get there?
+						Alistair: Prob sewers
+						The gov't keeps a guarded entrance
+						Coalition found other means of entrance
+				Njal: It's buried for a reason
+					It's quite an interesting experience; lots of history
+					Not guaranteed that we'd live if we went
+		Guard comes to let us out
+			Njal insults the guard for being useless
+				We got way more out of him in half an hour than they did in a month
+			Alistair asks if we can talk to another prisoner: Dorfinn
+				Alistair: He's not connected to Njal, but he has info that is relevant to our investigation
+				Sure
+	To another section of the Cerulean Keep
+		Dorfinn and Carol are in different cells
+			Dorfinn alone
+			Carol has bunkmates, all teen together
+		Area isn't secure enough to warrant an interrogation room
+			Alistair asks for one anything
+		Guard gathers Dorfinn and takes him down the hall
+		Dorfinn is stunned to see Alistair and the rest of us
+			As soon as doors close, he asks what Alistair is doing here
+			He has something he needs to tell Alistair
+				He didn't imagine that Alistair would be back in the city
+				An item is being held by Wynn Lightfeather
+			Alistair: Haven't found a way to get him and Cloak released, but we're working with the Greencloaks to get rid of the Clutch
+				Does Dorfinn know anything else about the Clutch?
+				He knows the boys behind it
+					They weren't ever part of the Greencloaks, but he always had them in the periphery
+					He took care of them for a short time
+					They disagreed with him on how others in the city should be handled
+				Warning: Take care when confronting them, they're dangerous and willing to do whatever it takes to take whatever parts of the city
+				They are a fist-fighter
+				Alistair: Frey joined them
+					Could we get her to defect?
+					There were disagreements
+					Even if it's foolish, he still believes that there's good in her
+					If Mateo is there, and he can be convinced, she may follow
+			Alistair: Do you know Sloane
+				Yes, they were friends and business acquaintences
+				Alistair: She's in Almas and up to no good
+					Does she have a hideout in town?
+						Yes, it's a warehouse and living quarters compound (sounds similar to Bulwark and Bolt) underground
+							Greencloaks and Sloane shared the space for some time
+					Is there a way into that temple?
+						He doesn't know anything about that.
+				Alistair: What about the Aegis Coalition
+					He knows the front
+					Sloane's dedication 
+					He believes that Sloane is a good person
+					Alistair: Does he know any other Coalition members in town?
+						Dalkan van Gandt
+						Njal
+			Alistair: Anything to tell the Greencloaks?
+				Continue to keep the children safe
+				Heard some whispers of unusual things going on in Timberfell
+					If he knows the Fenners at all, they wouldn't hesitate to go after Tamuth House
+						He does think that Frey would restrain him from that
+			Alistair: Does party have any questions
+				Viola: Don't want to embarrass Alistair by prying into personal lives
+				Krug: What was he like young
+					Got into trouble
+					Quiet
+					Good
+			As he leaves, Dorfinn says "you don't have to use the whole thing, some of it can be discarded"
+		Guard asks us to hang tight while she puts Dorfinn back
+			The guard's name is Lindsay Canyonstrike (dwarf from Five Kings)
+		Tetron chats with Lindsay on the way out
+			He asks about some magic candle that allows communication with the dead that the military might use
+			Lindsay says that they do for super-important stuff
+			It's available for purchase, but only to Adept LAPs and above
+	We're escorted to the front, and two folks are waiting for us
+		Major Zinza (catfolk officer we've talked to before)
+		Sirran Tahseen
+			He visibly cringes at the sight of us
+		Lindsay says that they requested to speak with us afterward
+		Zinza speaks
+			She summoned us because Tahseen has something to say
+			He apologizes for misrepresenting his station and for not believing our results
+				He's prodded to add that he understand that his behavior was unacceptable
+				Bows excessively
+				If there's anything that he can do to help, we can ask
+					Alistair jumps right on: Individuals in Timberfell with gas canisters
+						Zenza says that they're already on an investigation for it
+						Alistair: Can we help?  We are interested in taking down the Clutch
+							Zenza: For now, as we conduct investigation, please stand by to not compromise operatives
+								Once that's done, she'll let us know what next steps we can take, if any
+			Viola accepts the apology
+			Tetron states that his faith in the institution of the military has been restored, just to twist the knife on Tahseen
+			Tahseen asks to speak with Viola privately
+	Over in a secluded area
+		Tahseen drops his prideful demeanor
+		He looked into Viola's files as part of his attempt to discredit us
+			Viola's mom is in hospice care
+			Viola puts her hand on Tahseen's shoulder and genuinely thanks him
+				Tahseen uncomfortably points out that she's touching him
+					She doesn't like it either
+	What now?
+		Multiple things in University
+			Tetron wants to research Aroden
+			Viola wants to talk to Savaxis
+			We all should talk to Hoffman
+University of Almas, mid-afternoon
+	Viola goes to find Savaxis
+		She has to ask around to find his office, since she doesn't know what he's a professor of
+		Located, door closed
+			Viola knocks
+			"Not currently open for office hours"
+			Viola, from Augustana
+			He opens the door and recognizes her by appearance
+		He lets her in
+			Viola readies him for the Allison news
+				And then tells him the whole thing
+			Felix advises that adventurers on college campuses are being viewed with suspicion
+				Why?
+				Attack on Agrimony Point professor
+					Krynt
+						Viola knows of him due to gatestone
+					Who attacked him?
+						Not who, what: a red drake
+							Viola puts the pieces together
+								Tessra has plenty reason to want Krynt attacked
+								Being intentionally vague
+									Felix is all like, yeah, I don't want any part of that
+				But that doesn't explain why adventurers
+					Could be like an eidolon or something?
+					Viola: Nah, it's Tessra's pet, but she's in prison
+						But how'd it get in?  Airspace is secure
+							He doesn't know
+		Viola leaves to head for the Eight Cups Theatre
+	Others go to library to research Aroden
+		Alistair: Who still follows Aroden?
+			Despite no powers, but a lot of people still revere him
+				Especially due to feeling of things being better back them
+				Also, transition from Aroden to Iomedae wasn't perfect
+					Aroden was LN, Iomedae is LG
+					Humanity-first, change, innovation, and such got left behind
+					Cultural element of Arodenite philosophy was also pretty big
+						And Iomedae is really freaking recent
+							What gives her the right to swoop in?
+					Common history likes to paint the transition as pretty smooth, but not quite the case
+		Tetron: Shield of Aroden
+			Component parts, abilities, impact of restoration
+			He walks straight past all the common Aroden knowledge and goes to the librarian to ask for restricted access
+				This shit isn't for normies
+			He finds a bunch of documentation
+			The Shield has been in several key conflicts and wielded by several people
+				Aroden had it, of course
+			The Shield was built by Aroden and its construction would be difficult to replicate by mortals
+			It has broken and been reforged in the past
+				So if Tetron finds the other piece, it would need to be reforged back in
+				It would take a journey to find like a demi-god blacksmith to do that
+			The Shield is also a symbol
+				In the past, Arazni wielded it
+					It hadn't lost a battle until her
+					Her defeat was a huge blow to morale
+						Especially when undeadified
+				Pre-deity Iomedae used it for a time
+					It broke after her ascention
+			No idea how it would have ended up in some rando Galtan lady's possession
+			Functionality: Protects the bearer from death (though there must be some limitation due to Arazni), buffs allies
+		Alistair: What would happen to Iomedae if Aroden returned?
+			The natural order of things would probably be greatly and irrevocably disrupted
+				Not clear whether they'd split duties and shit
+			No god has ever come back from the dead
+		Tetron and Alistair reconvene and swap notes
+			Tetron's findings need to be discussed in private
+	Outside library
+		They see a small group walking and talking, quickly
+			Female elf who seems to be doing the briefing
+				Black hair with graying
+				Flowing robe with an eagle pattern spread across it
+			People following her nod intently
+			They go up a set of stairs
+			At the last moment, Tetron catches a glimpse of someone who he recognizes
+				It was a LONG time ago
+				But the green in his hair has faded
+				Tetron runs after them
+	Up the stairs
+		Multiple professors reach and all enter a room
+			Dwarf
+			Pink-haired old lady
+			Green-haired guy
+		As the door closes, Tetron catches it and opens it
+			Elf at the front, the provost, demands Tetron identify himself
+				This is a private meeting of faculty
+				Tetron says that he's a friend of Mihail
+			The green-haired gnome turns to face him and gives him a firm look
+				Eyes don't make contact at first...  Looking near him, something he's holding
+				Dude's able to control his emotions well
+			Elf says that he can speak to one of the professors later
+				Tetron excuses himself, saying that he must be mistaken
+		Others find Tetron halfway up the stairs
+			Tetron says that he knows the gnome from somewhere...
+			Alistair asks if he should follow him home
+				Nah, we should just talk to him
+					Gotta talk to Haufmain anyway
+				But what about Viola's play?
+					She's going to perform other days
+					Also, Day of the Inheritor is tomorrow
+			Tetron: Someone could talk to Irontarn instead
+				Krug volunteers to take Alistair
+			Tetron waits for the meeting to end
+Back to the Cerulean Keep
+	They find Major Zenza talking to a dark-skinned guy
+	Alistair: We're looking for Irontarn
+		She pulls Alistair in close
+		Zenza: How do you know this person?
+			Tetron knows someone in Augustana who referred us
+		Vabul Irontarn is in town, but pre-occupied
+			Do we need to speak to her soon?
+				Krug: Yes
+				What business?  She's one of Zenza's more capable agents in Timberfell
+					Alistair: Timberfell?  Is she looking into the gas canisters?
+						Yes
+				Alistair: Perhaps could discreetly meet instead?
+					Zenza: She isn't expecting anyone, but perhaps a missive could be sent
+						Zenza unpins one of her stars from her lapel
+						Can speak with Zenza's authority
+				Krug: How do we find Irontarn?  We haven't met her and don't know what she looks like.
+					Zenza is surprised by this but recollects herself
+					Long hair, color of drying wheat, one of very few dwarves there
+Back with Tetron at the University
+	After a long while, professors begin to file out
+		Among the last to leave is the green-haired gnome, who is talking to the provost
+			Talking about alchemical defenses for the university
+			Provost: I'm sure it was just an isolated incident
+			They notice Tetron
+				Provost: Ah, you waited
+					She excuses herself
+	Mollick invites Tetron in
+		Tetron says he's seen Mollick before and wanted to know where
+			Tetron was a student at the university
+				Mollick says that he'd only have met if he did alchemy
+			As he speaks, Tetron remembers seeing him in one of his visions in the cold
+				Tetron dead-ass admits that he's been having visions and Mollick's in them
+				Mollick says that's a common side-effect of magic items
+				Tetron asks about the Lake of Mists and Veils
+					Recounts the events he saw
+					Mollick doesn't 
+				Mollick says that Tetron should go see a magic professor instead
+				Tetron's done with Mollick being vague and calls him out
+					Tetron: Do you just not want to talk about it?
+						Yes
+					Mollick relents and properly invites him in for tea
+						Black
+	Mollick admits to having known Tetron's great-great-grandfather: Targane
+		Obstinately proud
+		Close companion and ally for some time
+			Begrudgingly called him friend, even though Targane wouldn't accept the term
+		So, what does Tetron want?
+			The visions... why were they so important
+				Adventuring party, LoMaV, etc.
+			Mollick warns that Tetron's life would be irrevocably changed (in a bad way)
+				Tetron: This is my decision
+				Mollick: I might as well be casting an 8th-level fireball at your head
+			Just seeing Tetron's face makes Mollick relive those "terrible days"
+			His companions are all dead now
+				[NAMES TO BE GIVEN]
+				Tiefling druid woman
+				Brave halfling, trapfinder
+					Didn't make it the whole way
+				Massive orc, specialized in brutally destroying things and baking
+			What they were doing
+				Expedition of discovery
+				LoMaV is an interesting geo feature
+					It's been the setpiece for many battles in the past
+					They wanted to learn more of its historical significance
+						Originally not meant to be more than that
+				When they arrived, cataloguing items and stuff beneath the ice
+				However, they (just them and their guides) didn't know at the time that the world fell apart
+					Aroden's death
+					Visions perhaps related to that
+					The lake changed
+						Mollick's warning again
+							Tetron insists that, since his companions are all gone, someone else needs to know
+								Mollick says that it really should die with him
+						It was a place of power
+							Aroden defeated a mighty foe there once
+						Amidst the chaos, Targane died, saving Mollick
+							Tetron: When you say "passed away", what do you mean?
+								Land upheaval, great flash of light, then his dead body torn asunder, his staff remaining standing
+							Tetron makes a will save...
+		Third-person view
+			Tetron's grip on his staff tightens to the point where splinters start to poke into his hand
+			A swell of arcane energy begins to emanate from Tetron
+
+XP
+--
+30 - info gathering in jail

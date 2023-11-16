@@ -1,0 +1,131 @@
+A2S10
+-----
+
+Picking up on way to guard HQ
+	Tetron and guard chat about the origins of Augustana
+	Bounty:
+		Capture of Remora: 10 gp
+		Elimination of Remora's gang: 50 gp
+	Called to meet with Barnes
+		She's holding a small ribbon: it's a leg tie for Taranis
+			Tetron also receives a map indicating no-fly zones
+		We also get LAP ID cards - they're good for purchasing restricted magic items
+		Party decides to put the bounty toward Tetron's fine
+		Barnes has arranged for a local Kellid guide (female) to accompany us in our Tessra efforts
+		We fill her in on the Joan and anonymous seller situation
+			She asks us to pay Joan a visit, secure the item she was meant to give to Remora, potentially bring her in questioning
+				According to Barnes: Joan is industrious, unlikely to give us trouble, but don't let our guard down
+				50 gp reward on the line
+				Joan is probably not working right now, but Barnes doesn't know where her house is
+Heading out from guard HQ
+	Most of party goes back to inn to heal up
+		Not to full, but it's decent
+	Alistair splits off (Taranis in tow) to scope out Joan's place in advance
+		It's in the Fleet District
+		Called the Coal and Iron
+		Someone is working inside
+			Male dwarf singing
+		Building is nice and well-kept, polished to an impressive degree, even the roof and chimneys
+		No second story (besides an outdoor storage loft), probably not Joan's residence
+		Taranis flies to get a different angle and a closer look
+		Dude is super deliberate about wiping up after himself immediately
+			He takes a short break to make tea and supper
+				Dude ate the tea leaves and mushrooms out of the tea
+Party arrives as dwarf is locking up out back
+	Taranis reports the guy leaving
+	Viola starts toward the back
+	Dwarf finishes locking up and starts to leave, Alistair follows from the rooftops
+	Viola calls out to him
+		Dude isn't happy about giving the address, but Viola convinces him using documentation from the guard
+		Tetron helps out by talking himself up
+		Address is in Oldtown
+To Oldtown
+	Buildings are largely old Taldan, not many homes
+	Joan's home is rickety, four-story, all lit up
+	Viola knocks and introduces herself
+	Dude who answers the door shouts up the building then has to go upstairs to get her
+	She asks us to be sent up
+	We go up to the fourth floor through the rest of the sharehouse
+Interview with Joan
+	Joan claims:
+		Has heard of Remora, was supposed to hand over an item to her at some point
+		Was asked to do the handover
+		Originally from Galt, her trip to Andoran was funded by way of transporting the brooch
+			From church leader (Alseta)
+		Was told by missive (anonymous) to give it to Remora
+			The authenticity of the letter verified by an eye-based crest (Aroden?)
+	Tetron asks why she left Galt
+		Terrible place, unstable gov't, wealth or political savviness dangerous to have
+		Was a luxury blacksmith, serving a local minor local noble
+	Alistair goes inside to suss out the doorman (digging through personal documents)
+		Inside a barrel of coals, he finds a token that says "the property of JK" on one side and has a chiseled leaf on the other; he doesn't take it
+		Alistair looks for papers, none to be found
+	Viola asks to see the brooch, Joan is resistant
+		Viola suggests that Nilbog shows Joan the "egg"
+		It is not like the "egg", but our story regarding it convinces her that we're trustworthy
+			Esp. that we *also* don't trust the Andoran gov't regarding it
+		She shows us the brooch, it looks like a face
+			Multicolored gems forming the irises
+			Gold trim, wooden construciton
+			It looks foreign or antiquated
+			Palm-sized
+			Joan doesn't know the significance
+				She was assured that, when the elder gave it to her, without a certain riddle, it's impossible to open
+		Tetron casts detect magic, both the brooch and doorknob are magical
+	Amlo is not the landlord; he just lives there
+	Tetron appeals to Joan regarding handing over the brooch, noting that her safety is severely at risk
+		She hands it over, and writes the riddle for us:
+			Arrange mine eyes in circles true, and this aegis I give to you
+			In the darkness full, my right by shade
+			In sunshine bright, my left by hue
+		Viola tells her to find us if she feels unsafe
+	Back downstairs
+		He doesn't go back in, as he hears someone walking around the ground floor (Amlo?)
+		Amlo exits the building, seemingly trying to leave (he has an empty basket); Alistair tails
+		Amlo heads into a crowded market and orders two skewers at a stand
+			Nothing seems to have been passed alongside the payment
+		Dude's making a sandwich the skewered meat
+		Amlo enters a tavern
+		Alistair activates his hat of disguise to turn into a non-descript street kid and enters
+	Party heads back downstairs
+		Amlo and Alistair are gone
+		Party panic
+		Viola runs back upstairs to ask Joan where Amlo tends to go
+			Pig and Pit: biergarten-ish establishment
+Meanwhile, at the Pig and Pit
+	Amlo has gone to the outdoor section, Alistair follows inconspicuously
+	Griv is out there, and Amlo heads toward him
+		They're already acquainted
+IT'S ANLO, NOT AMLO
+	Griv sees us and starts to leave, but Alistair trips him
+	Alistair then apologizes, offers to help him up, then grabs him tight
+	INITIATIVE
+		Viola menaces Anlo
+		Nilbog tries to grab Anlo
+		Two rogues approach the group and draw weapons
+		Tetron casts charm on the one next to him (success) then moves to block Anlo
+		Krug tries to grab the non-charmed one and succeeds, then asks her to drop her weapon, name-dropping the guard (this works)
+		Alistair maintains his hold on Griv
+		Anlo makes a break for it
+		Viola runs after Anlo, gets in front of him, and grabs him
+	We shackle Griv and Anlo and drag them into an alley to interrogate
+		Griv's buyer is someone who works for Goss in Galt
+		He offers his information bag as a show of goodwill (after trying to bribe Viola); Alistair pours it out; it's a bag of weasels
+		Griv is released, completely ruined
+		Anlo works for Zven's group "JK"
+		Zven seems to be very interested in Joan's brooch
+		Anlo hears through the doorknob, but he doesn't know how it works, just that he has to be in range
+Tetron takes Anlo to the charmed employee and convinces her to give Anlo a job
+
+Helja loot
+	2 Moderate healing potions
+	2 Lesser Elixirs of Life
+	1 Lesser Oil of Revelation
+
+Jade gives Viola 20 gp to help with curse, since she can't cast remove curse herself.  She advises going to the Church of Abadar instead and name-dropping her.
+
+XP
+--
+40 - encounter
+20 - learning about Zven's involvement
+60 - getting the brooch

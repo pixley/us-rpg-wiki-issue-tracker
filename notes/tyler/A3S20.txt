@@ -1,0 +1,424 @@
+A3S20
+-----
+
+We appear in the Aroden temple
+	We enter one-by-one
+		The sensation of the transition is as though our bodies are malleable
+	We find ourselves in a large rectangular room
+		Six supporting pillars, but one has collapsed
+			Cave in on that side of the room
+		Strong cave-like dampness
+			Obvious evidence of flood damage
+		A large door on the opposite side of the room protrudes from the wall
+		Our footsteps in the puddles echo
+		Broken bookshelves
+			Contents likely unrecoverable
+		Broken fountain on one wall
+		Unrecognizeable tapestries
+		Definitely the foyer
+			The size of the room indicates that the overall temple is huge
+	Nilbog looks upward towards one of the corners
+		He catches sight of a winged limb that retracts right after
+			Based on the size of the part he saw, the creature is likely huge
+	Viola looks for evidence as to whether anyone else has been through here
+		Dust, rust flakes, etc seems to indicate that this room hasn't been occupied in forever
+	Tetron analyzes the architecture
+		The materials are local, but the build style is consistent with Taldan 
+	Tetron and Krug start to head toward the door
+		As they move, a large shadow moves, and they can see two glowing dots (eyes)
+			The dots appear to be Krug-shoulder-width apart
+			Tetron messages the others to quietly communicate to stop and be quiet
+				Nilbog responds that he had seen it first, but thought that its retreat meant that it was afraid of us
+		Tetron tries to identify it (winged, subterranean, huge)
+			He had heard of sphynxes from Cyrus
+			Large headdresses
+			Traditionally found in deserts, though
+				However, Cyrus had mentioned variants
+					Subterranean variants are bat-like
+			They are generally open to parley, though not more than once or twice
+				Enjoy knowledge, banter
+			Territorial
+			Many sphinxes may have agreements with mortals
+				Seems likely given that there's no food in the room
+		Tetron messages Alistair: we will likely have to engage with it; try to sneak around the perimeter and get to the door
+			Alistair acknowledges and takes position behind one of the pillars
+		Tetron signals to the others that he's about to speak
+			Viola and Zaknos move to join him
+	The bat-like sphinx comes down from hanging upside down from the ceiling
+		It and Tetron greet each other
+		Tetron asks if this is its realm
+			No, just here temporarily with some others for a mutually beneficial
+		It introduces itself as Grisha
+		Tetron claims that we're here to meet a friend
+			Grisha says that "friend" and "enemy" are "mortal terms"
+			It says it should probably alert the others, but it's bored
+				It asks if we'd like to satiate its hunger: knowledge or flesh
+		Tetron says that he's happy to share knowledge
+			He introduces Viola as our resident storyteller
+		Viola tells it about the Alsetan temple in the Arthfell Forest
+			It likes that, says two more and it won't even participate in coming battles
+		Tetron suggests that it could learn about the recent events in Falcon's Hollow
+			It says that its circle knows some about it
+			Tetron asks if it'd like to hear a first-hand account
+			Viola tells the story
+			It likes that
+				It approaches closer in great interest
+					We can see its gnarly claws, leathery wings, and twitchy ears
+		Krug says that he has a riddle
+			"What gets wetter the more it dries?"
+			It ponders this while chirping happily
+			It doesn't know
+			"A towel!"
+			It laughs
+				"I never tire of riddles from mortals"
+		It suddenly drops to the floor
+			It moves over to the door, takes a large rock off the floor, and breaks the lock on the door in one blow
+			It says that it hopes to see us soon before jumping back up to the ceiling
+		Alistair drops his stealthy stance and starts working on the lock
+		Tetron high-fives Krug and Viola for their work
+		After a moment, something occurs to Tetron
+			That lock hasn't been touched in hundreds of years
+			That means the room was sealed
+			Sphinxes can't teleport
+		We chill while Alistair works just to make sure Grisha is in plenty of a good mood when we leave
+The next room is an even more massive chamber
+	Double doors at each cardinal direction
+	Huge chandelier broken, having fallen onto one of the four large pedestals
+	Humanoid skeletons
+	Large cave in, with rocks fallen upon a huge spiky humanoid automaton
+	A collapsed wall on one side of the room where something has burrowed into and out of the temple walls
+	Tetron detects magic
+		Central dais seems to be some kind of magic button that would require lots of weight
+		Automaton barely has a magical signature left
+			He finds an Arodenite insignia on its chest
+	Once the door is closed behind us, Tetron reports his thoughts on the lock
+		Viola: Makes sense, since we already guessed that with Sloane in town
+	Alistair starts snooping around
+	Krug goes to inspect the automaton
+		Its intricately carved with Arodenite imagery
+		Its face is almost lion-like
+		As he gets close, he hears a mechanical whirring noise
+			But the automaton doesn't seem to be aware
+		In its arms are a dozen or so humanoid remains
+			Priestly garb adorns them
+			He supposes that it was trying to protect them
+		Some bodies that he passes reminds him of the identifying stuff from that water creature we fought in the sewers under Timberfell
+			He tells the rest of us
+				Viola initially thinks that this solves that mystery, but then she thinks of it more and doesn't know why the Coalition would send something to mess with Timberfell
+	Alistair asks Tetron if he's good to explore the burrow tunnels
+		Tetron advises that we go together
+			And he's not even sure where we're going
+				He consults Nilbog
+				Nilbog identifies this as some kind of service space for common folk
+					However, its less of a central pulpit and more of a conference space
+					But it's missing some stuff: crypts, holy fountains, and sacrifical chamber
+				Tetron's follow-up question
+					So what are we looking for?
+					If we were doing some kind of prayer ritual thing, where would we do that?
+						Krug: Inner chamber
+	Nilbog loses interest and starts to follow Alistair
+		Tetron relents, supposing that if whatever dug the tunnel (a worm or something?) belongs to Sloane, the tunnel might lead us there
+			Viola asks Zaknos how old he thinks the tunnel is
+				Zaknos's conclusion: This was dug at least 100 years ago by something big
+We proceed into the tunnel
+	Alistair immediately heads south, roughly back the direction we came
+		He finds a large statue depicting a praying humanoid
+			It's draped in seaweed
+		There's a hall connecting back to the entrance
+		There's offering money
+		Alistair mentions that it has a weird hat
+	Tetron reminds Alistair to not take any coin
+		He knows not to take from religion
+	Tetron detects magic
+		The statue is necromantic
+	Viola inspects the "weird hat"
+		Turns out the statue depicts Aroden
+		And its holding treasure and baubles
+			Tetron asks Alistair to check whether anything there is modern
+				They're all water-damaged
+	We turn around and head down the north tunnel
+		We find a small room
+			Inside is a sarcophagus and a ruined fountain
+				The sarcophagus has an active abjuration magical effect on it
+			Tetron: maybe we should check inside
+				Alistair: Hell yeah
+				Viola: NO!
+			Tetron analyzes things further
+				This was apparently important enough that the magic is still plenty strong, as strong as we are
+			We argue a bit, but we decide to leave it for later
+			Tetron inspects the fountain: necromancy and transmutation
+				Viola: How often does the decanter work?
+					Tetron: As often as we want
+					Viola: We should fill the fountain, then
+				Nilbog pours holy water into the basin
+					The fountain burbles again as water fills its system
+					The sarcophagus remains unchanged
+				We leave the fountain alone as it flows
+			Viola suggests that we go up the stairs
+				Except the door is closed and doesn't appear to have any handle or anything
+				Nilbog lightly knocks on it
+					No immediate response
+					We do hear slight scuttling sounds from the other side
+				Tetron determines that the door is mundane
+					He looks for hinges
+					Turns out the door is a lifty door
+						And Krug can't lift it
+					And it turns out all the doors are of this make
+						The one we came though was busted
+Return to the automaton room
+	On the way, we note some sphynx footprints along the way
+	Two of the four sets of candles in the center of the room are now lit
+		Tetron: Maybe we should find another fountain
+	Tetron looks at the chandelier
+		It's a big boy
+		It's broken
+		Its magic (just creates magical light)
+	Viola considers the candles
+		The fire is magical
+		Nilbog picks up one of the lit candles
+			It goes out until he puts it back
+			He then picks up one of the unlit candles and tries to light it
+				No dice
+	Alistair starts to head toward the foyer
+		Wait!  Stop!  The sphynx!
+		Actually, we saw the footprints, so it left
+			So where did it go?
+			We look and it seems like it came into this room, and then crawled up the ceiling into one of the holes left by the cave-in
+	Maybe the offering statue lights the other candles?
+		We have no gems
+		Tetron: Perhaps Aroden likes other stuff?  Religion boys?
+			Krug considers this
+				Could give things relevant to Aroden's tenets?
+				But the benefit given by the statue would only be for the giver, rather than solve the candle situation
+			Viola: Good that it doesn't stop us, since the only one of his concerns that we have is humans, and we shouldn't sacrifice anybody
+				Tetron: But one of them is "fulfillment of destiny", and what destiny is better than the destiny of lovers, so why not the dubious love potion?
+	Alistair calls out from the foyer
+		There are a few magical books over there
+		Tetron heads over
+			They have a transmutation aura
+			The books aren't actual books, but a wooden carving made to look like four books
+			He pulls the books out, revealing a tunnel that was once just a safe in the wall
+				This means that someone must have come back after the fact and disguised the tunnel afterward
+Into the bookcase tunnel
+	It's dark, and Tetron casts dancing lights
+	We hear a slurping down the way
+	Krug leads on after the slurping noise
+	We reach a small nook
+		Looks like some human remains that had been devoured long ago
+		Alistair takes a look and sees nothing out of the ordinary
+			Krug next to him
+	Something drops onto Krug
+		It seeps into the space between Krug's armor and his clothes
+		It smells sulfurous
+		It seems to be corroding the armor
+		He tries to smoosh it into his gauntlet
+			He grabs hold, yanks it out, and yeets it at the others' feet
+		The slime makes for Zaknos
+			Tetron casts chill touch - crit
+			Viola stomps on it
+			Nilbog geysers it twice with the decanter - pushing it away 10 feet
+		Nilbog continues to keep it at bay until it dissolves away
+		Fortunately, Krug's armor only took surface-level damage
+	We look inside the nook
+		Multiple creatures had been dragged in
+			One is holding some kind of talisman
+				Tetron analyzes it: it's a small wooden coin affixed to a string
+					Diplomacy bonus
+End of the tunnel
+	We find another room with a sarcophagus and fountain
+		Except this one is more damaged
+		The sarcophagus is ajar from the rocks falling on it
+			Tetron takes a look inside: a dead body and treasure
+				Holding a sceptre
+			We leave it alone
+				Except Tetron flicks a piece of chalk into the gap
+	Tetron and Nilbog fill the fountain
+		We have no indication on our end that anything happened
+			The doors didn't open
+Back in the main chamber
+	All candles are lit
+	The dais is now active
+		Tetron considers it
+			Its inscribed with arcane runes related to the candles
+			However, there are two indentations in its surface that are like huge footprints in its surface
+			Tetron: We could move some of the boulders
+			Viola: Maybe all six of us could stand on it?
+				Krug, weighing upwards of 400 lbs with armor, gets it to compress some
+					Probably need a half-ton
+			Tetron sees the chandelier above and asks about dropping it
+				Viola: There's the broken one already
+	We move rocks and broken chandelier
+		It's not enough
+		Also, the doors move somewhat, but it seems to be tied to the weight on the button already, so we can't use our weight and also leave the room
+	Grisha appears again and offers its help, for a favor
+		Tetron points out that, if it has to stay here, we wouldn't be able to leave unless it let us
+			And it probably has better things to do
+		We decline
+	Krug insists that we see about the automaton, since it's trying to move
+		Viola: It's not like we'd be able to help, given that it isn't moving the rocks at all
+		Tetron: But maybe we could fix it
+		Tetron takes a look
+			Could jump-start it with a spell
+		Krug analyzes it as though it had some amount of anatomy
+			But it's not particularly helpful
+		Tetron hits it with a 4th-level lightning bolt
+			It activates some, looking around somewhat
+			We need more, but what about Sloane?
+				Tetron decides that the rest of us can do enough damage and pumps another lightning bolt
+	The automaton activates
+		Its attention immediately turns to Grisha
+		Its one good arm pushes up, while the other detaches
+		It stands at full height, towering over us
+		It draws a massive longsword and points it at Grisha
+			Something emits from the sword and Grisha nopes out of that
+		With Grisha gone, it sheathes the sword, then stands and looks at us intently
+		Tetron: Thumbs up or thumbs down if you understand us
+			It gives a thumbs up
+		It points to the four doors and gives an inquisitive look
+			Tetron starts to explain that, yes, we do want the doors open, and we'd like to come back
+			Viola interrupts to suggest that it's asking which door we want
+				Oh!  Of course!
+		Which door do we want?
+			Viola suggests north, since that's the most obvious way forward
+			Tetron wants to see what's up the stairs to the east and west
+				We agree on the doors
+		Tetron asks the automaton whether it can detect others in the building
+			It takes a moment, then nods
+			Which way?
+				It points north
+				Straight shot?
+					Yes
+		Tetron says that the automaton may need to help us
+			The other people are doing bad stuff
+			Also, 
+Up the western stairs
+	At the top of the stairs is a statue of an equine creature with a large horn
+		It has an inscription: "the innocent may proceed"
+	There's a burrowed tunnel to the west, but the statue is still in the way
+	What does it mean by "innocent"?
+		Viola: Perhaps it cares about Aroden's anathema?
+			Which would be: Doing things that make humanity less prosperous, regressive policy, destroying cultural touchstones, destroying historical knowledge, ignoring the call of destiny
+			Tetron: Not feeling too great about this...
+	We can hear faint chanting...
+	Who is the most innocent?
+		Are non-humans kosher?
+			Maybe Viola?
+		Maybe child-like innocence?
+			Viola: Alistair isn't innocent
+		Tetron: Krug is the best of us
+			Viola: Yeah, let's send Krug
+	Krug goes up
+		He's greeted by the spiritual image of a unicorn
+		It bows, the statue moves out of the way, and the unicorn disappears
+		All good?
+		Nilbog goes up next and passes
+	From the main room, we hear Grisha make an echolocaty sound, followed by a crash
+		We go to the door
+		We can see Grisha trying to bat the chandelier down onto the automaton's head
+		Tetron tells the automaton to get out of the way and take down the chandelier itself
+			It moves, and all the doors shut
+				Which means that Krug and Nilbog are trapped upstairs
+		Tetron asks Alistair to go scout
+Alistair reports
+	Grisha and the automaton are in active battle
+	Grisha is hanging on the chandelier
+	The automaton's sword has too much inertia to hit the agile Grisha
+	The automaton looks likely to lose eventually
+Back in the side room
+	We should go
+	Viola tells Krug and Nilbog through the door to hang tight while we help the automaton
+		Tetron: No, they should forge ahead
+		Viola: Forging ahead would probably kill them
+		Fine, they should hang tight
+	Viola, Tetron, and Zaknos go to meet up with Alistair
+In the stairwell
+	Krug and Nilbog decide to check out the burrowed tunnel
+	The tunnels are smaller
+		Either a smaller creature than or a younger version of whatever dug the other tunnels
+	The chanting grows louder as they proceed northward
+	As they continue forward, they can make out the specific sounds of the chanting (it's not in a language they know, though)
+	They creep around a corner and find themselves at a walkway around the second floor overlooking the open-air chamber below
+		Base of some large sacrificial altar
+			Torches, candleabras, braziers
+			Several people, including someone in the center, leading the chanting
+				Pale woman with black hair, wearing crimson robes
+				Some other people patrolling around rather than actively participating in the ritual
+		Krug and Nilbog don't seem to be noticed, aided by the sound of the chanting, but they definitely can't get closer without being seen
+Back in the pedestal chamber
+	The automaton seems to have scored a solid hit on one of Grisha's wings, but Grisha is still at it
+	Tetron shouts out: forget the chandelier, worry about the bat!
+	INITIATIVE!
+Krug and Nilbog overhearing during the fight
+	Someone reports to Sloane that they hear sounds of combat
+	They consider who is more dangerous: Tetron or Nilbog
+		Tetron is a thorn, but Nilbog is the healer
+	They are sure that Grisha will keep us busy
+	They know that the party isn't all together
+		Should they fan out to find the others?
+		Not yet.
+	They can see the lead ritualist's nose bleeding
+	As the combat continues, the lead ritualist takes a break and someone else takes over with Sloane's permission
+		Robed figure that hasn't spoken yet
+		The ritualist is still not doing good
+	A scream suddenly happens
+	"What the fuck is that?!"
+		Something is alarming them
+		Something on the ceiling
+	Spells start being cast
+		"Looks like I'm a bit early to the party..."
+			It's Kasissa!
+	Another scream of pain
+		As if a psychic connection is severed
+Combat
+	Round 1
+		Alistair delays
+		Grisha says that it can't allow us to rely on the automaton, it drops down to attack the automaton directly (miss and hit)
+		Zaknos marks Grisha as his prey, then misses three shots with his bow
+		Tetron advances into range, casts shield, and shouts to demoralize Grisha and fails
+		Viola moves to get directly beneath Grisha and takes a defensive stance
+		The automaton fails to shake Grisha off its sword, then turns around to slam Grisha into the wall
+	Round 2
+		Alistair runs over to the automaton and climbs up onto its shoulder
+		Grisha struggles to escape from the pin, then swipes at Alistair and the automaton, both of which take 17 damage
+		Zaknos fires four times but only hits once
+		Tetron steps while reach-casting blur on the automaton
+		Viola pretends to issue a fight-ending attack command to the automaton, which distracts Grisha, then moves in to throw her dagger, grazing
+		The automaton continues to smash Grisha, once against the wall, and then Grisha manages to get free before getting slammed into the ground, then only cleaves off some already-broken wing
+	Round 3
+		Alistair leaps off the automaton to flank Grisha but misses the stab
+		Grisha slashes at the automaton, disabling one of its legs with the hit, but slashes at the blur instead, then tries to climb one of the pillars, but she can't get grip
+		Zaknos moves to get LoS, then fires three times, only hitting once
+		Tetron moves to get a shot, then fires a telekinetic projectile, dealing the killing blow as it pierces straight through the soft flesh under her jaw
+Post battle
+	The automaton picks up Grisha's body and places it on the pedestal
+	Tetron asks if the automaton if it's doing okay
+		It nods
+	Tetron says we should probably go straight to the ritual chamber
+		Viola asks what about Krug and Nilbog
+		Also, Alistair is a little hurt
+	We open the door to the stairs
+		But they're gone
+	Tetron donates a healing pot to Alistair
+		Doesn't get him to full
+	Tetron asks if the direction that Krug and Nilbog went leads to the ritual chamber
+		No
+		Can it detect where they are?
+			Yes, they're in the direction of the ritual chamber
+	Tetron asks if the automaton can and will fight with us
+		Yes
+	Ready
+		The automaton points its sword toward the doors to the ritual chamber
+		They partially open with the weight of Grisha's body and boulders, and it jams its sword to prop them open
+		The automaton charges through
+The ritual chamber
+	We see a huge chamber with gold and gems in the center
+	Multiple people doing the ritual
+	Hands lady is fucking up a mage
+	Sloane and her companions are ready and take out their weapons
+	It's fucking on.
+
+XP
+--
+40
+10
+5
