@@ -4,8 +4,6 @@ No code here.  Go to the issues page to see what needs doing.
 
 When working on the Wiki, please remember to follow the [Style Guide](https://ultraspicyrpg.atlassian.net/wiki/spaces/SotS/pages/469106742/Style+Guide).  Reach out to Tyler if you have any questions.
 
--
-
 ## Labels
 
 Issues are labelled with their status and the type of page they reference.  Here is a brief guide:
