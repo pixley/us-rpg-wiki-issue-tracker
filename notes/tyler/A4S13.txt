@@ -1,0 +1,208 @@
+A4S13
+-----
+
+Sunday late morning, Triune Hall
+	COMBAT
+		Round 2
+			Tetron delayed
+			Alistair delayed
+			Construct 1 moved
+			Construct 2 moved
+			Iris moves onto the pedestal to get visual on one of the constructs and analyzes its weaknesses (sonic) but applies a personal antithesis, then contemplates its immunities and resistances
+				Resists piercing some, resists slashing more
+			Krug takes a step back, takes his shield in two hands and raises it
+				No more holding breath
+			Viola steps forward to join Krug, adopts a dueling pose, then casts a spell to protect Alistair from one of the constructs
+		Round 3
+			Tetron delays
+			Alistair delays
+			Construct 1 steps up, fails to suck Iris toward it, then swings and misses Krug
+			Construct 2 steps up, sucks Tetron toward it (but he's blocked by Viola)
+			Tetron steps back and casts Animated Assault on top of the constructs (2 successes)
+			Alistair spellstrikes with gouging claw against construct 1, then misses a follow-up stab
+			Iris casts Sound Burst on top of the constructs (success and failure), then steps up to join Krug
+			Krug shield bashes at construct 1 (crit), then misses the follow-up, then raises his shield
+			Viola tumbles away from construct 1 and dodges a reprisal, tumbles again, then makes a finishing strike
+		Round 4
+			Construct 1's form collapses, its air element moves through the party, and then its form reassembles
+			Construct 2 steps up and takes two swings at Viola (hit then miss)
+			Tetron sustains his Animated Assault (only construct 2 is still in the area), smacks construct 1 with his staff, then shields
+			Alistair stabs at construct 2 (hit, miss, hit)
+			Iris creates a mirror duplicate to flank construct 1, then stabs twice (two hits)
+			Krug shield bashes construct 1 (hit, hit), which kills it, then
+			Viola does her tumble in-and-out, misses a strike, then makes a glancing blow with a finisher
+		Round 5
+			Construct 2 swings at Viola (miss), then swings at Krug (hit, blocked with his shield), then misses a swing against Iris
+			Tetron sustains his Animated Assault, then casts Telekinetic Projectile
+			Alistair stabs (miss, hit, miss)
+			Iris's wave function collapses and she didn't move at all, intensifies her strikes, then stabs (hit, miss)
+			Krug shield bashes (crit, hit), then raises his shield
+			Viola tumbles out and back in badly and suffers an AoO crit (glimpsed), then tumbles badly again, then stabs the construct
+		Round 6
+			Construct 2 swings at Krug (hit and blocked, miss, miss)
+			Tetron sustains his Animated Assault, killing the construct
+	After combat
+		Tetron uses his staff to heal Viola and Krug
+		Krug and Viola move the remains of construct 1 onto the button
+		Alistair goes back into the fog and searches for traps
+			Finds a tile with a faint crystalline pattern
+				Magically analyzing it, it looks to be a summoning trap
+			Discovers that the upper platform on the room is a large hidden spike pit
+				Triggered by pressure
+					So Alistair won't trigger it
+				Sounds like it drops pretty damn low
+		Krug, Tetron, and Viola load construct 2's remains (12 bulk) into Tetron's bag of holding
+		Alistair finds a second pedestal past the spike pit
+			Then crosses back over to go up the other stairs on the side of the large room, finding a small hallway
+			Then he reports back
+				Viola suggests that Alistair take Tetron's bag
+				Tetron wants to take a look at the tile
+		Alistair deposits the rocks
+			Clears the fog in that room
+		Tetron inspects the tile
+			It's not a compression thing
+			Instead seems to be a point where something happens when some other condition is met
+			He heads back
+		Alistair checks the hall beyond the second pedestal room
+			The other end of the hall appears to be where the fog is coming from, and it's very dense
+				Entering the room beyond will hurt even if Alistair holds his breath
+			He heads back
+		Report back
+			Tetron figures that the tile summons the "crystal mage" when the buttons are all pressed
+			Alistair reports the thick gas
+		Into the fog
+			Tetron and Krug step onto the spike pit and fall in
+				Tetron gets fucked up and is dying 2
+				Krug LoHs Tetron
+					Tetron is wounded 1
+	INITIATIVE
+		Round 1
+			Iris uses her winged boots to fly over the pit
+			Alistair pulls out his ropes and throws them to Iris
+			Viola runs, jumps across the pit, then pulls herself up onto the stairs
+			Krug delays
+			Tetron delays
+				Tetron has 3 rounds of air remaining
+		Round 2
+			Iris lets down both ropes and secures them
+			Krug takes the ropes, tying them to himself and Tetron (regular and climbing, respectively), then starts climbing back up (15/50)
+			Tetron climbs with the assistance of the rope (which is needed) (35/50)
+			Alistair moves to fresh air
+			Viola moves to fresh air
+		Round 3
+			Iris flies over to Tetron, grabs him, then flies him over to the stairs
+			Krug finishes climbing out
+				Krug has 5 rounds of air remaining
+	Safe room
+		Iris has to catch Krug as he fails to catch the ledge
+		Tetron smacks Alistair
+			Alistair stammers out a lie of not having noticed the trap
+				Tetron catches this and realizes that this was part of the trial
+		How to deal with the thick fog
+			Maybe go down the secret passage in the other hall instead
+				Iris flies over and Alistair jumps over
+			Iris notices that the walls can compress
+				She knocks on the wall to signal Alistair
+					She mouths that the hall is trapped
+				They look and see that the mechanism is weight-based, and neither would trigger it anyway
+			There's an illusory wall past the trap
+				Inside is a third pedestal
+					Iris alights onto it
+						A click is heard
+						All the smoke dissipates
+		The crystal mage appears in the big room
+			She goes down the lower hall and picks up a geode
+			She finds Alistair and tells him that our secondary objective is to escort her and the geode to the end of the dungeon
+		The crystal mage says that we can move on, but the adverse weather takes effect as soon as the door opens
+			We can't come back
+			Healing prep
+				Alistair heals Krug
+				Krug heals Viola
+				Krug LoHs Tetron
+			Alistair feels a slight tug coming from the next room
+Steadfast Chasm
+	The chamber is a massive canyon, crossed by several bridges at various heights
+	There's an air elemental on our bridge
+	Vents at the top of the ceiling
+	Wind is currently blowing to the west
+	Chasm is bottomless
+	INITIATIVE
+		Round 1
+			Viola sprints and narrowly jumps across the broken portion of the bridge
+			Alistair casts Warp Step to join Viola, then hops across the gap
+			Living hurricane blows Viola back (Alistair resists), then moves to get between Viola and Alistair, covering the gap
+			Iris establishes personal antithesis, recommends that Krug not step on the bridge, then moves to join Viola
+			Tetron moves up, then considers the elemental
+				Immune to bleed, poison, paralysis, sleep
+				No weaknesses or resistances
+				Very reflexive
+			Krug goes out a ways onto the bridge, evaluates where the risky steps are, then moves into glimpse range with Viola and Iris
+				The whole bridge won't collapse at once
+			Crystal mage walks out onto the bridge
+				Krug shouts at her to stop
+			Wind shifts to blow south
+			Call of the void claims Viola
+				She grabs the edge
+		Round 2
+			Viola climbs back onto the bridge, feints against the elemental (success), then takes her defensive stance
+			Alistair casts Warp Step again to retreat to the other side of the bridge, then pulls his bow out
+			Living hurricane buffets Viola, Iris, and Krug (crit success, success, success) with wind, then backs away from the group
+			Iris orders the crystal mage back, runs under the elemental, intensifies vulnerability, then stabs (crit)
+			Tetron moves forward and casts Levitate on Krug
+			Krug charges past the hurricane and slashes it on the way by (miss), then raises his shield
+			Crystal mage retreats
+			Wind stays southward
+			Call of the void doesn't claim anyone
+		Round 3
+			Viola flanks the elemental with Krug, scores a finisher, and then fails a feint
+			Alistair shoots at the elemental (hit, hit, miss)
+			Living hurricane moves to cover Viola, then unleashes a burst to try to break the bridge, but it manages to stay together
+				Any additional weight will cause the bridge to collapse
+			Iris intensifies, then stabs (crit), killing the elemental
+	Post-encounter
+		Wind dies down
+		Krug uses his levitate to get the geode across safely
+		Alistair tries and fails to dislodge one of the crystals from the wall
+		Krug requests a breather
+			Krug LoHs himself
+			Krug heals Iris
+		Alistair tries again and succeeds
+			Can be crushed and purified to make teleportation gates (but you need a lot of it)
+Vault of Ratification
+	Two adjoining chambers
+		First filled with at least a dozen mirrors
+			Purple ghoulish spirits flit in and out of the mirrors
+		Second is an altar room
+			Crystalline dragon and a humanoid
+	INITIATIVE
+		Round 1
+			Spirits enter mirrors
+			Viola moves to a corner and stabs the two mirrors there
+			Dragon shoots a dazzling burst at the group (Tetron saves), then tries to demoralize Tetron
+				Alistair, Iris, and Krug are dazzled
+				Tetron is frightened 1
+			Tetron analyzes the crystal thing in the middle of the room, then casts Haste on Viola
+				Crystal golem, weak to bludgeoning, mindless
+				Tetron is no longer frightened
+			Humanoid moves to the archway separating the two chambers and gazes at Viola (she saves)
+			Iris looks into the mirrors to find the spirits, but she can't see through the dazzling for a moment, but she finds one at the opposite end of the room (she tells Alistair), then moves out of the cluster of party members
+			Krug engages the glass golem, takes his shield in two hands, then bops it
+			Alistair shoots the mirror Iris identified, fails to find another spirit, then moves to get out of LOS of the dragon
+			Glass golem swings at Krug (miss, miss, miss)
+		Round 2
+			Spirits turn up the brightness
+			Viola breaks two more mirrors
+			Dragon casts a spell: Four motes of dancing light further illuminate the room, then it burrows
+				Iris and Krug are blinded
+			Tetron finds a spirit and then sprays magic missiles
+				This dims the room a bit as one spirit
+			Humanoid approaches, then gazes at both Tetron and Alistair (both save)
+			Iris moves away from the dancing light, looks for the final spirit, finds it, then exploits vulnerability against the humanoid
+				Immune to paralysis, petrification, visual
+				Resists physical
+				Weakness to cold iron
+			Krug moves away from the light and approaches the humanoid, then punches her (hit, miss)
+			Alistair shoots the last mirror (miss, hit), then shoots the humanoid (crit)
+			Glass golem approaches Viola, swings at her (crit and glimpsed, crit miss and riposted)
+		Round 3
+			NEXT TIME
