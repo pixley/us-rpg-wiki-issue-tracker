@@ -1,0 +1,298 @@
+A5S14
+-----
+
+Sunday late morning, Vault of Ratification
+	COMBAT CONTINUES
+		Order: Mirror spirits, Viola, Dragon, Tetron, Humanoid, Iris, Krug, Alistair, Glass Golem
+		Round 3
+			The mirror next to Alistair disappears, but Tetron realizes that they've changed places
+				And then Tetron realizes that the "spirits still" clause means that we still need to break the mirrors, and that they're probably protecting the dragon now
+			Viola tumbles past the glass golem, grazes it with a finisher, then takes her defensive stance
+				Haste - 8 rounds remain
+			Dragon emerges with the mirrors on it, then shoots a crystal projectile at Krug (hit), and then tries to use the projectile to calcify Krug (crit save)
+				It has mirrors embedded on it: head, chest, left wing
+					Higher AC for the mirror points, have to declare for attacking the mirrors
+				Dazzled people will take damage when attacking it unless they avert their gaze
+			Tetron magic missiles the mirrors, but they don't break
+				He shouts out about the mirrors
+			Humanoid unleashes an aura that fills the area with pointy crystals (difficult terrain), then hardens herself
+			Iris creates a mirror duplicate, wipes the crystal dust off, then misses a strike
+			Krug bashes the humanoid with his shield (hit, miss), then raises his shield
+			Alistair brushes himself off, then shoots the humanoid (miss x2)
+			Glass golem shoves Viola into one of the lights, then swipes at her (miss x2)
+		Round 4
+			Viola tumbles back past the glass golem, strikes it (crit), then uses her cape to move to the far side of the dragon
+				Haste - 7 rounds remain
+			Dragon drops another dazzling burst on Iris and Krug (both fail), then throws a crystal at one of the Irises (hit)
+			Tetron step-casts haste on Iris, then readies a drained bonded item
+			Humanoid touches Krug (Iris tries to interrupt, but only knicks her) (successful save), then steps aside
+			Iris wipes the glitter off, intensifies vulnerability, then stabs twice (crit miss, miss)
+				Haste - 9 rounds remain
+			Krug shield bashes the humanoid (miss from dazzle, miss), then raises his shield
+			Alistair shoots the humanoid (hit, miss, miss)
+			Glass golem approaches Krug and Iris, then readies a self-destruct
+		Round 5
+			Viola fails a feint against the dragon, then activates her sword's enigma mirror to cast mirror image, which procs the thicket of knives, then attacks the left wing mirror (broken)
+				Haste - 6 rounds remain
+				Mirror image - 9 rounds remain
+			The dragon swipes its tail at Viola (failed save), knocking her prone, then stomps on her (hit), then attempts to calcify her (save fails)
+				Viola begins petrifying, slowing her
+			Tetron drains his bonded item to cast a triple magic missile at the head mirror (no break)
+			Humanoid strikes at Iris (miss) and then Krug (miss), then hardens
+			Iris switches exploit vulnerability to the glass golem (crit success) to gain the sonic weakness, strikes three times (all miss)
+				Vulnerability info:
+					Immune: bleed, death, disease, doomed, fatigue, mental, necromancy, other stuff
+					Weakness bludgeoning 7, sonic 11
+					Resist fire 7
+					Slowed by cold
+				Haste - 8 rounds remain
+			Krug shield bashes the glass golem (hit, miss, crit miss)
+			Alistair shoots at the glass golem (crit miss, hit, hit)
+			The glass golem explodes (Iris saves, Krug crit fails, humanoid crit fails)
+				Krug uses Orc Ferocity to stay up
+				Humanoid dies
+		Round 6
+			Viola strikes at head mirror (miss), feints (success), then grazes the head mirror with a finisher, breaking it
+				Viola's petrification progresses, bringing her to slowed 2
+				Haste - 5 rounds remain
+				Mirror image - 8 rounds remain
+			Dragon charges something
+			Tetron casts lightning bolt at the dragon (failed save), then looks at what the dragon is doing
+				Something is going on in its throat, so it's gonna shoot something in a line that'll hurt
+			Iris exploits vulnerability (fail, so personal antithesis), moves behind a wall, then pulls and chugs a potion, and shouts at the crystal mage to take cover
+			Krug runs over to Tetron, shoves him out of the line of fire, then takes cover himself
+			Alistair moves up, shoots at the chest mirror (miss), then takes cover
+		Round 7
+			Viola feints, crit-finishers (last mirror broke)
+				Viola becomes petrified
+			Dragon smacks petrified Viola (hit with no break, then crit with no break, miss)
+				It holds its breath
+			Tetron steps up and casts hideous laughter (save success)
+			Iris moves in, intensifies vulnerability, and strikes the dragon (hit, hit)
+			Krug battle medicines himself, then LoHs himself, then runs in
+			Alistair moves out into the open, shoots (hit), then ducks back into cover
+		Round 8
+			Dragon shifts to get Tetron into LoS and Iris interrupts it with a fatal blow
+	After combat
+		Crystal mage takes the geode to the pedestal
+		Portal opens up to return us to the material plane
+		Viola is no longer petrified
+		All our wounds and such are healed
+		Bucket Brigade goes in and is in there until the evening
+			Tetron has time to get a full day's work on his scroll crafting
+	Results
+		Optional objectives
+			Iris - land killing blow on two enemies - success
+			Tetron - no casting highest-level spells - success
+			Alistair - perceive a trap/hazard but allow an ally to fall into it - success
+			Viola - move three actions in a single round - success
+			Krug - get three different buffs from allies - failed (only two)
+		We took roughly the same time as the Silver Squires, we were slightly faster
+		Silver Squires
+			Spent the time to solve the puzzle
+				Took a bit longer than us
+			Fought the constructs well
+			Handled hazards
+			Froze the crap out of the tsunami elemental
+			Two of them fell to lower bridges and had to navigate the maze-like route back up, taking over an hour
+			Magic missiled all mirrors before they could go onto the dragon
+		Bucket Brigade
+			Immediately hit the buttons
+			Threw sharp implements and poisons into the constricting hall
+			One fell into the void
+			An enlarged party member grabbed the fire elemental and yeeted themselves in with it
+			Shattered no mirrors
+			Hours-long fight against the dragon and stuff
+		Bucket Brigade receive no certification
+		Silver Squires gain provisional Adept status
+		We gain full Adept status
+	After review
+		Time for bed
+		While we're in bed, Krug, Alistair, and Viola hear a distant boom
+			Viola notices a bright yellow-orange beam shooting upward back toward Cassomir (closer than the city is)
+				She goes to the proctors about this
+					We'd need to waive liability from the IMG in order to investigate
+					Viola goes to wake up the rest of the party
+						We didn't see anything on the way back here
+						She asks whether we should tap the Silver Squires
+							She mentions that she deliberately omitted the Bucket Brigade
+								Alistair suggests that they could work as meat shields
+								Everyone else objects
+					We rouse the Silver Squires
+						They offer to go in exchange for us helping them with an event tomorrow
+							They're offering a half-day's healing to folks in Cur's Tooth
+							Tetron wonders how we'd be helpful...
+							Being done in Iomedae's name
+								Iris refuses
+							Tetron insists that, as Adept LAPs, it's kind of their duty to help with this sort of thing
+								Also, the stuff we want to do tomorrow is a better means of us helping Cassomir than this
+							Party split
+								Krug and Alistair are down
+								Iris and Tetron are not
+								Viola ends up being the deciding vote: our talents are better spent split
+	Toward the explosion site
+		Alistair scouting ahead
+			He smells burnt timber
+			There's a big ol charred crater now
+				Like a smaller version of what happened to Patia's workshop
+			Three people were here
+				Two sets of footprints are humanoid, the third is odd
+					Third seems like maybe it transformed, going from shoes to some other weird shape
+				And then they left
+					Back toward town
+		The rest of us catch up
+			Viola asks whether Iris wants to puruse
+			What are the weird footprints...
+				Tetron thinks its definitely a shapeshifter
+				Not mammalian
+		We follow the tracks a ways
+			Footprints stop suddenly at a small cliff down
+				No indication of magic used
+				It's swampy muck from there
+			Viola suggests sending Taranis to scout
+				Yup
+				After a bit, he was able to barely make out something in the distance
+					Whatever it was was large and fast
+						Aerial
+							Context for determining what the footprints could be?
+								Krug realizes that these footprints are similar to reptilian mounts that he knew back in Belkzen
+							Perhaps one of the Bains?
+								Not proper dragon footprint...
+								Could be the son?
+								We have to catch Iris up
+								Iris considers whether her parents could be associated with the Bains
+									Access to whack gene bullshit might be appealing to her parents
+									Power and service is more important to them than particular goals
+									Could be both parents and Kyphon or one parent, Sirram, and Kyphon
+									Tetron pitches that it could have also just been Sirram's wife too
+			What got blowed up?
+				Viola and Alistair don't find crap
+			We should go back to bed
+				We walked an hour to get over here
+					Viola suggests that we just camp here
+						Except keeping watch would cost more time than just walking back to camp
+	Back to sleep
+		The others do leave before us
+Moonday midmorning
+	Back to town
+	Tetron makes phantom steeds
+Moonday late morning
+	Arrive at Cassomir
+	Now to have Taranis look for Borgan
+		Goes off for a while
+	Alistair suggests that we look into Adept-only jobs
+		But he's going off to talk to Patia instead
+			Iris'll follow along
+	Taranis returns
+		Thinks he found what "may be Borgan"
+		Wasn't able to get a good look because it's in a cloth-covered cage
+		Heard owl screaming
+		Where was this?
+			Outdoor area of the Roaring Hall
+			May be on sale
+		Cluster of cages
+	Roaring Hall
+		It's an indoor marketplace
+		Mageseeker dogs are everywhere
+		We walk through to the outdoor section
+			We find a lion-like catfolk attending the pet stall
+		We discuss our approach
+			Viola intends on reporting Borgan as stolen goods
+				Tetron was thinking that she make up a story about wanting to give a crappy pet to a hated relative
+			A halfling bumps Tetron and snatches his love? potion
+				Tetron follows
+					He witnesses the halfling steal from someone else and alerts the victim
+						It's a frilled lizardfolk who frills up and runs after the halfling
+						He punches the halfling as guards arrive
+		Viola goes up
+			Reporting Borgan as stolen goods
+				Often sells familiars of late masters
+					We know that Borgan's master isn't dead
+					Can sell to us
+						Viola: We (wizard and I) don't have need for familiars
+					Tetron walks over to verify the communication with the family
+				Insists that he got Borgan from a reputable source
+					Was it Amos Olgir?
+						No
+						Not legit
+			Tetron calls Krug over as a truthteller
+				Dude wants to know that we're Adept
+					Yup
+				Dude wants Krug to prove his faith
+					Searing Bulwark cast on Tetron
+					This is legit
+			Dude pulls out Borgan
+				Curtain aside and he immediately reacts to recognizing us
+				Dude hands Borgan over
+			So, who sold him?
+				Krug makes the ethical argument
+				Dude really wants 100 gp
+					Krug pays it
+				He pulls us to the back
+					Tells us that they're a dwarf
+						Hides his appearance as though he were a halfling
+						Gaultier the Glabrate
+						Fearful and dodgy
+						"Entirely naked on the face"
+						Distant merchant
+						Seen rarely
+			Dude sells familiar accessories
+				Tsavo the Lion Merchant
+	Hosetter Military Base
+		They're asked their business
+			The clerk lets them know that someone in the party has correspondence waiting at the Port Authority
+				Tetron, specifically
+		They find Patia in the same place she was before
+			Guard count has been heightened
+				Iris asks what the deal is
+					Three murders.
+						One person patrolling outside town on the road toward Almas
+						One person patrolling Deepspring
+						One person guarding Steelcross Bridge
+						Murders believed to be retaliatory
+						Methods
+							Neck snapped
+							Partially decapitated
+							Ripped apart
+							Clearly meant to be spectacles
+							Who could this indicate?
+								Definitely not Iris's mom
+								Could be Kyphon?
+									Alistair points out that Kyphon's killings of the bandits in Andoran involved gore wounds
+								Viola: They would have to be able to get away really easily
+						Everything is fine on the Taldan side, according to Greyguard Castle
+			Iris introduces Alistair
+				Alistair asks if she can make replacement fingers
+					Cost-prohibitive for most folks
+						Alistair asks the specific cost
+							Depends
+							Especially if extra magic features are requested
+					Alistair explains his intent for folks in Cur's Tooth
+						He asks whether them doing stuff for the Bellflower Network could make up for the cost
+							She loves the idea
+	Party reconvenes on the Taldan side of the river
+		Tetron wants to let 
+		Iris reports Tetron's correspondence
+		Iris reports the guard murders
+		Alistair mentions his intent to head to Cur's Tooth
+			Offers to ask about the murders and other such topics
+		Iris meets Borgan for the first time
+		Tetron wants to go pick up his package and then reconvene at the inn to talk to Borgan
+	Port Authority
+		Tetron receives a small packet containing cufflinks bearing the House Hyperius emblem
+			With a note from Zaugia saying that she has word that Sloane is operating in Cassomir now (out of Roaring Hall) and that Mihail is gone
+				He volunteered to try to expose and drive out Coalition agents deploying addlebrain in Copperdown
+	Back in the inn
+		Tetron reports Zaugia's note
+			This eliminates Roaring Hall from being a place where Iris's parents are hiding
+		Tetron pulls out Borgan
+			HE CAN TALK
+			Amos is still alive
+
+XP
+--
+90
+34
+120
+120
+30
