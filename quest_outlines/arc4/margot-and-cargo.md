@@ -4,9 +4,9 @@
 
 [quest log in progress; outline does not start at beginning]
 
-### A4S8, 7 Lamashan
+### A4S8
 
-#### Wealday
+#### Wealday, 7 Lamashan
 
 ##### Evening
 

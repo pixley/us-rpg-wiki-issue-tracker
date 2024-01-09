@@ -6,7 +6,7 @@
 
 ### A4S5
 
-#### Starday, 4 Lamashan
+#### Sunday, 4 Lamashan
 
 ##### Late Morning / Midday
 
@@ -42,7 +42,7 @@
 
 ### A4S6
 
-##### Continue Starday Midday
+##### Continue Sunday Midday
 
 * We also now know the sign for this portal
 * Alistair wanders off to go snooping
