@@ -1,0 +1,354 @@
+A4S17
+-----
+
+Toilday evening
+	At the Vaylens'
+		Roles
+			Viola - handmaiden
+			Krug - coachdriver
+			Iris - footman
+			Alistair - Iris's underling
+			Tetron - attendant
+		Stashing our stuff
+			Can Tetron bring his staff?
+				Viola: It's awfully flashy
+				Iris can stash it in her prosthesis
+			Viola is stashing her rapier in her gloves of storing
+			Iris can just hide her prosthesis with a glove
+			Iris: We should leave our stuff at Hosetter
+			Viola: Is there a spell that can hide magic signatures?
+				Yes, but it's risky because we can't guarantee that the person scanning is less powerful than Tetron
+			Leaving Taranis and Timpani behind
+		Vaylen Parlor
+			The family is doing their final prep
+			Tetron is handed a large stack of gift boxes
+			Tetron knows that the subject of the celebration won't arrive/appear normally, but instead will make a grand entrance at some point in the evening
+			Viola is given the Margot's arm
+				Margot asks how our prep went
+					Couldn't figure out a good way to sneak our shit in, so natural talent
+					She doesn't get a chance to respond
+			Vaylen higher-up gives warning to all that we need to be on our best behavior
+		Vaylen Stables
+			Same behavior warning
+			May have to escort early departures
+			Will have to do various tasks, so listen for instructions
+	Trip over
+		Margot's fiance is talking everyone's ears off
+		No opportunity to ask Margot questions
+	Arrival at Bain Manor
+		Upstairs windows are curtained shut, which is weird
+			Can see guards peeking out every so often
+		We see check lines
+			One for servants, one for mercs
+				Servants are checked more rigorously
+			Viola and Margot go first
+				Viola's gloves get pinged
+					They ask to see the contents
+						Flying Heron is cleared
+			Tetron and Vaylen second
+				Tetron has no magical items on his person
+			Iris's prosthesis pings
+				They don't care
+			Alistair sneaks his tools and a wand past the check
+			Krug brought his lifting belt
+				Approved
+		Into the manor, ground floor
+			Tetron sets down the gifts in the foyer
+			Intimate dining area
+			Tetron and Viola stand behind the Vaylens' party
+			Baron Sirram Bain is present
+				Greeting guests
+				Has a dragon wing pin on his lapel
+			Woman seated next to the baron
+				Sitting, not greeting folks
+				Just looking at people, menacingly
+				Probably the baroness
+				Top-to-bottom black dress with red accents
+				Wearing gloves with long pointy fingertips
+			Kyphon is absent
+		Over at the back area for servants
+			Head servant brings Krug, Iris, and Alistair over there
+			Family dining room acting as staging area for the appetizer course
+			For now, just hang tight and stay out of trouble
+		Dining room
+			Food begins coming out
+			The baron gives a welcome speech
+			Tetron looks around to identify guests
+				Some military guests
+				Major families represented
+					Prialla
+					Diborge
+						Vaylens are seated with them
+				The Kaulfields are here
+				He gives Viola the rundown
+			Lots of conversation around Margot's engagement
+		Servants
+			They're made to help stage the next course
+			Iris manages to catch a glimpse of her parents through a door
+			Alistair gets the chance to read some lips
+				The Bains are talking to each other
+					The Baroness says that it's an hour-thirty until "he's ready"
+					Baron: On-schedule
+		Dining room
+			Margot gets Viola's attention during the third course
+				From this point on, tap Margot's foot to give the signal that it's time to be dismissed
+			More courses come out
+				About 45 minutes pass
+				Tetron keeps an eye out for odd happenings/discussions
+					Basically everyone except Margot's fiance is doing secondary stuff
+						Some keeping notes of their interactions
+						Guards are eavesdropping
+						The Bains are also eavesdropping on others
+						Clear lipreading or magical listening
+						He catches the baroness's name: Isadore
+					As far as he can tell, no one is paying us much mind
+						EXCEPT ISADORE
+						At some point, Isadore has a servant accost Tetron
+							She noticed that Tetron has a tanline where a beard would be
+								He explains that he had been in Andoran for a time
+								This seems satisfactory to the servant, but Isadore is still somewhat sus
+		Servants
+			Krug is instructed to bring the gifts upstairs, alongside three other men
+				Guards step aside to allow them up
+				Instruction: enter Kyphon's room, drop gifts off, and leave immediately
+				Krug's packages are weirdly heavy
+				Kyphon's bedroom
+					Beautiful but sterile
+					Large chests at either end
+					Writing desk
+					A sealed letter is on the bed, addressed to Kyphon from his parents
+					Reptile-themed decor
+					Kyphon is somewhere else
+						And it doesn't seem like he'd be anywhere else upstairs
+				Krug has a moment to neatly arrange his cargo
+					Krug carefully pokes the letter, nothing happens
+						He yoinks it
+			Alistair has been made to wheel a cart of desserts
+				Something taped to the bottom of only one glass
+					He can tell that this is meant for Kyphon's seat
+					There's a guard in this hall, but he's there to keep folks upstairs
+					He swaps the glass with the one meant for Marquisse Kaulfield
+		Dining room
+			Marquisse Kaulfield takes the note, stashes it into a compact, then takes it out to powder her nose and try to read it
+				Tetron and Viola can read it through a mirror: "Your son is ready to greet you."
+				She summons a servant, who immediately heads to the back
+		Servants
+			Everyone is gathered
+				Potential breach in security
+				Person of interest is described as a male ganzi
+					Iris realizes that this matches her pre-transition self
+		Dining room
+			Mercs are led out of the room
+		Upstairs
+			Iris and Alistair are escored room-to-room
+			Servants' Quarters is searched first
+				Several traps and hazards disarmed and rearmed along the way
+					ALISTAIR GETS TO WATCH
+			Some kind of armory/library
+				Alistair doesn't get the chance to find anything incriminating
+				Iris notices a reading nook
+					Largest window in the house besides the foyer
+					The window can open
+					It's trapped: acid ready to hit the latch
+					Wallpaper has been rubbed away on either side of the window
+					Etchings on the windowsill: arrows (forward, left, forward, right), the letter C, dragon's head, dragon wings, dragon tail
+			Kyphon's room has been secured
+			Multiple guards in the master suite
+				Warning from guards: don't touch stuff
+				Alistair keeps an eye out for recently-written material
+					Finds a rack for ink to dry on
+						One note at the top: Letter from Kaulfields to Bains
+							Describing their search for their son
+							Asking for anything helpful
+							Glad for good business interactions
+							Iris likely to be travelling with others
+				Alistair also spots plenty of traps
+				Iris looks for any religious iconography, suspecting some kind of cult bent to the baroness
+					She spots an abstract-looking tapestry
+						Like a family portrait, but with symbols representing family members
+							Shimmering green symbol of a multiple-headed draconic thing: likely of Tiamat
+							Some sort of deity that is into mutilation and recombination: Lamashtu
+							Looks like they're forming an alliance, with blood dripping to a multichromatic draconic creature
+						She realizes that there's a connection between the Kaulfields' water stuff and the Bains' time shit
+							Her parents must be providing powerful water magics to the Bains' work
+							EITHER you'd need a lot of time to do stuff OR use time magic to accelerate stuff
+								Which means that her parents likely aren't sticking around in Cassomir for long
+		Garden
+			Krug led past a bunch of topiaries of various designs
+				There's a life-size topiary depicting an adult dragon
+				Otherwise, he just goes around like he's looking for someone
+		Dining room
+			Break before coffee and tea
+			We have the chance to mingle
+		Servants' area
+			Catching each other up
+				Alistair denies having done anything regarding the note
+				Tetron slips Alistair his drawing of Kyphon's draconic form
+				Krug gives Alistair the letter he got in Kyphon's bedroom
+				Alistair relays info about Bains' knowledge of Iris
+				Iris warns about potential Lamashtu connection
+			Should we slip the drawing of Kyphon to someone?
+				Someone gossipy...
+				But not Lord Vaylen, he's too much
+				The Prialla have a rivalry with the Vaylens
+			Alistair goes for a bathroom break
+				Reads the letter
+					Congratualtions for his hard work
+					The pain will be worth it
+					Ready to receive a signet ring
+					Soon will be able to go to a hoard
+						Can consume something there to gain knowledge
+				Include the letter with the drawing!
+				Tetron enters
+					He starts to ask what the deal is before Alistair uses his wand of invisibility
+			Invisible Alistair slips the papers under Lady Prialla's dish
+		Dining room
+			Coffee and wine are brought in
+			Kyphon's entrance is neigh
+			Lady Prialla acknowledges the "secret note" aloud
+				She turns to her husband with this
+				A servant notices, tells another, then the other exits the room
+				A moment later, guards surround the room, a servant tells Lady Prialla that she has a message
+					She's led out of the room and basically immediately bopped and taken to the basement
+			Viola taps Margot's foot to be dismissed
+		Servants' area
+			Viola invites the others downstairs
+			Alistair wants to pass a message to Lord Prialla to warn him about his wife first
+				No writing here...
+				Guess he should use a message spell
+			Iris considers the directions she saw in the library
+				Didn't get a good enough look at the garden to see the corresponding path
+		Dining room
+			Alistair sends the message
+				Alistair turns away like nothing
+				Lord Prialla charges past, knocking over Alistair's cart
+					He demands to know what the hell is going on
+		COMMOTION TIME
+			Tetron gets to watch arguing and the Bains get annoyed by the events unfolding
+			Margot asks Tetron if he knows where Viola is
+				Convening
+				She wonders whether she and the Vaylens leave
+					Tetron recommends that she follow the Bains' lead
+			Lady Vaylen is freaking out
+				Margot and her fiancee are trying to calm her
+			Meanwhile, Lord Prialla throws a coffee cup at the Bains' table
+				Baroness Bain walks up to him, puts her hand on his shoulder, and he collapses on the floor
+			Iris gathers folks
+				We should go to the garden
+				But she hears something: hollow clicks, from something alive, then a scream, then meat
+					But fuck the noble bitch
+			Priallas' guards are ready to throw down
+		Garden
+			No one here
+			Iris goes to the point beneath the library window
+				She follows the instructions and ends up in a random topiary maze
+					And then she remembers to activate her winged boots to overlook the maze
+					She finds a bit in the center and there's a stone bench
+						She notices engravings
+							Flower motifs and a slight indentation at a crocus flower
+							She presses the indentation
+								Something in the garden has moved
+				She flies back to the party
+					The dragon topiary has risen to reveal a space beneath
+			TO THE DRAGON
+				Check head, wings, and tail
+					Iris finds them
+						Switch in roof of dragon's mouth
+						Button scale in the center of the back
+						Button scale at the end of the tail
+					Heavy door opens
+						It's loud, but there's shennanigans inside the house
+						Shaft straight down to some kind of a lab with a stasis tube in the middle
+							200 foot drop
+							Kyphon is inside
+							There's an hourglass that is nearly empty
+					Iris gives Tetron his staff
+						Can we fly?
+							Didn't prepare
+							But has Rewinding Step
+								If he goes down, he can pop back up
+									SABOTAGE!  SABOTAGE!
+						Iris's chaotic magic includes Spider Climb today!
+							SEND ALISTAIR!!!
+		In the dungeon
+			Kyphon's bigger and has wings now
+			Some dead bodies
+			Chests
+			Books
+			Golden protected circle
+			Statues holding battle axes and mauls
+				They look up as soon as Iris, Tetron, and Alistair enter
+			Tetron inspects the ritual setup on the way down
+				In the stones in the floor, there are wires embedded
+					Cutting these will fuck shit up
+			INITIATIVE
+				Round 1
+					Axe automaton approaches Iris, swings both axes in one movement (hit), then uses the axes to pin Iris in place
+					Iris ponders the automaton, exploits weakness (10 fire), then attacks (hit)
+					Alistair runs behind the axe automaton, grabs a torch, and smacks the automaton with it (hit)
+					Maul automaton gets between the party and the chests, then swipes Iris and Tetron
+						It misses wildly and cracks Kyphon's tank
+					Tetron casts Cone of Cold at the floorwork, then circles around Kyphon's tank
+						Brakish red liquid starts to seep out of the floor
+					MEANWHILE, up top
+						A fight has broken out in the foyer
+						The Kaulfields have fucked off
+						Vaylens are still in the dining room and uninvolved
+						Krug asks Viola if they should intervene
+							Viola: If fight spills into dining room, we charge in
+				Round 2
+					Axe automaton pulls its axes out of Iris, then throws one of its axes at Alistair past a pillar (hit), then throws the other one (miss)
+					Iris creates a duplicate, then resolves the duplication into a flanking position, then stabs (miss)
+					Alistair steps around the pillar and spellstrikes the axe automaton with the torch (CRIT), killing it
+					Maul automaton is blocked by its dead ally, so it loops around to Tetron at the other side of the tank, and then swings its mauls at him (crit)
+					Tetron step-casts Cone of Cold to hit both the floor and the automaton (fails save), then makes himself invisible
+					MEANWHILE, up top
+						People are grabbing the Prialla daughter
+							Do we save the kid?  Yeah...
+						Viola enters the house holding the gem box like freaking Troy from Community
+							Krug follows suit
+							Quick consultation: Viola get the Vaylens out, Krug charge and save the kid
+				Round 3
+					Iris runs over to the maul automaton, then stabs it (hit)
+					Alistair Warp Steps to flank with Iris, then swings the torch (miss)
+					Maul automaton turns to Alistair and swings (nat 1), hitting the tank, then swings twice more (miss, miss)
+						Any further damage will break the tank
+					Tetron casts Lightning Bolt to fuck up the rest of the floor, then moves away from the automaton
+						No longer invisible
+					MEANWHILE, up top
+						Viola enters the dining room and tells the Vaylens that it's time to leave
+							Margot suggests breaking the window, and Viola obliges
+							And we're out
+						Krug tackles the guard holding the kid, grabs her, then makes his way out the door, body-checking folks along the way
+						Fuck the cart
+				Round 4
+					Iris stabs (hit, miss, miss)
+					Alistair swings the torch (miss, hit), killing the automaton
+			Cleanup
+				Iris grabs the automaton's axes and jams the door with them
+				All three work together shove an automaton's body to also block the door
+				Tetron blinks out
+				Alistair inspects the chests
+					Locked, Alistair picks
+					Two tries to unlock north chest
+						Fancy robes
+						Ornate dagger with dragon motifs with a rune
+						Shield with rune
+						Pair of large scaly boots
+					One try to unlock south chest
+						Evil-looking wand
+						Robe-like thing
+						Swamp-colored potion
+						Several scrolls
+					He wraps the stuff in a robe and ties it to his back
+					Climbing out
+				Tetron wants to close the thing
+					Same sequence doesn't close it
+					Reverse sequence closes it
+					He casts Lightning Bolt to attempt to fry the mechanism
+				Guards exiting the building now
+				Tetron casts more Lightning Bolts as he runs away
+
+XP
+--
+TBD
