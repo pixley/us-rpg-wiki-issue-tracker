@@ -45,9 +45,9 @@ Middle of the night, Wealday - Hidden lair beneath Bain manor
 			Some kind of complex chart of numbers covers the lid
 			Tetron takes a look at the text
 				It's infernal!
-				"The blood settles, the crowning of our country's new legacy"
-				"A "
-				[damaged]"The [something]ies a [damaged]ake the heavens"
+				"The blood settles, the crowning of our country's new legacy."
+				"A howling wind, a gale erupts this year to shape the world."
+				[damaged]"The [something]ies, a [damaged]ake the heavens."
 			Seems like several people have died investigating this puzzle
 			Tetron wants to reallocate to read the damaged text
 				We don't necessarily have the time...
