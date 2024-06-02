@@ -1,0 +1,141 @@
+A4S22
+-----
+
+Oathday, early afternoon
+	Just opened the door under Greyguard Castle
+	Squarish room within, with four figures inside
+		Constable Cheliff
+		Sloane, standing in front of a glass case
+		Short humanoid male we don't recognize
+			He was already looking at the door
+			Reaching out toward something
+		Amos at the very center of the room
+			Krug and Alistair can see his physical being, A-posing above the floor
+				Certain bits of his flesh pinched, looks like that's what's anchoring him
+			Tetron, Viola, and Krug can see his spirit
+				Krug can see the strands pinching at him, which descend into and beyond the floor
+			Tetron and Viola can see thin threads extending to someplace else
+			He's essentially being made and unmade continuously
+		Outer ring with a sunken central area
+			The floor around the outside is an odd metal, polished
+			Celestial patterns undulating on the lower floor
+		Tetron, Viola, and Alistair can see a snare at the bottom of the stairs
+	Viola: "Doing some mortal experimenting, are we?"
+	Cheliff smiles, looks to her right, and steps aside
+		And a door we can't see opens
+			We can hear people within
+			An old man steps out
+				"I heard a voice.  I'm coming out."
+	The man walks over to our side of the room
+		"You find us in an interesting situation."
+			Viola: "Do you not know who we are?"
+			Tetron: "We're just here to pick up our friend."
+				He says Amos is indesposed
+		He acknowledges our disruption of our plans
+			But he claims that he has no personal issue with us
+	Iris: could we come down the stairs, though?
+		Sloane comes over and gathers the trap
+	Two other figures come through the door the old man came through
+		A halfling and a rough-looking tiefling, both male
+			The halfling was previously seen by Krug and Nilbog beneath Almas
+			The tiefling looks kind of like Felix
+	Everyone other than the party assembles in the depression
+	The old man introduces himself as Jericho Isarn
+		He cautions against physically interacting with Amos at this point
+		He assures us that Alice and Fleche are safe
+			They no longer have need of them
+		He says that we need not fight and could come to some agreement
+		He, the short guy who was already in the room, and the two people who followed him out are apparently leaving soon
+			Viola: Our gripe with you is about hurting innocent people
+				He offers regret about that
+	Tetron: Is what you're doing to Amos merely payback, or does it have an actual purpose?
+		Jericho says that Amos was one of his closest friends, and an important visionary within the Coalition
+		Jericho still wanted to allow Amos to contribute to the goal he wanted: alleviating the human condition
+			Learning important things
+			Tetron is angling at the possibility of a trade
+				Can this be undone?
+					Possible, but extremely difficult for most mortals
+				Tetron says he knows the location of something they want, claiming we were heading toward its location
+					"Does this mean anything to you?  Faith, true-sight, loyalty"
+					Jericho acknowledges this as an Arodenite slogan
+					Tetron claims that we're tracking a brooch and offers its location rather than us pursuing it
+						Jericho takes a moment to consider this, closing his eyes
+							The floor magic shit responds to his consideration, and he levitates
+						Jericho says this is a kind offer, but the things in the cases Sloane was initially standing next to
+							The seamstresses we employed are extremely difficult to contact
+							However, Jericho says Amos is not dying or in danger
+	Jericho makes an offer: the Radiant Dawn steps away and the Coalition stops harming people
+		Viola: If your cause is so noble, why did it take us (whom you made) for you to decide to change?
+			Non-answer, instead talking about Fleche no longer believed to be relevant to the prophecy and that we might be instead
+		Viola: Okay, but what about the tiefling?  He doesn't seem to be doing so hot.
+			Sure.
+		Iris gets impatient and just tells Jericho to leave
+			He and the two who came out with him port away
+	Sloane: So, we fighting now?
+		Iris: I have no issue with you, since we haven't met.  If we're the last two standing, want to just walk away?
+			Bet
+		Viola: So, how's life treating you?
+			roll initiative
+INITIATIVE
+	Round 1
+		Cheliff approaches Iris, whiffs a hammer swing against her, then raises her shield
+		Iris exploits weakness against Cheliff and gets personal antithesis, uses her mirror, then misses a stab at Cheliff
+		Alistair uses his ring of the ram against the halfling, but he resists
+		Sloane moves to flank Iris, analyzes her movement, then whiffs a stab
+		Tetron casts chain lightning, hitting the halfling, Sloane, and Cheliff (fail, fail, crit fail), then follows up with a lightning bolt against Cheliff
+		The halfling casts globe of invulnerability, then speaks
+			"I will obliterate Amos if you continue to do this."
+		Viola takes her duelling pose, fails to discern whether the aura around Amos is dangerous, and then moves to support Iris against Sloane and Cheliff
+		Krug charges into the halfling (CRIT), then fails to shove the halfling out of the sphere
+		Iris and Viola hear a faint thumping from the door Jericho didn't come through
+	Round 2
+		Cheliff attempts to take out a potion, but Iris uses the opening to stab her, interrupting, then actually takes it out and chugs it
+		Iris intensifies Cheliff's vulnerability, then misses two stabs
+		Alistair moves to flank the halfling with Krug, then spellstrikes (CRIT)
+			Off-guard, 14 persistent bleed, 1d10 persistent fire
+		Sloane shifts to flank Viola with Cheliff, then stabs at her twice (hit but glimpsed, hit)
+		Tetron casts chain lightning against Cheliff, Sloane, and the halfling (successfully piercing the globe) (fail, fail, fail)
+			The halfling dies to the chain lighting
+		Viola feints then stabs Sloane with a nonlethal blow, then steps away from Sloane to get out of the flank
+		Krug moves between Sloane and Cheliff, swings at Cheliff (miss), then raises his shield
+		More thumping
+	Round 3
+		Cheliff offers to surrender, then moves to take out a potion but Iris stabs with the opening, killing her
+			Stab through the mouth
+		Iris goads Sloane, moves to flank her with Krug, then stabs her (hit)
+			Sloane is frightened 1
+		Alistair moves to flank Sloane with Iris, stabs her nonlethally (hit)
+			Sloane is unconscious
+		Tetron steps over and DOESN'T cast lightning bolt
+Combat over
+	Tetron and Iris argue over leaving Sloane alive
+	Viola, Iris, and Krug rush over to open the banging door
+		Alice and Fleche are tied up and gagged
+			Cut them loose
+			Iris dips
+		Alice throws her arms around Krug and starts rambling out an explanation to the situation
+		Alice has taken some damage, but Fleche is unharmed
+		Fleche explains that there was some kind of sermon to ascertain whether she was compatible with their plans, but she "did bad"
+			Alice clarifies that Fleche turned out to not be a fit
+		Viola warns them about Amos's situation
+		Alice carries Fleche to shield her from the horror
+	Iris and Tetron approach the glass display cases
+		The items are displayed almost reverently
+		Left-to-right: an ancient-looking scrap of cloth with fine gold embroidery, dark blue/teal item that looks like a congealed blob the size of a softball, large pile of fine ash (an amount that would be more than a created human's)
+		Tetron and Iris consider these
+			Tetron understands that these are remains, and they aren't just here for show - they serve a purpose here
+			Iris has heard of "weavers", "seamstresses", etc before, and the thread these creatures weave with thrum with arcane energy.  Additionally, there are creature who deal in this sort of thing who can be contacted through infernal means, but better contacted through fey means
+	Iris rummages through Sloane's stuff
+		She has magic weapons, a binding snare, mage bane
+	Tetron checks the halfling
+		Blightburn resin
+	Cheliff
+		A few more health pots (one greater and two moderate EoLs), and a glue bomb
+		Credentials
+		Keys
+		Greater striking
+	Viola: speaking of papers, we should rummage for evidence
+
+XP
+--
+120
