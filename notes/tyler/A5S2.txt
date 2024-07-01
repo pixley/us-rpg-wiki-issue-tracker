@@ -1,0 +1,204 @@
+A5S2
+----
+
+Oathday, early afternoon
+	Aegis Coalition hideout beneath Cassomir
+		Tetron picks up a stool leg, the only piece of furniture that remains after the dimensional flux
+			It's decorative, but mundane
+		What now?
+			Viola: I'm pretty beat up
+			Tetron: We should go back
+			Iris: We should debrief with Borgon
+				Borgon starts his way out of Tetron's robes
+				Tetron: We should talk back at the inn
+		Alice: What's the plan?
+			Tetron: Have you had lunch?
+				Yes...
+				I doubt you've had anything decent to eat in a while
+				Iris: Okay, where?
+	Out of the tunnels
+		Fleche notices Iris covered in blood
+		We prestidigitate before getting back onto the street
+		Food: We end up at the Tremont Inn
+			Known for rotisserie chicken and gravy
+				Their special for today is poscacci chicken
+					Which is not chicken - it's a pork cutlet
+					And also borgabam roll
+			We push two tables together
+			Alice asks how we found the location, given how obscure it is
+				Iris, Tetron, Viola: Borgon
+					Alice: You found Borgon?!
+			Iris introduces herself to Alice and Fleche
+				Iris mentions that Zaknos and Nilbog retired and she filled the gap
+					Viola explains that we were able to recover them from Zaknos's dad
+				Iris invites them to stay with us
+					Apparently, the Black Pit Tavern is a chain
+			Iris feels one of the keys on Cheliff's keyring move
+				As though it rotated to unlock something
+			Tetron asks about Fleche's education
+				Viola and Alice explain the incompatibility between travelling lifestyle and standard education
+				Iris voices her distaste toward education
+					Viola: Yeah, you grew up in Propagandaville
+			Iris complains about the tension
+				Tetron: Should we take it to go?
+					Viola: Please let's eat in a proper environment for it
+			Food arrives
+	To the Black Pit Tavern
+		We come across someone leaned up against a wall
+			Tall thin male catfolk in Andoren blues
+			Viola approaches: You wouldn't happen to be looking for the Radiant Dawn?
+				Yes!  How?
+			Dude's message: Please come see Lt Col Buracir
+				Sure, once we get the Olgir's sorted
+		Tetron recommends that maybe the Olgirs stay on the Andoren side
+	West Cassomir
+		Alice and Fleche post up at the buff maid's inn
+		We're whisked into Buracir's office as soon as we get to Hosetter
+			She asks a favor of us
+				It's regarding the Bains
+				She has on good authority that the Taldan's are assembling a pursuit immediately
+					To leave this evening
+					She wants us to be on that ship
+				We discuss among ourselves for a bit
+					Pierce and Kaulfields are the only super time-sensitive thing
+					Viola: Pierce is due to be executed on Starday
+					Iris: Alistair has the box, so not worried about the Kaulfields leaving soon
+				Call Buracir back in
+					Staying Pierce's executing would be Cheliff's domain
+						About that...
+						Buracir is aghast
+							Lots of arguing about how to handle that
+					Okay, back to the matter of the Bains
+						Background about the Dragonfen
+							Lots of beasts afoot
+								Big unmanuverable ship could be a liability
+						Iris: Do they have an accurate indication of the Bains' location?
+						Iris: Do the Taldans want us specifically?
+							Just a suggestion
+						Tetron: Could you get us clearance to reenter the Bain mansion?
+							Better way to get info on where they went
+							Buracir: Maybe...
+					Viola: But seriously, though, how do we coordinate with Taldan authorities without the Constable's death known?
+						More arguing
+				Buracir makes an aside to Alistair
+					She compliments his blades and shows him one of hers: a knife of elven make (elfinra), rare
+						She offers to trade
+							Alistair acknowledges his dragon dagger and says that he got it too recently
+								From the Bains
+						She pulls out another, allegedly made by a legendary scholar
+							He still declines
+				Buracir: So, what's the conclusion
+					Viola: Ambassadors don't get paid enough
+					Tetron: Go on ahead, just leave out the location
+			Left alone in Buracir's office
+				Alistair complains about not being allowed to just forge Cheliff's signature or something
+				Alistair pulls out the page that Alice grabbed
+					The page is damaged, but Tetron doesn't have Ghost of Lost Works prepared right now
+					The handwriting looks awfully similar to Alistair's
+					Tetron reallocates spells to have Sending ready
+			Buracir returns after an hour
+				She has the catfolk from earlier with her
+					But he remains outside
+				She's gritting her teeth, closes the door, and sits down
+				Unballing her fists, she gives the news
+					The people arranging the expedition do not have direct ties to Cheliff
+					She had difficulty pushing back Pierce's execution without giving a legitimate reason
+						Pending Cheliff's return, one would need to speak to her immediate subordinate in Greyguard Castle
+					No motion on the Bain Manor entry
+				If we find ourselves in light political trouble moving forward, she offers assistance
+				Before we go, she asks us for our thoughts on Zenza's son (the catfolk who summoned us)
+					Unanimous: he was fine
+					Viola: a little nervous
+	Buracir walks us to the Steelcross Bridge, when directly connects Hosetter's area with Greyguard's
+		Tetron asks Viola to take point in making the negotiations
+		We're led by a dwarven guard into Greyguard Castle
+	Greyguard Castle
+		We're led to the officer's quarters, into a small office
+		The guard knocks, then fucks off before the door even opens
+		The door opens to a white-furred ratfolk
+			Introduces himself as Deputy Stilton Duport
+			We're let in
+			His office is more nicely decorated than Cheliff's
+		Successfully negotiate entry to the mansion, but under Duport's supervision
+	To Bain Manor
+		Duport explains that this is his first desk job, previously a pilot on one of the airships
+		Split:
+			Tetron, Iris, and Duport upstairs
+			Viola, Alistair, and Krug downstairs
+		Upstairs
+			Tetron mentions the Lamashtu angle while Iris secretly looks for anything regarding the puzzle box
+				Iris finds correspondence from the Kaulfields about the box
+					Just hang onto it
+		Basement
+			The orb is gone... shit
+			Viola: Look busy, I guess
+			Krug looks for any changes to Kyphon's mechanism
+				Something broke the tank from above, but that's it
+		Back upstairs
+			Duport complains about the gaudiness of the Lamashtu tapestry
+		Reconvene
+			Viola: Mission accomplished!
+			Get to the TAS Flinthawk by 7 (it's 5 now)
+	Back outside
+		Viola: I need to shoot my shot to talk to Pierce
+		Tetron's got a Ghost of Dead Works ready, so the others head back to the room
+	Black Pit Tavern
+		Everyone (except Viola) gets to see Iris's renovation
+			Tetron hates it
+		Borgon: So I'm chilling here during the dragon thing, yes?
+			Tetron: Please come with.  You wouldn't want us to charge into this without your guidance, would you?
+		Tetron casts Ghost of Dead Works on the Alistair Page
+	Viola heads to the prison
+		She follows him into Greyguard Castle
+		He asks about the prison visit request
+			Viola claims that she needs to talk to Pierce pursuant to another investigation
+		Brought to a thick metal door beneath the castle
+			Duport explains that this is where those awaiting execution are held
+		The interrogation is held in a separate room from the cells
+			Pierce is chained to a table
+			Duport asks to stay in the room
+				Viola tries to claim political reasons for privacy, but has to resort to admitting personal history
+			Pierce doesn't speak or even meet Viola's gaze
+			Viola gives Arnault's tidings
+				No response
+			Viola offers to prove her innocence
+				Introduces herself and presents the Flying Heron
+					She responds to that
+			Her side of the story
+				She was giving information about Andoren affairs to someone in Cheliax, but not the government, a businessman
+				But Taldor's charges are more serious: she killed a member of House Karthis
+					During the War for the Crown, she was given orders that turned out to be a friendly-fire incident, and she retaliated against the one who gave that order
+						House Karthis was publicly neutral, but they privately backed unsavory 
+			The Flying Heron is elfinrin steel
+				She got it as a gift after saving a boy from drowning
+			Viola: Any final requests?
+				There is a woman not of this plane, some kind of myth or fairy tale
+				Supposedly can forgive a great many things
+					Or, rather, she takes on your burdens, so that your spirit can pass
+				She pulls out a small pin
+					It's of a bird, and it splits open to reveal a lock of golden hair
+				Her wish is that this makes its way to wherever she's buried
+			Who were Karthis's friends?
+				He was close to the Chief Constable
+				Viola howls with laughter
+					She admits that Cheliff is dead and with the Coalition
+		Back with Duport
+			Viola asks for directions to Cheliff's house
+				Nope, not without valid reasoning
+				Wait for her in her office instead?
+	Back upstairs
+		We wait around in Cheliff's office for like an hour
+			Duport pulls out olives from a desk drawer, scattering some papers in the process
+				Viola catches a glimpse of a few notes
+		Viola tries to weasel her way into getting Duport to leave the room
+			He promised Buracir that he'd keep an eye on all of us, despite other work he has to do
+		It gets down to the wire, and Viola has to pull the Cheliff-in-Coaltion-and-dead card
+			FUCK
+			Duport: Get out.  Go on the Bain pursuit, then report back, or else we will track you down
+Early evening
+	Viola reports back to the inn
+		Iris and Tetron are pissed
+			We have to take the deputy to the scene now
+	Back to the gates of Greyguard
+		Tetron Sendings Alice to come along as a witness
+		We call for Duport
