@@ -1,0 +1,254 @@
+A5S3
+----
+
+Resetting to just after speaking to Sabrina, but the rest of the party is there (Oathday, late afternoon)
+	With the bulk of the party outside the interrogation room
+		There is a small window in, but really only Viola's back is visible
+		Dupont is complaining about the echoiness
+		Viola emerges
+			Dupont leaves us for a brief moment to secure Sabrina, and Viola gives a quick summary
+	After Sabrina is returned to her cell, Viola asks for a moment to consult privately
+		A bit of arguing and brainstorming
+		The lack of Cheliff makes things difficult
+			Can we go over her head?
+				Tetron doesn't have a local connection of high enough station
+		Lots of circular discussion, clarification
+		Dupont checks in after a while
+			Is everything okay?
+			Iris suggests that it's time to rope him in
+				He leads us to his office
+	Dupont's office is incredibly tight, particularly for Krug
+		He puts on some chamomile tea
+		Viola requests that Sabrina's execution be stayed to help the Aegis Coalition
+			Connection to Katius
+		Why was Sabrina transferred to Taldor?  Who transferred her?
+			Cooperation between then-deputy mayor of Alvis and Cpl Scipio of Eagle's Knot Garrison
+				Viola: wuuuuuut?
+		Can we stay the execution?
+			Need authorization from Cheliff
+			Iris: but what if Cheliff doesn't return?  We have no time
+				Dupont: Could maybe tap Adm Kasaba...
+					If Cheliff doesn't return in an hour
+Outside Greyguard
+	Viola: We need to split up
+		Tetron heads to the IMG to get affidavit
+		Viola heads to Hosetter to ask Buracir about prisoner exchange
+		Krug heads to Alice's hotel to ask about Sabrina's standing with the Coalition
+		Alistair goes to find Khadija to ask about Sabrina's standing with the Coalition
+		Iris heads to the C&T Warehouse to ask about Bellflowers' knowledge of Sabrina
+Iris at Warehouse
+	Iris is given a note from Khadija with her new location
+	Iris asks about Sabrina
+		She's given a file on 15-ish trafficking operations
+			Worked with the late mayor in Alvis
+				New mayor has cut off direct aid to Bellflower
+				(Note: Abigale is responsible for the old mayor's death, per Iris prior knowledge)
+			Did other ops in and around Augustana
+		Info on the new mayor?
+			YES
+			Originally picked as deputy mayor as a local gov't unity thing
+			Name: Tuwile Elescorri
+				Originally a prominent family in Zavar, Taldor
+				That branch left Taldor prior to the War for the Crown
+					Larger family neutral in the war
+			Lack of connection to Cheliax doesn't necessarily mean that she wouldn't benefit from their intervention
+Iris to Khadija's new place
+	It's a hostel in New Codwin
+		Shared space with several others
+	Khadija says she needed to speak with us
+		Can Iris assemble the party?
+			No time
+		DANGER
+			Last thing Khadija remembers
+				She was working in her office and felt a very powerful force that she believes is necromantic wash over her
+				She used an item she happened to have nearby to prevent a full possession
+				And she stabbed herself
+			She was fighting against a vengeful spirit
+				It was trying to direct her towards some individuals
+					Middle-aged blonde woman and brownish-red-haired man
+					They live in a shack or some kind of shared building
+				Iris tells her that it was Tessra Briarwood
+					Khadija: This person must HATE Viola
+			She didn't come to until after being brought back to the city
+				She never saw Coimbitore
+	Iris: Know anything about Sabrina Pierce?
+		Worked with Coalition for a bit, but she was apparently suspected of betraying them
+		As far as she knew, Sabrina was in an Andoren prison
+		Iris clarifies
+		All Khadija knows about Scipio is that he was killed by the Radiant Dawn
+	Khadija hands over an address from the possession
+		It's in Almas, apparently in Castoff Place
+Alistair heads out to Kodarod
+	He hears conversation as he approaches
+		Deep, booming, upset voice
+			Something is atrocious and cannot be allowed to stand
+		Someone else: has to wait until the other speaker returns
+		Deep voice: Who else is still loyal?
+		Other: House of Rest?  House Dechamp?
+		Deep voice: House of Rest is a no-go, and they haven't worked with Dechamp for too long
+	At this point, he enters the main cavern
+		New person here: half-elf male, dressed in servant's clothes
+			As soon as he sees Alistair, he bows and leaves
+		Alistair asks about Khadija
+			She's already been escorted away
+				Awoken back near the city, away from the caverns
+		Alistair shoots his shot: anything about Sabrina Pierce?
+			Heard some info, but not exactly recent
+			Imprisoned pending execution
+			Did some work in Oppara back when Coimbitore was there
+				Ousted by a "striped individual"
+			Worked with the Coalition, specifically trading info to help free slaves
+				Soured relation, but Coimbitore believes it was a setup
+					Coimbitore doesn't know more personally, but he has a contact: Gaultier the Galbrate
+						Easy to spot, as he is a completely beardless dwarf
+						But he's paranoid and slippery
+						He's rarely in his office
+						He generally finds Coimbitore
+		So, what info does Coimbitore want in return?
+			Since Alistair doesn't know anything about Taldor...
+			Alistair suggests stuff about Almas
+				Omerta?
+				Alistair shares everything he knows about them
+	Alistair heads to the Roaring Hall in search of Gaultier
+Krug at the muscle maid inn to talk to Alice
+	Alice is woken up from a nap
+	Krug asks to speak privately
+		They head upstairs to her room
+			Fleche is fast asleep
+	Krug asks about Sabrina
+		She met Sabrina on a few occassions
+		Gave info about Andoren gov't movements
+		She was serving as a go-between for the Coalition and the Bellflowers
+			Working with Bellflowers directly was difficult due to ideological differences
+		Amos came to believe that there was some dishonest dealing, and he coordinated planting of evidence to get her out of the way
+			And then tipped off authorities to indicate a Cheliax connection
+		What about the Taldor thing?
+			Unknown
+		Who worked with her?
+			Someone up north at a fort or some other military installation
+			Amos even made the trip out for it
+		Alice expresses regret for her and Amos hurting Sabrina (and likely others) in this way
+			She has some paperwork that would help, but it appears to be blank
+			It would implicate Amos
+			And it's written with his blood
+	One more thing
+		Alice says that they weren't privy to much of what was going on while they were captive, but Fleche heard some kind of worship service one night near Amos
+			Singing and the like
+				Topics: redemption, fate, service
+				There's a whole song pamphlet of Coalition hymns
+			When was this?
+				Sortly before we arrived
+	Alice suggests that we all talk sometime later
+		We gotta keep Fleche from being scared of Iris
+Viola at Hosetter
+	She asks for Buracir
+	Buracir agrees that the whole prisoner transfer situation is super sus
+	Buracir is elated that Admiral Kasaba is going to get involved
+		She considers her to be the one "normal" person in the city's apparatus
+Reconvene at Greyguard
+	Tetron presents the official documentation
+	Krug mentions the documents and that Sabrina was framed
+	Alistair piggybacks off of Krug's thing to mention what he learned from Coimbitore, but he didn't find Khadija
+	Iris did find Khadija and explains Scipio's connection, and reports her account of shade-Tessra
+		Also, Bellflowers reported the deputy-mayor's connection with Abigale
+		Tetron explains that Alvis was of interest back when Taldor-Andoran relations were worse
+		Also the Elescorri family
+			Tetron jumps on: they dealt in rare metals
+			Viola: Is there a connection between Elescorri and Karthis?
+				Yes.
+	Krug: Fleche is scared of Iris
+	Viola reports that Kasaba is good to work with
+	Tetron reallocates for Ghost of Dead Works
+	Meanwhile, Iris hands over the address note to Viola
+		It's her dad's apartment
+			But how though?
+				Iris says that a common Arazni blessing is info against the target of vengeance
+			Iris suggests getting Zaknos and Nilbog involved
+				We summon Chimpy and give him the rundown
+	Spell cast!
+		Various dealings and info about Amos, Sabrina, and various other agents
+			Bellflowers from various locations
+				Including Egorian (which is now defunct)
+			Most recent entries detail Sabrina mentioning something being delivered to Agrimony Point (that something certainly being the gatestone)
+Back to Dupont
+	He acknowledges that Cheliff is still absent
+		So we go with the contigency: going across the street to the Admiralty Citadel
+	All six of us are led to Kasaba's office
+		Short hair, stocky
+		Greets us with a smile
+		She's surprised to see Dupont
+		He explains the situation
+		Viola gives her case for the stay of execution
+		Kasaba admits that Cheliff will be kind of pissed about this
+		Iris also brings up the conflict of interest regarding Cheliff
+			Kasaba mentions that Elescorri has connections with the Orthodox faction
+		Viola explains that we need the duration of the trip, plus a few days
+			Kasaba grants a five-day delay, which means that the new date is a week from today
+To the launch of the Flinthawk
+	We walk with Kasaba, since she's seeing the expedition off anyway
+	We come upon a graying man who seems unhappy to see her
+		He's the captain (Reid Grantham)
+		Also a dwarven woman and a half-elf enby
+			The dwarf, Jessie, is the pilot
+			The half-elf is Dominic Eiredor
+		There's also a swampy looking woman (leshy)
+			Her name is Bhoja
+	Kasaba advises us on the captain giving us a hard time
+	The ship has oversized masts and sails
+	The ship smells of animals and hay
+		Something's pawing below deck
+	Grantham addresses us
+		Introduces himself and the others
+			Eiredor says that they'd like to brief us when we have time
+		Grantham says that he'll brief us tomorrow
+		He then leads us below deck
+			All that's down here are ballistae and a holding pen for a pegasus and a giant eagle (Sixir and Shinbira, respectively)
+				They'll aid in the pursuit
+				Two of us will be getting a crash course on flying them
+				Tetron introduces himself to them and instructs the rest of us to do the same
+			Grantham says that, should we not have two among us suited for flight, Eiredor can step in, but he would prefer otherwise
+	Assignments
+		Tetron on Sixir, Alistair on Shinbira
+			The consideration is that having the ranged folks on these is ideal
+			Tetron already has proper riding training, but Alistair has nothing of the sort
+			TRAINING MONTAGE
+				Dominic helps Alistair
+		The rest of us will defend the ship
+			And also operate the ballista
+			Though Shinbira could carry one of us to drop onto a dragon
+			Bhoja chats with this group
+				The Dragonfen is home to many varieties of small drakes, plus various other creatures (both magical and non-magical)
+				We will not be landing in the swamp, so we don't need to worry about non-flying creatures
+				Which dragons we'd encounter is limited by which kinds would ally with the Bains
+				Most likely drakes
+					Horned and predator drakes
+					Krug knows about horned drakes
+						They're melee combatants
+						They do have a breath weapon, but it's short-range
+						One would dive-bomb
+						Large size
+						Venom (has a stinger)
+						Fast, both on land and in the air
+					Bhoja gives the rundown on predator drakes
+						More cat-like in its behavior (hit-and-run)
+						Also venomous
+						Likes to pick up prey and then drop it
+					Neither would easily board the ship while it's at speed, but they need to be dispatched quickly should they make it
+					Bhoja has antivenoms
+				And the Bains
+					Baron Bain is poisonous
+					Baroness Bain is not a natural-born dragon, but she uses fire
+						Holy damage good against her, as she is a Lamshtan fleshwarp
+				As for the ship's flight, height is valuable for preventing detection, but the ship is less maneuverable up high, and there's less air up there
+					Hoping for cloud cover
+	Viola asks Bhoja about the area around where the hoard will be
+		Bhoja explains that it's near Dunholme
+			Which was a town that fell prey to some doom
+			Some sort of creature emerged from a well
+				Pure evil, taking the form of the first person it killed (allegedly)
+			This is near where Baroness Bain was first sighted
+		Very dense forest
+		Bhoja warns against fighting inside the hoard location
+			Very well defended
+	Alistair getting the hang of flight
+		Starting to be able to let go with hands
