@@ -1,0 +1,222 @@
+A5S4
+----
+
+Late Oathday evening, aboard TAS Flinthawk
+	Tetron and Alistair wrap up their flight training
+	Dominic and Bhoja start chatting
+	Hammocks have been strung up below deck for us
+		Krug starts LoHing everyone
+		We sleep
+			It starts to get humid overnight
+			Bestial screeches and clicks in the far distance
+Fireday morning
+	Light rain and mist
+	Jessie approaches us
+		The Flinthawk can't turn on a dime
+		The ballistae can be used against drakes
+			Does require broadside facing
+		She asks us what sort of approach we'd like for the ship's movement
+			Aggressive
+			Defensive, shaking off
+			Speed
+		Tetron pitches aggressive to give the melee guys a chance
+		Bhoja chimes in, saying that our presence may be enough to get them to approach
+			Viola: I can get their attention
+		Tetron: what is the dragons' MO?
+			They can get the drop on us
+			Okay, speed then
+		Warning: if you fall off, you will die
+			Tetron is going to prep Fly for the melee combatants
+			She also has a scroll of Gentle Landing to give to one of us
+				We agree: Alistair, just in case
+	Capt Grantham approaches once Jessie is finished
+		He points to the hoard on a map, then indicates the surrounding area
+			Lots of dragons here
+		Plan is to use whatever cloud cover we can get to approach
+			Ship has no cloaking ability
+			If we can, we'll try to make it to the hoard and strike there
+				Not especially likely we'll make it there before we're seen
+		Double-check that Tetron and Alistair are good to mount
+			Yup
+Flying onward
+	Alistair takes watch in the crow's nest
+		Shinbira will be ready to get him when combat starts
+		Iris and Viola also keeping watch on the bow
+	In the early afternoon, Alistair catches sight of something through his spyglass
+		A few draconic shapes approaching, lower altitude than the ship
+		EXCEPT it's an illusion
+			But real ones approaching from the side
+		He Messages the captain
+			Captain immediately orders rapid descent
+		We become level with a horned drake that had been in position to ram the underside of a ship, surprising it
+INITIATIVE
+	Round 1
+		Baron Bain drops onto the deck, unleashing a massive shockwave, knocking some folks back (but not off); then casts a spell that creates acid rain; then casts Shield
+			Acid Storm: 10 rounds
+		Viola Hastes; tumbles to the other side of Baron Bain; misses a stab; takes dueling pose
+			Haste: 10 rounds
+		Horned drake flies up to Alistair; then stabs Alistair with its stinger
+			120 feet above deck
+		Dominic casts Dimensional Assault against Baron Bain (flanking with Viola); enters Arcane Cascade; then misses a follow-up strike
+			They notice a consecration mark on the Baron's head and lesions from some kind of thing previously worn around his neck
+		Shinbira emerges from below deck to pick up Alistair; then flies higher above the horned drake
+			170 feet above deck
+		Baronness Bain shoots up from below; then drops a Slow on us (except Alistair)
+			Viola, Krug, Iris slowed 1, 10 rounds
+			Dominic slowed 2, 10 rounds
+		Tetron Hastes Krug and Iris, stepping off-deck
+			Iris and Krug quickened, 10 rounds
+		Sixir swoops up and catches Tetron; then flies higher
+			120 feet above deck
+		Iris steps forward to engage Baron Bain; creates a duplicate; then creates a personal antithesis against Baron Bain
+			Quickened and slowed, 9 rounds
+		Alistair shoots at the horned drake (hit); then casts Ray of Frost (miss)
+		Predator drake swoops over to Tetron and Sixir; then bites at Tetron (hit), grabbing him
+		Krug moves up to Baron Bain; misses a slash; then raises his shield
+			Quickend and slowed, 9 rounds
+		Jessie calls out to warn to hold on, then suddenly drops altitude
+			Baron Bain bucked off the ship, and other fliers left behind (100 feet above deck unless otherwise specified)
+			Deck is 100 feet lower
+			Horned drake and Sixir/Tetron 220 feet above deck
+			Shinbira/Alistair 270 feet above deck
+	Round 2
+		Baron Bain flies up to Shinbira/Alistair's altitude; then casts Blinding Foam against Alistair (hit)
+			Alistair 1d6 persistent acid damage and blinded (max 10 rounds)
+			270 feet above deck
+		Viola casts Mirror Image (gaining Thicket of Knives in the process), then readies to support Iris's next attack
+			Quickened and slowed, 9 rounds
+			Mirror image, 10 rounds
+			Thicket of Knives, 1 round
+		Horned drake flies up level with Shinbira/Alistair; claws at Shinbira (crit); then grabs her
+			260 feet above deck
+		Dominic mentions the thing that's up with the baron's neck
+			Slowed 2, 9 rounds
+		Shinbira wrests herself free of the horned drake, rises into the sky (clearing some of the gunk from Alistair's eyes)
+			270 feet above deck
+		Isadore drops Fireball on the deck; descends to level with the ship; then misses a strike against Dominic
+			Even with deck
+		Tetron casts Laughing Fit against the predator drake; then tells Sixir to fly down toward the ship
+			Sustain to keep predator drake slowed 1 and unable to use reactions
+			95 feet above deck
+		Iris activates her boots; flies to flank Isadore with Dominic, then stabs her (crit)
+			Even with deck
+		Alistair wipes the remaining gunk out of his eyes, then shoots at the horned drake (miss)
+		Predator drake dives down
+			70 feet above deck
+		Krug approaches Isadore; slashes at her (hit); then LoHs Dominic
+		Capt Grantham fires a ballista at her (hit)
+		Jessie activates the fire sprinklers
+	Round 3
+		Baron Bain descends to a bit above Tetron/Sixir's altitude; then casts Disintegrate (Tetron adjusts to have Sixir take the spell, crit+save)
+			110 feet above deck
+		Viola approaches Isadore, feints, then narrowly misses a finisher
+			Quickened and slowed, 8 rounds
+			Mirror image, 9 rounds
+		Horned drake dives
+			80 feed above deck
+		Dominic strikes Isadore (hit)
+			Slowed 2, 8 rounds
+		Shinbira dives; then talon-strikes the horned drake (crit)
+			80 feet above deck
+		Isadore casts Call the Blood on Iris, causing blood to erupt; continues flight; then strikes Iris
+			Iris, sickened 2
+		Tetron pulls his Staff of Healing and two-action Heals himself
+		Sixir pulls back toward the ship, drive-by-kicking the horned drake on the way (hit)
+			Even with deck
+		Iris retches (fail); stabs at Isadore (miss); then repositions to give a better flank on Isadore
+			Quickened and slowed, 8 rounds
+			Sickened 2
+			Even with deck
+		Alistair switches to his sword; then misses two slashes against the horned drake
+		Predator drake dives to engage Viola and Krug; then stabs Viola with its stinger (glimpsed; no damage)
+		Krug uses Lucent Strike against Isadore (miss); then raises his shield
+			He notices a glowing symbol on Isadore's chest
+			Quickened and slowed, 8 rounds
+		Jessie continues to manage the sprinklers
+			Fire is almost out
+		Capt Grantham fires the ballista at the horned drake (hit)
+	Round 4
+		Baron Bain descends toward the ship; then casts Never Mind on Dominic (fail)
+			30 feet above deck
+		Viola feints against Isadore; then crits a finisher on Isadore, killing her; then 
+			Mirror image, 8 rounds, 2 images left
+			Quickened and slowed, 7 rounds
+		Horned drake flaps; then claws at Shinbira (crit, miss)
+			80 feet above deck
+		Dominic casts Dimensional Assault to attack the predator drake (hit)
+			Slowed 2, 7 rounds
+			Stupefied 4, permanent
+		Shinbira talon strikes the horned drake (miss, hit); then flaps
+			80 feed above deck
+		Tetron casts Chain Lighting against Baron Bain (save) and predator drake (fail); then casts Shield
+		Sixir flies up to give line against both horned drake and Baron
+			125 feet above deck
+		Iris retches (fail); flies to flank predator drake with Dominic; then stabs at it (miss)
+			Quickened and slowed, 7 rounds
+			Sickened 2
+			Even with deck
+		Alistair slashes at the horned drake (hit, miss, miss)
+		Predator drake lashes out at Krug (miss), Iris (miss), and Viola (crit miss; missed riposte)
+			Even with deck
+		Krug casts Sun Blade against the Baron (crit); then raises his shield
+		Jessie fumbles with the fire control system
+		Grantham fires another ballista shot at the horned drake (hit)
+	Round 5
+		Baron Bain casts Never Mind on Viola (save fail); then flaps
+			30 feet above deck
+			Frightful presence
+				Viola frightened 4
+				Iris, Krug, and Dominic frightened 2
+				Alistair frightened 1
+		Viola hears a comforting voice as she sees all sorts of past and future events, gaining Wings of the Heron; Viola uses Wings of the Heron to gain flight; then flies over to confront Bain directly
+			Frightened 3
+			Stupefied 4
+			Mirror image, 7 rounds, 2 images remain
+			30 feet above deck
+		Horned drake bites Alistair (crit, hit), then flaps
+			Alistair knocked out and slides off Shinbira
+			Alistair dying 1
+		Dominic stabs at the predator drake (crit miss)
+			Slowed 2, 7 rounds
+			Stupefied 4
+		Shinbira dives and catches Alistair in her talons; drops him off on rear deck; then picks up Capt Grantham and goes back to engage the horned drake
+			Even with deck
+		Tetron casts Lightning Bolt against the horned drake and Baron Bain (save success, crit fail), killing the horned drake; then indicates to Sixir that he wants to help Alistair
+		Sixir lands on the deck
+			Even with deck
+		Iris stabs at the predator drake (hit, miss, miss)
+			Frightened 1
+			Quickened and slowed, 6 rounds
+			Sickened 2
+			Even with deck
+		Predator drake snaps at Iris (crit, but glimpsed), knocking out Iris; then continues to attack her unconscious body (miss, miss)
+			Iris dying 2
+		Krug LoHs Iris; slashes at the predator drake (miss); then grants Seaking Bulwark to Iris
+			Iris wounded 1
+			Iris +2 status bonus to AC, 1 round
+			Iris Searing Bulwark, 10 rounds
+		Jessie finishes putting out the fire and feeds Alistair a heal pot
+			Alistair wounded 1
+		Grantham approaches Bain and strikes at him (miss), then says something to Shinbira
+	Round 6
+		Baron Bain strikes with his horn at Viola (crit fail - missed riposte, miss); then flaps
+		3 feet above deck
+		Viola grazes Bain with a finisher; then feints twice (fail, success)
+			Frightened 2
+			Stupefied 4
+			Mirror image, 6 rounds, 2 images remain
+			30 feet above deck
+		Alistair stands up; switches back to his bow; fires his bow at Bain (crit)
+		Dominic stabs at the predator drake (crit), killing it
+			Slowed 2, 6 rounds
+			Stupefied 4
+		Shinbira attacks Bain (miss, miss); then flaps
+		Tetron dismounts; then casts Electric Arc at the Baron (save success), killing him
+After combat
+	Tetron starts to reallocate a spell slot to get Disintegrate ready to destroy Bain's body
+		Once ready, he gives an "Ancestors, if you're watching, this is my answer."
+		Bain's belongings are left behind
+
+XP
+--
+160
