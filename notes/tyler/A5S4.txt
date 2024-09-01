@@ -220,3 +220,4 @@ After combat
 XP
 --
 160
+30
