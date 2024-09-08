@@ -1,0 +1,323 @@
+A5S6
+----
+
+Fireday evening, inside the Dragon Fen cave
+	Tetron and Iris asks to take some time to heal up
+		40 minutes
+	Alistair looks around during the wait
+		He makes it back down to the bottom of the mound
+		He sees bones belonging to all kinds of creatures, not just draconic or humanoid
+			Some very large too
+		Semicircular marks carved into the ground in front of some wooden planks
+			The planks appear to open to something within the mound
+			He checks one for traps
+				There's some kind of mucus covering the separation point
+					Severe contact poison
+			Alistair calls up to the rest of us
+				Krug: Please wait
+					Okay
+		He starts going around burning the corrupted red ferns
+			They smell like flesh when they burn
+	Viola just keeps watch
+	Tetron's reallocating spells
+	The burning flesh smell prompts Tetron to consider the possibility that creatures were turned to plants
+		Normally, transmutation stuff is concerned with flesh-to-stone and back
+		He's not familiar with a particular spell, but it's certainly within the realm of possibility
+		Tetron asks Alistair if he knows what he's burning
+			Bad stuff.
+	Viola begins to feel like we're not alone in this chamber
+		She mentions the feeling to the others
+			They're kind of dismissive about it
+	Alistair gathers some bones that look to be in sellable condition
+	Tetron inspects the well
+		Murky water that goes deep into the earth
+			Cannot even remotely see the bottom
+			Not any worse-looking than other swamp water
+		He feels a primal presence emanating from the well, similar to how Targane feels in the arcane
+		Something is tainting this well of magic
+	Krug finishes his healing stuff
+	So what now?
+		Alistair: I want to open the door!
+		Tetron: We need to investigate the well.
+			Iris: The door goes beneath the well
+	We gather at the door
+		Krug pulls it open
+		The hole requires bending over for all except Alistair
+		It's completely dark inside
+			Alistair lights his wayfinder
+			There's water within, and we can't see the bottom
+				Small reflective bits are in the water
+				The water is moving, despite all other bodies of water around being still
+			Powerful chaotic energy emanates from the opening
+				Iris observes its similarity to the Maelstrom
+		Tetron: Okay, what do?
+			Iris: Whatever spawned Isadore is down there; we need to eliminate it
+			Alistair has drought powder
+				Would get rid of a significant part of it
+				But we do still have water breathing
+					Iris: But what would exposing ourselves to it do?
+						The water is controlled by something within
+							Would the drought powder piss it off?
+								YEET
+	The water level drops very quickly
+		The reflective stuff is the hoard
+		Something scratched the fuck out of the walls, through its entire length
+		Something within makes a very disturbed noise
+			Primal screeching
+INITIATIVE
+	Round 1
+		Tetron steps forward, then casts Howling Blizzard into the remaining water (creature saves)
+			Area is difficult terrain now (the water has turned to slush)
+			Also the slush makes the creature somewhat visible
+		Alistair steps forward and fires an arrow into the shape (hit, miss)
+		Viola tries to locate the creature's precise position (nope), starts singing to draw attention away from Alistair (success), then takes her dueling pose
+		Iris tries to identify a weakness of the creature (none), then resistances (mental), then pulls and chugs a potion of quickness
+		Krug walks up to the edge, bolsters his aura, then raises his shield
+		The creature casts Prismatic Spray on all of us (all save except Viola, who benefits from Krug's Glimpse), then tries to smack Krug (miss)
+			Enfeebled 2, 1 round
+		We feel a rumble
+	Round 2
+		Tetron casts Howling Blizzard again (creature fails the save), then steps back
+		Alistair stabs at the creature (crit, miss), then backs away
+			Creature: persistent fire 1d10
+			Creature: enfeebled 1, 1 round
+			Creature: off-guard, 1 round
+		Viola stabs with a finisher (hit), tumbles around (success), then takes her dueling pose
+		Iris steps forward, intensifies the vulnerability, then stabs (hit, hit)
+		Krug slashes with holy might (hit), raises his shield, then slashes again (miss)
+			Creature: weakness 6 to Strikes, 1 round
+		The creature casts a spell (Iris misses a responding stab; Iris and Viola crit save, Krug saves, Tetron and Alistair fail), then Iris hears in her mind "give back what was stolen from me"
+			Then it dies from being on fire
+After combat
+	The water lurches, and then an awful purple ichor fills the water
+	Alistair wants money, but he won't be able to see through the water
+		He grabs as much as he can from dry land
+	Krug and Iris swim to the other end
+		There's a giant heart at the bottom
+			It's pallid and no longer beating
+			Iris thoroughly inspects it
+				It's less of a creature and more a pure manifestation of the Maelstrom
+				Something had to specifically make its way here from that plane
+				Iris considers the relationship between her parents and the Bains
+					It extends at least as far back as Iris can remember
+				She feels a reclaiming feeling
+				She places her non-prosthetic hand on it
+					She feels like she could gain something here
+						A glimpse or push deeper?
+							Push 1 - success - Iris's self is muted as her perception expands, confusing and overwhelming
+								What does she seek?
+									Why is Iris the way she is?
+										Stream of consciousness:
+											a stagecoach, a throng of people surrounding it (some run over)
+											roiling chaos of an unfamiliar city on fire
+											stagecoach door opens and a few figures quickly shuffle in
+											Ravana's arm is covered in some dark liquid
+											she tries to remove it but can't
+											she looks at Eligor
+											he asks whether it was a success
+											it was
+							Push 2 - fail
+				As Iris's organic hand is pushed away, she stabs the shit out of the heart with her prosthetic
+		And a shitton of treasure down here too
+		Krug tries to determine a source for the red ferns
+			It's denser here than anywhere else, but it's not a singular connected organism or anything
+		Krug notices the change in the water and goes to check on Iris
+			He sees her stabbing repeatedly
+			He tries to get her attention
+			She looks back, clearly frustrated, shakes her head, and returns to the surface
+	Both emerge from the water
+		Krug asks what Iris was doing and whether she's okay
+			Iris: I'll be fine
+		Iris reports that all the treasure is down there
+			Tetron: No plug?
+				Nope
+		So, we'll have to go down and gather treasure by hand
+			It'll take time
+		Results
+			210 cp
+			1769 sp
+			4891 gp
+			93 pp
+			Combined: 6000 gp
+			Potions:
+				Drakeheart Mutagen - 11
+				Blight Breath - 12
+				Dragon Bile - 15
+				Greater Elixir of Life x3 - 13
+				Purple Worm Venom x2 - 13
+			Took about 45 minutes
+	Viola: How do we exit?
+		???
+	Alistair: We should investigate the well
+		Tetron gives it a proper analysis
+			It is possible to gain power from it
+			This is a place of power for primal magic
+			Drinking of this water would grant boons, but it has been corrupted by the creature below, so it is mutagenic
+			Unfortunately, Tetron isn't especially knowledgeable about the Maelstrom
+			There MIGHT be a way to ready oneself or purify the water
+			Tetron shares all this with the rest of us
+				Krug has an idea: Since the Maelstrom is pure chaos, the magic would need to be removed/unraveled, but it would be difficult, especially from an arcane perspective
+			Tetron takes this into consideration, places his hands at the surface of the water
+				Putrid tendrils begin to coalesce near his hands
+				After a moment, he finishes and flings the gunk aside
+			He uses one of his magic sugar cubes, then drinks from the well
+				Nothing appears to have happened to him physically
+			Alistair proproses bottling it and reselling it
+				Eaugh
+				He fills a waterskin with it anyway
+	Iris huffs off in disgust and looks for a way out
+		If someone could make it up there and swim against the current, and we could go out the way we came in
+		There are small pockets where climbable vines are growing down, but Krug can't fit
+		We can send Iris with a rope to throw back down through the terlet
+			And that's what we do
+Back on the surface
+	Tetron picks up the thurimble
+	Alistair burns more red ferns on the way back
+	We make it back to where we were dropped off
+		Iris shoots off the flare
+Late night, TAS Flinkhawk
+	Grantham alone at the helm
+	Sleepy time
+Overnight
+	Tetron does not mutate, but he gains a partial boost to INT for the next week
+	Tetron pulled into Targane's liminal space inside the Zenith Staff
+		Targane looks bored
+		He berates Tetron about the primordial soup
+		He insists that Tetron be more grateful to him
+			Tetron's insipid choices don't serve himself or the party
+			He recognizes that his offer has been thrown back in his face
+			Tetron is being shortsighted
+		Tetron: Do you know why I drank the juice?
+			Because it's worth it if it assists the others
+			Unlike YOU
+			Power is nothing if it is not applied
+				Targane: We agree, but serving these useless buffoons is without benefit
+		Targane: The others aren't working toward your goal
+		Tetron: What were you before you were a wizard?
+			Targane: Never not pursuing that
+			And that's why you're wrong
+				Like ants working together to build the colony
+				It's tactical folly to not go that route
+		Targane: The making of a great wizard is that they need not rely on anyone
+			He goes off on how dumb and bad the others are
+		Targane conjures images of Tetron casting support spells, esp Haste
+			There's an opportunity cost to boosting the others
+			You could be granting yourself these boons
+			Nothing else is important
+				Not family
+				Not partner
+				NOTHING
+			You have to go all-in to pursue your goals
+				Tetron: Sure, but what is the difference between a wizard and a magical monster?
+					The others are better than me in other regards
+					I can make a difference.  My grandfather made a difference because he was inspired by you.  My father made a difference.
+		Tetron: So can I go to bed now?
+		Targane's expression shifts to sheer bitterness
+			We need not speak here again
+			Now that I've received your unequivocal response, I'll let you know: I will be endeavoring to take what is mine
+			You will be locked out of this staff
+			Good luck with your found family BS
+			He still intends to take Tetron's body
+	All of us sleep dreamlessly
+		It has been some time since any of us had any dream, save Iris
+Starday late morning
+	Alistair asks Tetron about the swamp juice
+		Basically no effect
+	Viola has a plate put in front of her
+		Jessie offers to feed Viola
+		Viola protests, she's not mentally disabled
+	Pancakes for breakfast!
+	Iris opens conversation
+		Does anyone else feel like the Bain's connection to the Malestrom, the Bain's connection to the Kaulfields, and Iris's biology are a coincidence?
+		Viola: Is your mom not your mom?
+			No, stupid
+		Iris: I think I might have been some kind of experiment
+		Viola: But if it was deliberate, why did your parents hate you?
+			I didn't come out strong
+	Alistair goes to look for more pancakes
+		But he stumbles when the ship lurches when engaging its turbo
+		He does get more pancakes
+	Viola: Tetron, you were about to say something?
+		Maybe, still deciding, but I want more pancakes first
+			Dominic volunteers to refill since they wanted more too
+		Tetron eventally shares his conversation with Targane
+			Alistair: Ditch the staff?
+				No, it's a family heirloom
+			Pointed toward the Jagged Saw about it
+			Viola: Can we at least find some way to reassert Tetron if we notice that Targane has taken the wheel?
+				Maybe?
+	Iris goes above deck to see how the flight is going
+		Jessie reports that the captain requested expedited return to Cassomir
+			We're apparently in a most-hands-on-deck situation
+			Someone important to the city is compromised, and we're heading back to aid
+				Iris offers the Radiant Dawn's services
+	Tetron gets to work on some scrolls to pass time
+		Iris requests Tailwind
+			Get a wand
+			Iris can't use wands
+		He does Darkvision instead
+	Alistair goes above deck and looks out across the landscape
+		There are a few scattered villages on the edges of the fen
+	Krug sits and prays
+		He feels off today
+Mid-afternoon
+	Alistair can see Cassomir in the distance
+		And the ship begins to descend
+	The ship docks in a large arcane cradle-like structure
+		No one greets us
+	Jessie escorts us off
+		She believes that our aid was instrumental in the operation's success
+		She offers aid in the future
+	Announcement: TAS Flinthawk crew summoned for debrief
+	Dominic has been taken for treatment
+		Tetron goes to ask if Viola could get the same treatment
+			Jessie gives her endorsement
+		Viola is led away
+	So the others are just left unattended in Greyguard Castle
+		Wait on Viola or report back to Hosetter?
+			Should also check on Pierce for Viola
+			And wait for her
+	Viola led below
+		Into a medical ward
+		Dominic treated first
+	It's taking a while for Viola to return
+		Should we follow?
+		They have no idea where to go
+		A soldier approaches
+			They explain that Viola got hit with Never Mind and they're looking for her
+			Another soldier escorts them
+		They find Viola and Dominic on cots
+			The nurses there are talking, clearly stressed
+				They notice the party
+				They explain that the caster was very powerful, so they haven't had success
+				Iris volunteers if they have a scroll (since Tetron can't cast it)
+					NOPE
+			They offer to hold Viola here while they wait for another caster to become available
+				Iris: How long?
+					20 minutes if the first try works, but could be much longer
+				Tetron: Alternatives?
+					Temple of Abadar for coin
+					Maybe Hosetter?
+					Private mage?
+					Alistair: Could also check in with the Heartwood
+					Reminder: Coimbitore the Generous is also an option
+				Tetron: Could get some housekeeping done while we wait for Viola
+					Could sell stuff in Almas
+				Iris is not interested in leaving Cassomir
+				Krug, Tetron, and Alistair head out
+					They have to be escorted
+			The other healer comes by
+				NOPE
+Port to Almas
+	Selling!!!
+		Except incense and thurimble need a special buyer
+			Alistair's expertise needed here
+				Seeking Beltracci
+					NOPE
+			Perhaps an academic?
+				There was someone who would be into that, but it was Prof Mollick, and he gone
+			Might be better to try to sell it in Taldor...
+
+XP
+--
+60
