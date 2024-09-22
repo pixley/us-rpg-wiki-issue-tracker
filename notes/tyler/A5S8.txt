@@ -1,0 +1,342 @@
+A5S8
+----
+
+Cassomir, after midnight, Sunday
+	Alistair staking out Cheliff's apartment
+		Looks like all occupants have finally fallen asleep
+		He crosses over to the roof of the apartment building
+		He uses his Insistant Door Knocker to create a magical passage through the roof into the building
+	He finds himself in the living room
+		A dog-sized lizard-like man in a robe is sleeping on the couch
+		He looks around the room
+			He finds some papers weirdly stuffed into a side table drawer
+				He takes a subtle peek
+					One mentions the Orthodox Exaltists and a list of materials
+				He carefully opens the drawer and retrieves it
+					There's also keys and a bowl made of mother-of-pearl
+						He leaves them alone
+		He then moves over to the door to the office
+			He checks the door for traps: none
+	Into the office
+		There's a lion statuette atop a stack of books atop a chest
+		He looks around the room before stepping in, suspicious that the door wasn't trapped
+			Nothing suspicious other than the lion
+		He approaches the lion
+			It's magic
+			He attempts to disarm it: nope
+				But he notices that there's a weight trigger at the bottom
+					He realizes he could slide his dagger under that trigger to keep it from activating when lifted
+				There's a latch on the underside
+					Opening it reveals a small rolled piece of parchment
+						List of names and dates
+							Looks to be a list of clandestine meetings
+								Some of these look to be infernal agents
+			He considers the books the lion was atop
+				Nothing within the books really stands out to him, other than some rhetoric
+					So nothing particularly incriminating
+			And there's the chest
+				No traps, but locked
+					He picks it
+					Open!
+				A full set of armor
+				Weapons with runes
+				Small tube with stoppers on either side
+					Weighty with gold filigree
+					He takes that without looking at it for the moment
+				He takes the armor and weapons as well
+		Now for the desk
+			A book with blatant fascist rhetoric
+				With a "property of Cheliff" written in it
+			A few diaries, covering the past several years
+				He takes them without reading them
+			A rolled-up map
+				It's of Taldor
+				Various locations (with no obvious reason) marked
+				He takes it
+			No drawers in the desk
+		Bookshelf
+			Various books on academic topics
+		He looks around the bed
+			He finds a memory box
+				Wedding vows inside
+					Detail something about 14 Neth 4709
+					In both Common and Tien
+					He leaves those alone
+	Back out to the living room
+		The lizard guy is still asleep
+		He goes to the next door
+			It's the kitchen
+	Kitchen
+		Nothing incriminating, but it is stocked with insects in addition to regular food
+		He takes a quick look before moving on
+			In a dark corner, he finds a small pack secured to the underside of a table
+				Within, there is a copy of the keyring, but mundane
+					Unfortunately, it's not visually identical to the magic keys, so he can't swap them
+					He takes it anyway
+	Next door is the bathroom
+		Feels like someone was in here recently
+			Warm humid air, embers in the fireplace, fresh laundry
+		More searching...
+			Looks like some paper was thrown in the fire recently
+				He uses the poker to pull the remnants of the papers over to him
+					For Tetron
+	Back to the living room
+		Alistair looks at the lizard guy for pockets
+			He has a cravat
+				Save that for last
+		He approaches the bedroom
+			It has a doggy door
+				He pokes his head through
+					He can see the wife laid up
+				He squeezes through
+	In the bedroom
+		Docs on the nightstand
+		Vanity also has items of interest
+		And there's a bookcase
+		He looks for traps
+			Nope, but the vanity has an unordinary space behind the mirror
+				It looks like something could be pressed on the mirror frame...
+					He considers it, but the only thing that seems like it could be relevant is the note in the charm
+						It's half of something...
+		A briefcase atop the bookcase
+			Contains Aegis Coalition info
+		He goes out to get the other keys to get the other half of the thing
+			It's a Tien poem
+			It indicates the moon design on the mirror
+			Behind the mirror is a dossier packet, including a personal letter from High Strategos Pythareus
+				He takes the packet
+	Back out to the living room
+		He pickpockets the lizard guy
+			It's a cockroach - blek
+		He uses his door knocker to leave
+			But he hears a scratchy voice near him
+				It says his name...
+				But he can't see where it came from
+				"You are known to me now.  Don't run."
+				He gets the fuck out of dodge
+	Out in the streets
+		The voice slightly fades as he flees the area
+		He activates the darkness in his cloak
+		He's not being physically pursued
+		He makes it back to the Black Pit Tavern
+	In the tavern
+		Krug is awake when Alistair enters the room
+			He's been concerned about Tetron
+				Tetron's been sleeping listlessly, with feverish sweating and groans of pain
+			Alistair reports what happened
+				Krug figures it can wait, pending Tetron's condition
+					Borgon chimes in, saying that it's quite the disease
+			Krug hopes that it wasn't the swamp water
+		The sound of breaking or popping bone emits from Tetron
+			This is what woke Krug up initially
+			Alistair asks if they should take him to a cleric
+			Taranis asks whether he should wake Tetron up
+			Another crack is followed by Tetron yelping
+			Alistair mentions what Gourdon said about the water
+			Should we wake the others?
+				Yes
+		Viola and Iris join the discussion
+			After a while, a massive tearing sound
+				Tetron's pants have ripped apart, revealing a mottled brown mass
+			Iris considers what the primordial energy could be
+				Deffo the swamp juice
+				Could be temporary... could be permanent
+			Tetron's right foot is hardening
+			Alistair volunteers to go find a druid
+				Cur's Tooth is his backup plan
+			Tetron's lower half continues to grow
+	At Cur's Tooth
+		Alistair heads toward Tarik the Unclean's place
+			After a while, a bleary elf with a damaged face answers the door
+			He explains the emergency and his need for a druid (or other primal caster)
+			Dude suggests Coimbitore
+	To the Bellflower HQ
+		There's someone already awake
+		Alistair explains the emergency
+			The gnome goes to get someone
+		Ten minutes later, an old tiefling comes out
+			"I heard someone's looking for a druid"
+			Alistair explains again
+			She agrees to follow him
+	Back at the Black Pit
+		A wet bloody mass of hair is emerging from the bottom end of the mass
+		Tetron looks uncharactistically vulnerable
+		Krug is LoHing to keep Tetron from sustaining grevious injuries
+		Alistair and the druid appear
+			She berates us for allowing him to drink the water
+		The druid inspects Tetron
+			He's doing better than she'd expect of someone of his stature
+			She declares that he's turning into a centaur
+			She asks how much he drank
+				A cupped hands amount
+		She instructs us to pull on the weird nubs growing out of Tetron
+			And don't stop even when Tetron screams
+			She shoves a potion in Tetron's mouth as we start pulling
+				It knocks him out
+		She consults her book and declares that Tetron'll be a centaur for the next week
+		We continue to work on keeping Tetron's body from tearing itself apart
+Morning, Sunday, Black Pit Tavern
+	By 8 AM, Tetron's transformation has seemingly completed
+		He a big boy now
+	The druid suggests that we rest
+		Don't strain Tetron today
+		Or the day when he turns back
+			Luckily, it won't hurt as bad
+		She asks for payment: 400 gp
+			Iris takes it out of Tetron's coinpurse
+		She turns to Iris and mentions that the Bellflowers are still waiting on more info on Iris's folks
+			Iris is about to bring up what she's learned lately, but the druid doesn't have it in her to discuss it right now
+	Tetron wakes up
+		He screams in terror
+		Krug claps his face, telling him that it's going to be okay
+	Okay, so now what?
+		We can't exactly go about operations today, since Tetron's indesposed and we're all tired as shit
+		Iris still wants to go do prep for the auction stuff
+			Which doesn't really involve the rest of us, per her reckoning
+		Viola: Well, shouldn't we debrief Alistair first?
+			Oh yeah!
+	Debrief
+		Alistair starts pulling out the stuff
+		Okay, how to deliver?
+			Disguise?
+			Viola: Why disguise?  This is relevant to our specific investigation
+			Coimbitore?
+		We start pouring over the materials
+			Tetron casts Ghost of Lost Works on the burnt paper
+				It ties Cheliff to several extrajudicial imprisonments
+			Iris dips
+			Points of interest
+				Third elder fey escaped into the city
+				Pierce's transfer directly implicated
+				Goods stored at one or more of the map-marked locations
+				We copy the marks to the Pellsieve
+					None of them correspond to any known specific location
+			Viola berates Alistair for taking the Tian armor and weapons
+		After much debate, we finally decide to take the evidence to Buracir first
+Hosetter with Viola and Alistair, mid-morning
+	We ask for Buracir, but she's unavailable until 10
+	So now what?
+		Dunno
+The Roaring Hall with Iris, mid-morning
+	This is where Sloane's place is
+	It's already busy
+	Iris has to weave through a whole bunch of stalls to a stairwell
+		She goes up
+	Iris knocks on the door
+		Sloane wasn't expecting Iris so soon
+			She had just gotten out of the bath
+		Iris asks to speak about the auction
+			Sloane advises that her room isn't soundproof
+				Iris says that our room wouldn't work, on account of Tetron being half-horse
+					wut
+		Sloane lets Iris in, locking the door behind them
+			Sloane was partway through breakfast
+			"This isn't related to Tetron being a horse, no?"
+				Unrelated
+			Iris gives the rundown on what she's learned and asks what Sloane knows
+				She's run the auction before
+				One person parties only
+				She knows what she's selling, but not necessarily others' wares, and definitely not the attendee list
+			Iris's plan is to attack her parents while her grandmother is at the auction
+				Sloane advises that she won't be available to fight if the fight is during the auction
+					She's participating in someone else's stead
+			More details on the auction
+				Sloane pulls out a roll of parchment
+				Gaultier Tinbeard is the presiding auctioneer; the sonsignor is Keenta Tzipora
+				Sloane is selling weapons in place of Yardley Mogglewog
+				Auction is at 1 PM; doors close at 12:50, and no entry or exit until the auction concludes
+				The fey would be either part of the "prestigious stock slave" or "heritage pieces" lot
+			Sloane recommends that one of us who can either read people or object values well participate
+				There's gonna be crazy shit
+				The bid ettiquite here is much more subtle than normal auctions
+					Helpful in determining who won which item
+					Which will be important in seeing whether Iris's grandmother does get the time fey
+			Iris figures that her plan of attacking during the auction may not work after all
+				Given how high-profile Iris's parents are (especially in the wake of the Bain incident), they wouldn't be able to go themselves
+					Which is why her grandmother is involved now, since they wouldn't trust a servant with something this valuable
+			Sloane is bummed that her participation in the auction would preclude her from fighting
+				Yardley is paying for her room in exchange for the service, so she owes him for this
+			Is there another option?
+				...
+				Sloane suddenly turns her head to the door, stands, and creeps over
+					Iris listens
+					There's a man with a scratchy warbly voice speaking so a deep-and-clacky-voiced man
+						"I shall have you know, I am under oath to not give the location of any lots before the auction begins" -warbly
+						"I understand it's not your policy... I was simply asking if it was in the city or an extradimensional plane." -deep
+						"I don't have the authority- [pause] It's in an extradimensional space." -warbly
+						Once the deep-voiced man leaves, the warbly-voiced man worries out loud before walking off
+					Sloane: Looks like someone got something out of Gaultier...
+						She pokes her head out, sees Gaultier's door close, then goes back in
+				Sloane: If one of you wants into the auction, tell me by the end of today
+					As soon as the ballroom doors seal at 12:50, I won't be able to help you
+				Sloane: So what are you thinking?
+					Iris thinks it would be good for her to be at the auction, but she doesn't think she can swing it...
+					Could they even use the fey?  The orb it's in is really heavy
+					Iris: How are goods moved out of the auction hall at the end?
+						Any number of means: extradimensional containers, teleportation, flight, etc
+						The higher value the item, the less likely the buyer is to stick around
+				Sloane: By the way, given how passionate Viola is about anti-slavery, probably don't send her
+					Iris: Yeah...
+						Krug probably feels the same way
+						Alistair is 12
+						And Tetron is both half-horse and a known Taldan noble
+						So has to be my
+				Sloane: How soon after they get the fey do you believe your parents'll stick around
+					Probably leave ASAP
+				Iris: So, we could do it tonight, but we'd be facing all three at once
+					Sloane: Given that they might use the time fey, it might be worth the risk
+					Iris: And then we can just use whatever money they had allocated to buy the fey ourselves
+				So then we need to locate the planar palace...
+					The key doesn't give an indication
+					But... Iris is able to identify that having the key makes the door visible to the holder
+						Also, even though planar palaces come with ethereal servants, her parents always travel with some actual servants
+							And the door would be answered by one of the real servants if awake
+							But she has the key; she might be able to convince an ethereal servant
+								Though all of us rolling up would be sus anyway
+				Iris figures that it's time to consult the rest of us
+					Do you have a Sending scroll?  Makes it faster to inform rather than walking all the way back
+						She offers the full 150 gp for it, but Sloane only takes 100 gp
+					She messages Viola; asks her to fill in the others and Patia
+				Iris asks to stay with Sloane to recuperate
+					Sure
+					She also takes the opportunity to buy some scrolls since she's already at the Roaring Hall
+Hosetter, mid-morning
+	Buracir is finally available to see us
+		She looks well
+		We hear the tail end of the previous conversation
+			Chester still hasn't been located
+		Viola informs Buracir that we got the evidence, and we'd like guidance on how to gracefully present this to the Taldans
+		Buracir quickly clears her desk to receive the info
+		We spend like half an hour pouring over everything
+		She's clearly shaken by the extent of Cheliff's treachery
+		We discuss way forward
+			Best to leverage Buracir's position to get a meeting with Kasaba
+			She gives us a note to pass along to the Admiralty Citadel
+		Someone comes in to inform Buracir of something
+			Viola: Concerning Chester Zenza?
+				Yes, Maj. Zenza received a box containing Chester's tag and a bit of pelt, decorated with Chelaxian red velvet
+					WHICH IS WHAT IRIS SAW LAST NIGHT
+				Viola: We'll mess the Kaulfields up good
+	Viola pops in to inform Patia about the operation
+	Back to the room
+Roaring Hall, evening
+	Iris resting while Sloane is out
+	She wakes up to find Sloane reading something by lamplight
+		Sloane notices Iris rousing immediately
+	Sloane asks Iris about her joining the Radiant Dawn
+		It's Iris's first group
+	Sloane mentions that she's been thinking about what to do next
+		Join an adventuring group?  Not sure if that's her sort of thing
+		Sloane muses that she has business in Oppara with her half-brother
+			Iris: Yeah, we're going there next too
+				But she doesn't actually know the specific reason beyond "fuck with the Aegis Coalition"
+	Iris does daily prep
+Black Pit Tavern, evening
+	We all convene
+	Tetron pulls Sloane aside and asks her if she could help him move better by riding him
+		You'd need to figure out some alternative to a bit and bridle
+		Tetron whips up a rope harness around his shoulders
+
+XP
+--
+16
