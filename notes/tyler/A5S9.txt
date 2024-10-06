@@ -1,0 +1,187 @@
+A5S9
+----
+
+Cutscene, Sunday afternoon
+	Routine op in the Inner Sea
+		Slave galley moving across the water, bearing many prizes from Oppara
+		A sleek vessel moves to approach
+			The slave ship moves among some rocks
+	Later that afternoon
+		Strained combat and questioning
+		Captain Arnault face-to-face with Captain Kaulfield
+		Choice for living Whitewater Spear crew
+			Take WWS back to port in Almas without ill will from Cheliax
+			OR
+			Die
+		Arnault starts to answer, but a winged devil deposits a box next to Abigale
+Sunday evening, Black Pit Tavern
+	Pre-Kaulfield battle planning and prep
+		Iris has Heroism, Tailwind, and Animus Mine all ready to cast on entry
+		Iris has a scroll of Disintegrate loaded into her Retrieval Belt
+			Tetron has Disintegrate prepared as well
+		Iris will carry a scroll and potion in her hands as she steps in
+		Tetron gets his hands on a couple of scrolls of Humanoid Form
+		Viola asks Iris whether she'd prefer the taunting and such to be toned down
+			Iris: Do what it takes to ensure they die, and don't worry about kill-stealing
+		Iris warns that the Kaulfields have a retinue
+			She does plan to give the slaves an opportunity to stand down
+		Tetron: We kicking the door down, or do you want to talk first?
+			Iris: I'd like to give them a piece of my mind first
+	Entry
+		Iris locates the ornate extradimensional door, as the key reveals it
+		Order: Iris, Krug, Viola, Alistair, Sloane, Patia, Tetron
+		We step inside to see a fine but not opulent hallway
+		A door just next to the stairs opens as we finish filing in
+			A friendly-looking Tien man wearing an apron steps out
+				He has a magical collar across his neck and down his arms
+					Tetron is able to identify the collar as one that attaches an individual to a particular house
+						Many varieties, but this one in particular seems to be charged with some offensive spell
+				He wasn't expecting company
+					Iris greets Guangxi by name, confusing him
+						"Are my parents in?  And my grandmother as well?"
+		The conversation between Iris and Guangxi draws out another individual, who seems to have been folding linens
+			They immediately recognize Iris and scans the rest of us
+			"The Kaulfields aren't seeing guests tonight."
+				Iris says that she doesn't expect that they would, but she has some catching up to do
+			They lean in toward Iris and warn that if we're here to fight, we need to spread out, otherwise we need to leave
+		Tetron uses his Humanoid Form
+		Footsteps and drips are audible
+			A knife-twirling individual appears at the top of the stairs
+				She notices all the people downstairs, then shoots a glance to her left
+		Iris moves past Nithbis, giving them a look of "do what you need"
+			"You know I am compelled"
+			Iris responds with a disappointed look
+		We hear a thud from the garden
+		Revana emerges at the top of the stairs
+		Eligor comes in from the garden wet and naked, accompanied by a fourth slave
+			Iris has never seen her father this concerned
+		Rangda opens a door from the terrace at the opposite end of the hall from Eligor
+			She's smug as shit
+			She's the first to speak
+				"Oh, look what crawled in from Cur's Tooth..."
+		Eligor to Iris: You look well.
+		Ravana: What a handsome group you found!
+		Rangda: I imagine you have some trite little speech
+			Iris hopes that they all know why she's here and what she's here for
+		Ravana laughs with delight, which clearly bothers Eligor
+			"Do your best, dear."
+INITIATIVE
+	Iris battle cries at Ravana (success)
+		Ravana frightened 1
+	Round 1
+		Walida applies something to her blade, approaches Patia, then stabs (miss)
+		Viola tumbles past Walida, provoking a reactive strike (hit, plus poison save fail), approaches Eligor, then takes her defensive pose
+			Astringent Venom
+		Iris casts Never Mind on Ravana (save fail)
+			Ravana stupefied 2 for 1 round
+		Eligor glares at Viola (success), punches her (crit), then follows up with another punch that throws her off-balance (hit)
+			Viola frightened 1
+			Viola off-guard until she is no longer frightened
+		Sloane tumbles past Walida, moves to flank Eligor with Viola, then stabs (hit)
+		Tetron pushes a heal spell out to Viola
+		Nithbis is compelled to throw a bottle of gaseous posion into Alistair, Iris, and Tetron (fail, fail, succeed), then approaches Krug
+		Rangda casts Frigid Flurry down the hallway against everyone except Tetron, then casts Shield
+			Crit success: Viola and Alistair
+			Success: Iris
+			Failure: Krug, Patia, and Sloane
+		Alistair tumbles past Walida to engage Eligor with Viola and Sloane, stabs him (hit, hit)
+		Vay approaches Iris, then delivers a hefty strike against Iris (hit, but negated by glimpse)
+		Guangxi fails to tumble past Iris and ends up flanking Patia with Walida, attacks Patia (hit), then applies poison to his weapon
+		Krug pushes Nithbis aside, then charges Rangda shield-up (hit), provoking a reactive strike from Nithbis (crit miss)
+		Ravana casts Chain Lightning on Tetron and Iris, then fumbles a spell
+			No longer stupefied
+			Still frightened 1 due to not overcoming Iris
+		Patia leaps with the springs in her legs over the crowd, fails to go into Overdrive, then shoots at Rangda (fail)
+	Round 2
+		Walida moves to flank Viola with Eligor, stabs Viola (hit), then threatens Viola to leave
+		Viola taunts Eligor about Abigale's ship, stabs Eligor (hit), then takes her defensive pose
+			Astringent Venom stage 2
+		Iris uses her mirror to put a duplicate next to Ravana, empowers herself with her empty vial from Serum of Sex Shift, then stabs (crit, hit)
+			Terror Spore stage 2
+		Eligor unleashes the magic in his tattoos, slashes at Alistair (miss), then makes a combo attack against Viola and Sloane (hit, hit)
+			Viola 1d6 persistant bleed
+			Sloane 1d6 persistant bleed
+		Sloane takes out a potion and chugs it, then stabs Eligor (hit), but the tattoos resist the attack entirely
+		Tetron casts Chain Lightning at Vay (success), Guangxi (fail), Walida (fail), and Eligor (success), then quick-casts Acid Grip on Eligor (crit save)
+		Nithbis emerges from the doorway Krug shoved them through, resists the collar, grabs Patia to shove her into the room instead, then closes the door
+		Rangda casts a spell at Krug (crit save), then crit misses with a Divine Lance
+		Alistair stabs at Eligor (miss), then casts Ignition (miss)
+		Vay steps to flank Iris with Ravana, applies a poison to their blade, then stabs Iris (hit, poison resisted), and Iris's duplicate vanishes (damaging Ravana and Vay)
+		Guangxi approaches Iris, makes a heavy strike at her (hit, poison resist fail)
+			Iris magebane stage 1
+		Krug slashes at Rangda (crit miss, miss), then raises his shield
+		Ravana casts a spell at Iris (miss), then pulls out a potion
+			No longer frightened
+		Patia opens the door, then shoots Nithbis (hit), then reloads
+	Round 3
+		Walida stabs Viola (miss, crit miss with successful riposte, miss)
+		Viola uses her cape to port to Krug, pulls out a potion
+			Dying 2
+			Astringent Venom stage 3
+		Iris recovers from the terror spore, stabs Ravana (crit, crit), which causes some electricity to splash on Vay, killing Ravana
+		Eligor analyzes Alistair's fighting style to better defend himself, takes a obstructive stance, then strikes Alistair (hit)
+		Sloane tumbles past Eligor to approach Walida, stabs (crit), killing Walida, then stabs Eligor (miss)
+		Tetron casts Chain Lightning on Rangda (save), Nithbis (fail), Guangxi (crit fail, fatal), and Vay (save), then retreats into the kitchen
+		Nithbis approaches Viola, smacks her (crit, hit)
+			Viola burns a hero point to survive
+			Viola dying 2
+		Rangda casts a spell in a cone, hitting Krug (fail), Viola (save), and Nithbis (fail), then casts another spell on Krug (crit save)
+			Viola dying 3
+		Alistair moves to flank Vay with Iris, then spellstrikes with a Gouging Claw (crit), obliterating Vay
+			Alistair frightened 3
+		Krug LoHs Viola, slashes Rangda (miss), the raises his shield
+			Viola wounded 1
+		Patia steps out the door, shoots Rangda (miss), reload
+	Round 4
+		Viola kips up, chugs the pot, picks up her sword, then takes defensive pose
+			Persistant bleed, Astringent Venom stage 3
+		Iris pulls and chugs a pot, moves up to support Sloane, then empowers herself against Eligor with the blood of his dead wife
+		Eligor strikes Sloane (crit, hit), then compliments Iris
+		Sloane analyzes Eligor to adapt her defenses, then casts a spell to immobilize Eligor
+		Tetron moves back out to the hallway, then casts Chain Lightning on Rangda (save) and Nithbis (fail)
+			Iris calls out to leave Nithbis alive
+		Nithbis fails to resist the collar, approaches Viola, then makes a heavy attack against Viola (hit, glimpsed)
+		Rangda casts a spell in a line that covers half the hallway, downing Viola and killing Nithbis, applies an omen to Viola, then casts Shield
+			Viola dying 2
+			Foretell harm on Viola
+			Cursebound 1
+		Alistair runs over to Viola, pulls out and uses a clockwork heal grenade on himself, Viola, and Krug
+			Terror Spores stage 1
+			Viola wounded 2
+		Krug uses his Bracers of Devotion to get an extra LoH on Viola (Warmthed), strikes Rangda (hit), then raises his shield
+		Patia pulls a potion and feeds it to Tetron, then ducks into a side room
+	Round 5
+		Iris makes a duplicate to flank Eligor, then stabs repeatedly (crit, crit, miss)
+		Eligor is paralyzed, but he analyzes Iris's stance for defense
+		Sloane stabs Eligor (hit), killing him, then runs over to the remaining fight with Rangda
+		Tetron gives Taranis a pot to send over to Viola
+			Viola's Astringent Venom stage 2
+		Viola opens the door next to her, darts inside, then takes cover
+			Viola recovers from Astringent Venom
+		Rangda casts Invisibility
+		Alistair delays
+		Krug delays
+		Patia moves over to the patio to find the invisible Rangda cowering in the corner and shoots her (hit)
+		Alistair moves up and uses his wayfinder to shoot a lightning bolt in the direction Patia shot, shocking Rangda
+	Round 6
+		Iris runs over, and locates Rangda
+			"This befits you, you know"
+		Sloane takes out a pot and feeds it to Tetron, then advances into the room Viola's hiding in
+		Tetron hastes Krug, then casts Shield
+		Krug approaches Rangda's space, finds her, points her out, then smacks her (hit)
+		Viola opens the door for Sloane, then retreats all the way to the kitchen
+		Rangda casts a mental spell, which sets off Iris's Animus Mine (Iris crit saves, Patia save, Krug and Alistair fail, glimpsed), then 
+			"Stupid idiot, killing me here does nothing for you.  And I will die knowing that whatever effort you makes absolutely no difference in your absolutely squalid life."
+		Krug counterstrikes Rangda (miss), follows up (miss, miss)
+		Patia pulls a fistful of gunpowder out of her cannon and tosses it at Rangda, revealing her, then throws a lit match at her
+		Alistair pulls out his bow and shoots Rangda (miss, hit)
+	Round 7
+		Iris pops out the scroll of disintegrate (crit), fucking dusting her
+			"My life is the future of the Kaulfield family.  I want that to be your last thought."
+Post-combat
+	Iris casts Sending to Abigale: "Our progenitors have fallen by my hand... You're next Gale"
+		Response: [chuckles] "Even when you got out from under Mother's shoe, I see that you've been following the path like a good little son.  So, you've been busy.  Me too.  Fire."
+
+XP
+--
+180
