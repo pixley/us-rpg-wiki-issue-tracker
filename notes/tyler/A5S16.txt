@@ -1,0 +1,208 @@
+A5S16
+-----
+
+Oathday, 29 Lamashan, Late Morning
+	At the Loin and Tallow
+		Jimenez holds up a piece of paper to show the cops
+			It's a proof of purchase
+			The police give it a look
+				But her patronage to Ted Hoffman is still valid
+				So that's a 100 gp fine
+		Alistair points out that there's more to Jimenez's wrongdoing
+			On account of selling bodies to Marina's Catch
+			He offers to go get the guards who took the madame
+				Main point is that Jimenez could be a flight risk
+				His argument falls flat - they won't detain Jimenez without a warrant
+				Alistair doubles down, pointing out that the madame is the other party to the illegal purchase
+			Alistair bails to go get the other cops anyway
+		Meanwhile, Jimenez is chatting with the guards
+			He's moving his hand around under the counter
+				Tetron can't see what's going on from our angle, so he moves around to see
+				Tetron catches the final movements of what's definitely a spell
+					He calls out to get down
+INITIATIVE
+	Iris reacts to Tetron's callout with a death glare
+	Round 1
+		Viola tackles the cops to the ground and then takes her parry stance
+		Iris analyzes Jimenez, calls out that he's casting a spell, then stabs (miss, crit)
+			No weakness, conjuration spell pending
+			Frightened 1
+		Jimenez drops off the counter with a stomp, casts a different spell: translocate, which has the added effect of hitting all of us with diabolic energy, then climbs up a pipe
+		Tetron activates his winged boots, casts haste on Viola on her request
+		Krug helps up the guards and carries them to safety
+	Round 2
+		Viola poofs up to the room where Jimenez is just climbing up, crit-feints, then hits him with a non-lethal finisher
+		Iris steps outside, makes a dupe, and stabs Jimenez
+		Jimenez tries to run, but Iris interrupts him with a stab to a major artery, killing him
+After combat
+	We start arguing about Iris killing Jimenez
+		There are about a dozen civilians around
+	Alistair returns with those other cops to find our scene
+	We get led away by the police to Greyguard
+At Greyguard
+	We sit outside Dupont's office for several hours
+	He was at the tribunal
+	He's not happy to see us
+	He gestures us in
+		We GOTTA stop the extrajudicial kidding
+After Dupont tells us off
+	Tetron goes off to rumor-monger to make us sound better in the Jimenez situation
+	Alistair goes to scope Jimenez's shop
+		No guards
+		He goes in to scoop up incriminating documents
+			In through the back first
+				Someone's here - Jimenez's son
+					But he's asleep
+				Alistair finds a small back office space
+					Metal door
+					No windows to exterior
+					Trapped?  The keyhole is actually false - it's a trap!
+					So how to open the door, then?
+						Well, there're records to the side of the door
+							Looking for incriminating stuff plus any mechanism
+							Ledgers for procurement of bodies and such
+						How about the nearby freezers?
+							One has a lock (labelled "exotic meats")
+								He picks it open
+								No meat, instead a tunnel down
+					Inside the back office
+						It's refrigerated in here
+						Infernal shrine, work surface, paperwork, correspondence, diabolic paperwork, locket inside a glass case
+							That locket looks evil - maybe leave it alone
+						What about valuables?
+							Four bars of some metal
+								But he doesn't know what it is
+							Folder containing paperwork and 300 gp (as a check)
+							Grey bag of crushed velvet
+								Something clacky inside
+									Sounds gemmy
+								An evil gasping sound emits as he opens the bag
+									And there are diamonds, big ones at that
+								He takes the bag
+						He takes the locket case, rather than opening it
+							It leaves an obvious dustless area
+								Prestidigitation fixes that
+					Alistair leaves, the kid stays asleep
+		Back outside
+			Alistair has that same feeling of something approaching him that he felt after Cheliff's apartment
+				A creepy voice: "Hair like wheat!  We just want to talk!"
+				But he can't see whatever is producing the voice
+				Alistair makes a break for it
+Black Pit Tavern
+	Alistair appears, winded
+		He rattles off finding stuff at Jimenez's place and an angry spirit
+			Viola suggests talking to Iris about it
+				Later, then
+			Alistair gives Tetron stuff to identify
+				The locket has containment magic in it, and something is within
+				Tetron has seen something of this metal's make for the first time recently
+				The center of each diamond has some slight discoloration
+					Could be fakes, altered, etc...
+					The evil gasping sound is still faintly audible
+					Can't identify it, but he figures that it's unsuitable for rezzing
+	Meanwhile, Iris is venting to Sloane about being "persecuted" over how she handled Jimenez
+		No argument from Sloane
+		Sloane hasn't interfaced with Jimenez herself, but she's done work around Capra, and she doesn't have a high opinion of them either
+		Sloane asks what memory Iris has been using to focus when trying to maintain the mirror
+			Losing her arm, since that's the worst pain ever, and everything else is like a pin-prick in comparison
+				Keeps things in focus - eyes on the prize: killing Abigale
+	Tetron gives us the heads-up that tomorrow night is when he turns back
+	Borgon complains about Timpani
+		She hasn't done anything wrong, but her joy pisses him off
+	Iris comes over
+		She lets Borgon stay over if it'll shut him up
+		She gives her defense of how she handled Jimenez
+			It's not like any of us are really upset
+			Alistair mentions the diabolic shrine
+				THANK YOU
+		She looks at the locket
+			It's saying something, but very faintly, but in a language we don't know
+			Tetron casts Translate
+				The words are in Celestial
+				"Can you hear me?  Are you listening?"
+					He nods
+					He asks if it can understand Common
+						It does
+					Interview questions
+						Name: Samuel
+						What happened: Some otherworldly being trapped it
+							It wants to get back to a crossroads
+								Near Slatedown
+									That's where the Murkback Keep mercs went
+							It's a feminine-presenting entity that hungers for the arcane
+								OH FUCK IT WAS KASISSA...
+								Do we risk pissing her off?
+									We're in a demi-plane, so she likely wouldn't get alerted
+				Alistair checks for traps
+					Nope, but the box is magically closed
+					Tetron's got it
+						It's a system of magical tradition labels and incantations for relevant spells
+						Box is open
+					Tetron opens the locket
+						He hears Kasissa's voice as it opens
+							She acknowledges how close we are to her location
+			The guy pops out
+				He's gonna jet, but he offers us a boon in the meantime
+					Tetron: If you can find some way to dissuade Kasissa from coming after us, that'd be awesome
+						She's gonna stay there for a while
+							She's eating away at the border between planes, gaining power
+							It was the site of a major battle in which Aroden participated
+					Where did the locket come from?
+						House Karthis, then House Deschamps
+							Tetron: What intel do you have on Deschamps?
+								Nothing we don't already know
+						What about Jimenez?
+							Samuel saw his activity with the infernal shrine
+								He brought Jalina in there twice...
+					He gives us a waystone, speaks his testimony into it, then hands it over to Tetron
+					Alistair asks whether he saw anything from the Spacious Pouch
+						Only darkness
+						So nothing on the looming spirit, then
+							Yup
+							Quick scan: it's not here
+					He heads out
+Evening of Fireday, 30 Lamashan
+	We've been at the tribunal all day
+		Though we did drop off the evidence against Jimenez
+	Tetron's transformation is slowly beginning
+		He takes the stuff he got from the Great Eye
+		Krug is ready with LoH
+		Cyrus holding Tetron's hand
+		Pain and agony
+		He can feel the lack of the primal power
+	Back to normal
+		But he can feel the urge...
+		Tetron may now cast primal spells from scrolls and such (DC 5 flat check)
+		Krug picks him up and cleans him off
+Late morning of Starday, 31 Lamashan
+	Cyrus has gotten a head-start on Tetron's morning prep
+	Tetron and Cyrus sort out their own room
+	Today is the Vaylen/Prialla Funeral
+		Streets starting to fill with respects-payers
+	Someone's waiting for us outside the tavern
+		Taldan soldier
+		Samuel's testimony has fully bopped Jimenez
+		We're entirely off the hook
+		Tetron: What's the status of the orphan?
+			When found, he explain that he had been adopted by Jimenez
+			So many orphans these days...  Might get taken in over here.  Might get taken in across the river.  Might end up in Cur's Tooth.
+			Tetron advises that they keep an eye out, given that he may retaliate, either in confusion or intentionally
+		Tetron: Can we have the waystone back?
+			Shouldn't we keep it on file?
+				Could transcribe it
+			She'd had to ask Dupont
+	Alistair finds a blacksmith to help identify the metal ingots
+		It catches his interest
+			He has to do material tests to properly identify
+				Except they don't indicate anything in particular
+			So he brings it over to some stringed magical device
+		Dude's surprised that a local villain would have something like this
+		It's rare, adamantine-adjacent, crafted over ley lines
+			Divine-resistant, can mute or eccentuate magic
+			[OOC note: this is what the blue slave had on them]
+			Doesn't know the name or value
+			Warning: don't advertise that you have this
+
+XP
+--
+30
